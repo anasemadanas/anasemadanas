@@ -2,9 +2,9 @@
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anas Emad
 </h1>
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF732&width=300&lines=Welcome+To+My+Github+Profile+;Junior+Full+Stack+Developer;Full+Stack+Developer;Cybersecurity+%26+Malware+Analysis+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF732&width=600&lines=Welcome+To+My+Github+Profile+;Junior+Full+Stack+Developer;Cybersecurity+%26+Malware+Analysis+Learner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,6 +22,9 @@
 🔐 Interested in **Cybersecurity & Malware Simulation**  
 
 🌱 Always learning and exploring **Advanced .NET, Node.js, Web Development, and System Programming**  
+
+
+
 
 ---
 
@@ -41,6 +44,22 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"></a>
 </p>
 
+---
+
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgrammingLanguages" : { "C++", "C#", "Java", "Python", "JavaScript" },
+    "OtherLanguages" : { "HTML", "CSS", "SQL" },
+    "Database" : { "SQL Server" },
+    "Editors" : { "Visual Studio", "Visual Studio Code", "NetBeans", "PyCharm" },
+    "Platforms" : { "Windows", "Linux" },
+    "OtherTools" : { "Git", "VMware" }
+  };
+}
+```
 ---
 
 ## 📱 Social

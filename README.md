@@ -103,12 +103,6 @@ class AboutMe extends Me {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/anasemadanas/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

@@ -11,6 +11,49 @@
 ---
 
 ## 👤 About Me
+
+```dart
+
+class AboutMe extends Me {
+  const personalInfo = {
+    "FullName": "Anas Emad",
+    "Title": "Junior Full Stack Developer & Cybersecurity Learner",
+    "Email": "anasemadanas1@gmail.com",
+    "Social": {
+      "LinkedIn": "https://www.linkedin.com/in/eng-anasemad",
+      "Reddit": "https://www.reddit.com/",
+      "StackOverflow": "https://stackoverflow.com/"
+    },
+    "Experience": [
+      "Developed scalable .NET applications",
+      "Built console-based games and web apps",
+      "Solved 1000+ algorithmic coding challenges"
+    ],
+    "Education": [
+      "Bachelor's in Computer Science (or your degree info here)"
+    ],
+    "Skills": {
+      "ProgrammingLanguages" : { "C++", "C#", "Java", "Python", "JavaScript" },
+      "OtherLanguages" : { "HTML", "CSS", "SQL" },
+      "Database" : { "SQL Server" },
+      "Editors" : { "Visual Studio", "Visual Studio Code", "NetBeans", "PyCharm" },
+      "Platforms" : { "Windows", "Linux" },
+      "OtherTools" : { "Git", "VMware" },
+      "Interests": { "Cybersecurity", "Malware Simulation" }
+    },
+    "Objectives": [
+      "Master Advanced .NET and Node.js",
+      "Explore Web Development & System Programming",
+      "Enhance Cybersecurity & Malware Analysis skills"
+    ]
+  };
+}
+```
+
+---
+
+## 🎬 Interests / Learning
+
 💻 I'm a passionate **.NET Developer** with strong skills in **C++, C#, and Java**  
 
 🚀 Focused on building **Scalable Systems**, **Web Applications**, **Console-based Games**, and **Algorithmic Solutions**  
@@ -46,22 +89,6 @@
 
 ---
 
-```dart
-// tools_I_use organized
-
-class About extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages" : { "C++", "C#", "Java", "Python", "JavaScript" },
-    "OtherLanguages" : { "HTML", "CSS", "SQL" },
-    "Database" : { "SQL Server" },
-    "Editors" : { "Visual Studio", "Visual Studio Code", "NetBeans", "PyCharm" },
-    "Platforms" : { "Windows", "Linux" },
-    "OtherTools" : { "Git", "VMware" }
-  };
-}
-```
----
-
 ## 📱 Social
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasemadanas1@gmail.com)
@@ -75,6 +102,13 @@ class About extends Me {
 ## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/anasemadanas/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

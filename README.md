@@ -50,6 +50,18 @@ class AboutMe extends Me {
 }
 ```
 
+```cpp
+// Focused on mastering the stack
+
+class AnasEmad{
+public:
+  string university = "ZU University";
+  string track = "Full Stack Developer";
+  string focus = "Problem Solving & Building Projects";
+  void Welcome() { cout << "Thanks for visiting my profile! 🚀"; }
+};
+```
+
 ---
 
 ## 🎬 Interests / Learning

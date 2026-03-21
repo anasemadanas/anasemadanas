@@ -30,7 +30,7 @@ class AboutMe extends Me {
       "Solved 1000+ algorithmic coding challenges"
     ],
     "Education": [
-      "Bachelor's in Computer Science (or your degree info here)"
+      "Bachelor's in Computer Science"
     ],
     "Skills": {
       "ProgrammingLanguages" : { "C++", "C#", "Java", "Python", "JavaScript" },
@@ -42,7 +42,7 @@ class AboutMe extends Me {
       "Interests": { "Cybersecurity", "Malware Simulation" }
     },
     "Objectives": [
-      "Master Advanced .NET and Node.js",
+      ".NET and Node.js",
       "Explore Web Development & System Programming",
       "Enhance Cybersecurity & Malware Analysis skills"
     ]
@@ -50,17 +50,6 @@ class AboutMe extends Me {
 }
 ```
 
-```cpp
-// Focused on mastering the stack
-
-class AnasEmad{
-public:
-  string university = "ZU University";
-  string track = "Full Stack Developer";
-  string focus = "Problem Solving & Building Projects";
-  void Welcome() { cout << "Thanks for visiting my profile! 🚀"; }
-};
-```
 
 ---
 

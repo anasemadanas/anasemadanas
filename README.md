@@ -102,7 +102,7 @@ class AboutMe extends Me {
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark)](https://github.com/anasemadanas)
 
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -116,4 +116,4 @@ Credit: [Anas Emad](https://github.com/anasemadanas/)
 </p>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdel-rahmanSalem&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=dark)

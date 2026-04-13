@@ -99,7 +99,8 @@ class AboutMe extends Me {
 ---
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&langs_count=8&theme=dark&hide_border=true)](https://github.com/anasemadanas)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasemadanas\&show_icons=true\&theme=tokyonight)
+
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 

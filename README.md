@@ -23,8 +23,8 @@ class AboutMe extends Me {
     "Email": "anasemadanas1@gmail.com",
     "Social": {
       "LinkedIn": "https://www.linkedin.com/in/eng-anasemad",
-      "Reddit": "https://www.reddit.com/",
-      "StackOverflow": "https://stackoverflow.com/"
+      "Reddit": "[https://www.reddit.com/](https://www.reddit.com/user/anasemadanas1/)",
+      "StackOverflow": "[https://stackoverflow.com/](https://stackoverflow.com/users/32631412/anas-emad)"
     },
     "Experience": [
       "Developed scalable .NET applications",

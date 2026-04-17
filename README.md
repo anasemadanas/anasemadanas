@@ -17,32 +17,37 @@ Anas Emad is a Junior Full Stack Developer specializing in .NET, C#, Java, and C
 ```dart
 
 class AboutMe extends Me {
-  const personalInfo = {
+  final Map<String, dynamic> personalInfo = {
     "FullName": "Anas Emad",
     "Title": "Junior Full Stack Developer & Cybersecurity Learner",
-    "Email": "anasemadanas1@gmail.com",
+    "Email": "mailto:anasemadanas1@gmail.com",
+
     "Social": {
       "LinkedIn": "https://www.linkedin.com/in/eng-anasemad",
-      "Reddit": "[https://www.reddit.com/](https://www.reddit.com/user/anasemadanas1/)",
-      "StackOverflow": "[https://stackoverflow.com/](https://stackoverflow.com/users/32631412/anas-emad)"
+      "Reddit": "https://www.reddit.com/user/anasemadanas1/",
+      "StackOverflow": "https://stackoverflow.com/users/32631412/anas-emad"
     },
+
     "Experience": [
       "Developed scalable .NET applications",
       "Built console-based games and web apps",
       "Solved 1000+ algorithmic coding challenges"
     ],
+
     "Education": [
       "Bachelor's in Computer Science"
     ],
+
     "Skills": {
-      "ProgrammingLanguages" : { "C++", "C#", "Java", "Python", "JavaScript" },
-      "OtherLanguages" : { "HTML", "CSS", "SQL" },
-      "Database" : { "SQL Server" },
-      "Editors" : { "Visual Studio", "Visual Studio Code", "NetBeans", "PyCharm" },
-      "Platforms" : { "Windows", "Linux" },
-      "OtherTools" : { "Git", "VMware" },
-      "Interests": { "Cybersecurity", "Malware Simulation" }
+      "ProgrammingLanguages": {"C++", "C#", "Java", "Python", "JavaScript"},
+      "OtherLanguages": {"HTML", "CSS", "SQL"},
+      "Database": {"SQL Server"},
+      "Editors": {"Visual Studio", "Visual Studio Code", "NetBeans", "PyCharm"},
+      "Platforms": {"Windows", "Linux"},
+      "OtherTools": {"Git", "VMware"},
+      "Interests": {"Cybersecurity", "Malware Simulation"}
     },
+
     "Objectives": [
       ".NET and Node.js",
       "Explore Web Development & System Programming",

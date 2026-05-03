@@ -190,12 +190,7 @@ class AboutMe extends Me {
 
 ---
 
-## 👀 Visitors
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anasemadanas" />
-</p>
 
----
 
 ## 🔥 GitHub Streak
 
@@ -211,6 +206,13 @@ Credit: [Anas Emad](https://github.com/anasemadanas/)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anasemadanas&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 </p>
+
+---
+## 👀 Visitors
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anasemadanas" />
+</p>
+---
 
 ## 🐍 Contribution Snake
 

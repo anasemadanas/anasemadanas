@@ -186,7 +186,7 @@ class AboutMe extends Me {
 
 ## 🧠 Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20poetry" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
@@ -202,7 +202,7 @@ class AboutMe extends Me {
   <img src="https://visitor-badge.laobi.icu/badge?page_id=anasemadanas" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anasemadanas" target="_blank">
     <img src="https://img.shields.io/badge/Credit-Anas%20Emad-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>

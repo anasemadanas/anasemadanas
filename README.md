@@ -115,9 +115,20 @@ class AboutMe extends Me {
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasemadanas\&layout=compact\&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark)
 
-<img src="https://github-readme-stats.vercel.app/api?username=anasemadanas&show_icons=true&theme=radical" />
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anasemadanas&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=radical" />
+</p>
+
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 

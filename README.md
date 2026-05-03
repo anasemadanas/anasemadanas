@@ -74,8 +74,18 @@ class AboutMe extends Me {
 
 🌱 Always learning and exploring **Advanced .NET, Node.js, Web Development, and System Programming**  
 
+---
 
+## 👨‍💻 Other
+- 💻 Django Developer
+- 📊 Building Money Manager App
+- 🧠 Learning Backend & Databases
 
+---
+
+## 🚀 Projects
+- 💰 Expense Track (Django)
+  
 
 ---
 
@@ -118,12 +128,8 @@ class AboutMe extends Me {
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasemadanas\&layout=compact\&theme=dark)
 
 ---
-## 📊 GitHub Stats
+## 📊 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasemadanas&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=radical" />

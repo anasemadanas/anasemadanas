@@ -115,7 +115,7 @@ class AboutMe extends Me {
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasemadanas\&layout=compact\&theme=dark)
 
 ---
 ## 📊 GitHub Stats

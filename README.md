@@ -130,7 +130,7 @@ class AboutMe extends Me {
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasemadanas\&layout=compact\&theme=dark)
 
 ---
-## 📊 Top Languages
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=dark)
 
@@ -145,5 +145,7 @@ Credit: [Anas Emad](https://github.com/anasemadanas/)
   <img src="https://komarev.com/ghpvc/?username=anasemadanas&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+## 🐍 Contribution Snake
 
+![snake gif](https://github.com/anasemadanas/anasemadanas/blob/output/github-contribution-grid-snake.svg)
 

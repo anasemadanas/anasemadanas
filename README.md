@@ -156,8 +156,16 @@ class AboutMe extends Me {
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasemadanas\&layout=compact\&theme=dark)
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=dark)
+
+> ⚠️ **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 ---
 
 ## 📈 Activity Graph
@@ -190,22 +198,8 @@ class AboutMe extends Me {
 
 ---
 
-
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=dark)
-
-
-> ⚠️ **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-Credit: [Anas Emad](https://github.com/anasemadanas/)
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anasemadanas&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Credit-Anas%20Emad-blue?style=for-the-badge&logo=github" />
 </p>
 
 ---

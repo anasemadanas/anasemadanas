@@ -230,10 +230,8 @@ class AboutMe extends Me {
 <!-- AI Tools -->
 <img src="https://img.shields.io/badge/Ollama-Local%20LLM%20Runner-black?style=for-the-badge&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/AI%20Models-LLMs-blue?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/KoboldCPP-Local%20Inference-purple?style=for-the-badge" />
 </p>
-
----
 
 ### 🧠 LLMs & Models Experience
 
@@ -243,6 +241,17 @@ class AboutMe extends Me {
 <img src="https://img.shields.io/badge/DeepSeek-Coder-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Llama-Models-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Mistral-AI-gray?style=for-the-badge" />
+
+</p>
+
+### 🌐 AI APIs & Platforms
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/OpenRouter-AI%20Gateway-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-Models-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Together%20AI-LLM%20API-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Groq-LLM%20Inference-red?style=for-the-badge" />
 
 </p>
 

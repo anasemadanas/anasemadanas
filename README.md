@@ -210,7 +210,7 @@ class AboutMe extends Me {
 
 </p>
 
-### 💻 Programming Skills (Badges Style)
+### 💻 Programming Skills 
 
 <p align="left">
 

@@ -107,6 +107,13 @@ class AboutMe extends Me {
 
 ---
 
+## 🏆 GitHub Trophies  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anasemadanas&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasemadanas\&layout=compact\&theme=dark)
 

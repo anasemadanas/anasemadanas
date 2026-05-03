@@ -147,5 +147,5 @@ Credit: [Anas Emad](https://github.com/anasemadanas/)
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/anasemadanas/anasemadanas/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/anasemadanas/anasemadanas/output/snake.svg)
 

@@ -90,7 +90,6 @@ class AboutMe extends Me {
   
 
 ---
-
 ## 🛠 Skills
 
 ### 💻 Programming Languages
@@ -103,50 +102,32 @@ class AboutMe extends Me {
 
 ### ⚙️ Backend Development
 <p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" alt=".NET"></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django"></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" alt=".NET">
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django">
+  </a>
 </p>
 
 ### 🌐 Frontend Development
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"></a>
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server"></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"></a>
-</p>
-
-### 🛠 Tools & Platforms
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"></a>
-</p>
-<p align="left">
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server">
   </a>
-
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="40" alt="Wireshark">
-  </a>
-
-  <a href="https://www.cisco.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" width="40" alt="Cisco">
-  </a>
-
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Fabric (Python)">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL">
   </a>
 </p>
 
-### 🧑‍💻 IDEs
-
+### 🧑‍💻 IDEs & Development Tools
 <p align="left">
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio">
@@ -156,21 +137,55 @@ class AboutMe extends Me {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code">
   </a>
 
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm">
+  </a>
+
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA">
+  </a>
+
   <a href="https://netbeans.apache.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="40" alt="NetBeans">
   </a>
 
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm">
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" alt="Google Colab">
   </a>
 </p>
 
-### Others
-
+### 🛠 Tools & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/MCSA-Microsoft%20Certified-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"></a>
 </p>
 
+### 🌐 Networking & Security Tools
+<p align="left">
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="40" alt="Wireshark">
+  </a>
+
+  <a href="https://www.cisco.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" width="40" alt="Cisco">
+  </a>
+</p>
+
+### 📜 Certifications & Courses
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/MCSA-Microsoft%20Certified-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/MCSE-Microsoft%20Certified-red?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Amazon%20Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA%20A%2B-IT%20Fundamentals-red?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA%20Security%2B-Cybersecurity-darkgreen?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-purple?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+</p>
 ---
 
 ## 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">

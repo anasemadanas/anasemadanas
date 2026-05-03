@@ -1,10 +1,12 @@
 # Anas Emad - Software Developer
 
-Anas Emad is a Junior Full Stack Developer specializing in .NET, C#, Java, and Cybersecurity.
+
 
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anas Emad
 </h1>
+
+🚀 Backend Developer (Multi-stack: .NET + Python/Django, Java) | Cybersecurity Learner
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF732&width=600&lines=Welcome+To+My+Github+Profile+;Junior+Full+Stack+Developer;Cybersecurity+%26+Malware+Analysis+Learner" alt="Typing SVG" />
@@ -84,7 +86,7 @@ class AboutMe extends Me {
 ---
 
 ## 🚀 Projects
-- 💰 Expense Track (Django)
+- 💰 Expense Track (Django) — Personal finance manager web app
   
 
 ---

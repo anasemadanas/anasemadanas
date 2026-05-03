@@ -1,6 +1,6 @@
 # Anas Emad - Software Developer
 
-
+💡 Passionate about building real-world backend systems & secure applications
 
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anas Emad
@@ -142,11 +142,10 @@ Credit: [Anas Emad](https://github.com/anasemadanas/)
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anasemadanas&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://komarev.com/ghpvc/?username=anasemadanas&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 </p>
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/anasemadanas/anasemadanas/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/anasemadanas/anasemadanas/output/github-contribution-grid-snake.svg)
 

@@ -127,6 +127,49 @@ class AboutMe extends Me {
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"></a>
 </p>
+<p align="left">
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA">
+  </a>
+
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="40" alt="Wireshark">
+  </a>
+
+  <a href="https://www.cisco.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" width="40" alt="Cisco">
+  </a>
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Fabric (Python)">
+  </a>
+</p>
+
+### 🧑‍💻 IDEs
+
+<p align="left">
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio">
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code">
+  </a>
+
+  <a href="https://netbeans.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="40" alt="NetBeans">
+  </a>
+
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm">
+  </a>
+</p>
+
+### Others
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MCSA-Microsoft%20Certified-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
 ---
 
@@ -193,15 +236,12 @@ class AboutMe extends Me {
   <img src="https://ghchart.rshah.org/anasemadanas" />
 </p>
 
----
-
 <p align="left">
   <a href="https://github.com/anasemadanas" target="_blank">
     <img src="https://img.shields.io/badge/Credit-Anas%20Emad-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
 
 ## 🐍 Contribution Snake
 

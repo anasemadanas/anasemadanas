@@ -174,6 +174,11 @@ class AboutMe extends Me {
   <img src="https://img.shields.io/github/stars/anasemadanas?style=for-the-badge" />
 </p>
 
+## 👀 Visitors
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anasemadanas" />
+</p>
+
 ---
 
 ## 🧠 Dev Quote
@@ -189,17 +194,12 @@ class AboutMe extends Me {
 </p>
 
 ---
-## 👀 Visitors
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anasemadanas" />
-</p>
 
 <p align="left">
   <a href="https://github.com/anasemadanas" target="_blank">
     <img src="https://img.shields.io/badge/Credit-Anas%20Emad-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 
 ---
 

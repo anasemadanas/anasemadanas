@@ -223,6 +223,31 @@ class AboutMe extends Me {
 
 ---
 
+### 🤖 AI & Machine Learning Tools
+
+<p align="left">
+
+<!-- AI Tools -->
+<img src="https://img.shields.io/badge/Ollama-Local%20LLM%20Runner-black?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Models-LLMs-blue?style=for-the-badge" />
+
+</p>
+
+---
+
+### 🧠 LLMs & Models Experience
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Qwen-2.5%20Coder-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DeepSeek-Coder-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Llama-Models-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mistral-AI-gray?style=for-the-badge" />
+
+</p>
+
+---
+
 ## 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasemadanas1@gmail.com)

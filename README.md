@@ -78,10 +78,12 @@ class AboutMe extends Me {
 
 ---
 
-## 👨‍💻 Other
+## 👨‍💻 Info
 - 💻 Django Developer
 - 📊 Building Money Manager App
 - 🧠 Learning Backend & Databases
+- 🚀 Interested in Full Stack & Cloud Development
+- 🔗 Exploring AI integrations with backend systems
 
 ---
 

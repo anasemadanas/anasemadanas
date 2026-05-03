@@ -199,9 +199,10 @@ class AboutMe extends Me {
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Credit-Anas%20Emad-blue?style=for-the-badge&logo=github" />
+  <a href="https://github.com/anasemadanas" target="_blank">
+    <img src="https://img.shields.io/badge/Credit-Anas%20Emad-blue?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 ## 👀 Visitors

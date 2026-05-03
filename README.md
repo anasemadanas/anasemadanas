@@ -93,17 +93,46 @@ class AboutMe extends Me {
 
 ## 🛠 Skills
 
+### 💻 Programming Languages
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"></a>
   <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#"></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" alt=".NET"></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"></a>
+</p>
+
+---
+
+### ⚙️ Backend Development
+<p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" alt=".NET"></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django"></a>
+</p>
+
+---
+
+### 🌐 Frontend Development
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"></a>
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"></a>
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+<p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"></a>
 </p>
 
@@ -130,6 +159,44 @@ class AboutMe extends Me {
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasemadanas\&layout=compact\&theme=dark)
 
 ---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" />
+</p>
+
+---
+
+## 🏅 Badges
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anasemadanas&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/anasemadanas?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/anasemadanas?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🔥 Contribution Calendar
+<p align="center">
+  <img src="https://ghchart.rshah.org/anasemadanas" />
+</p>
+
+---
+
+## 👀 Visitors
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anasemadanas" />
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=dark)

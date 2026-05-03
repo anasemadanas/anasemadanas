@@ -112,9 +112,21 @@ class AboutMe extends Me {
 
 ### 🌐 Frontend Development
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML">
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS">
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">
+  </a>
+
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React">
+  </a>
 </p>
 
 ### 🗄️ Databases
@@ -152,6 +164,11 @@ class AboutMe extends Me {
   <a href="https://colab.research.google.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" alt="Google Colab">
   </a>
+  
+  <a href="https://mrdoob.com/projects/chromeexperiments/google-gravity/" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Gravity-Play%20Now-black?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+
 </p>
 
 ### 🛠 Tools & Platforms
@@ -171,24 +188,25 @@ class AboutMe extends Me {
 </p>
 
 ### 📜 Certifications & Courses
+
 <p align="left">
 
-<!-- Microsoft -->
+<!-- Microsoft Certifications -->
 <img src="https://img.shields.io/badge/MCSA-Microsoft%20Certified-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/MCSE-Expert-red?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20365%20(Office%20365)-Productivity-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20365-Office%20365-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-purple?style=for-the-badge&logo=microsoft&logoColor=white" />
 
-<!-- Cloud -->
+<!-- Cloud & Security -->
 <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-<!-- CompTIA -->
 <img src="https://img.shields.io/badge/CompTIA%20A%2B-IT%20Support-red?style=for-the-badge&logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA%20Security%2B-Cybersecurity-darkgreen?style=for-the-badge&logo=comptia&logoColor=white" />
-
-<!-- ICDL -->
 <img src="https://img.shields.io/badge/ICDL-Digital%20Skills-green?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SOLID-Principles-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/3--Tier-Architecture-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TOT-Training%20of%20Trainers-orange?style=for-the-badge" />
 
 </p>
 

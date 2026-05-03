@@ -164,28 +164,45 @@ class AboutMe extends Me {
 
 ### 🌐 Networking & Security Tools
 <p align="left">
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="40" alt="Wireshark">
-  </a>
 
-  <a href="https://www.cisco.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" width="40" alt="Cisco">
-  </a>
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
 </p>
 
 ### 📜 Certifications & Courses
+<p align="left">
+
+<!-- Microsoft -->
+<img src="https://img.shields.io/badge/MCSA-Microsoft%20Certified-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/MCSE-Expert-red?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20365%20(Office%20365)-Productivity-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-purple?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<!-- CompTIA -->
+<img src="https://img.shields.io/badge/CompTIA%20A%2B-IT%20Support-red?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA%20Security%2B-Cybersecurity-darkgreen?style=for-the-badge&logo=comptia&logoColor=white" />
+
+<!-- ICDL -->
+<img src="https://img.shields.io/badge/ICDL-Digital%20Skills-green?style=for-the-badge" />
+
+</p>
+
+### 💻 Programming Skills (Badges Style)
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/MCSA-Microsoft%20Certified-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/MCSE-Microsoft%20Certified-red?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Amazon%20Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA%20A%2B-IT%20Fundamentals-red?style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA%20Security%2B-Cybersecurity-darkgreen?style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-purple?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-OOP-red?style=for-the-badge&logo=java&logoColor=white" />
 
 </p>
+
 ---
 
 ## 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">

@@ -21,40 +21,78 @@
 class AboutMe extends Me {
   final Map<String, dynamic> personalInfo = {
     "FullName": "Anas Emad",
-    "Title": "Junior Full Stack Developer & Cybersecurity Learner",
-    "Email": "mailto:anasemadanas1@gmail.com",
+    "Title": "Software Engineer | Backend Developer | Cybersecurity Learner",
 
-    "Social": {
-      "LinkedIn": "https://www.linkedin.com/in/eng-anasemad",
-      "Reddit": "https://www.reddit.com/user/anasemadanas1/",
-      "StackOverflow": "https://stackoverflow.com/users/32631412/anas-emad"
-    },
+    "FocusAreas": [
+      "Backend Development (.NET, Django)",
+      "System Design & APIs",
+      "Database Systems",
+      "Cybersecurity & Malware Analysis"
+    ],
 
     "Experience": [
       "Developed scalable .NET applications",
-      "Built console-based games and web apps",
-      "Solved 1000+ algorithmic coding challenges"
+      "Built console-based games and web applications",
+      "Designed and implemented backend systems using Django",
+      "Solved 1000+ algorithmic challenges"
     ],
 
-    "Education": [
-      "Bachelor's in Computer Science"
+    "CurrentProjects": [
+      "Expense Tracking System (Django Web App)",
+      "Backend system architecture learning",
+      "AI integration with backend systems"
     ],
 
-    "Skills": {
-      "ProgrammingLanguages": {"C++", "C#", "Java", "Python", "JavaScript"},
-      "OtherLanguages": {"HTML", "CSS", "SQL"},
-      "Database": {"SQL Server"},
-      "Editors": {"Visual Studio", "Visual Studio Code", "NetBeans", "PyCharm"},
-      "Platforms": {"Windows", "Linux"},
-      "OtherTools": {"Git", "VMware"},
-      "Interests": {"Cybersecurity", "Malware Simulation"}
+    "TechnicalSkills": {
+      "Languages": ["C++", "C#", "Java", "Python", "JavaScript"],
+      "Web": ["HTML", "CSS", "Django", ".NET"],
+      "Databases": ["SQL Server", "PostgreSQL", "MySQL"],
+      "Tools": ["Git", "Docker (learning)", "Linux", "VMware"],
+      "IDEs": ["Visual Studio", "VS Code", "NetBeans", "PyCharm"]
     },
 
-    "Objectives": [
-      ".NET and Node.js",
-      "Explore Web Development & System Programming",
-      "Enhance Cybersecurity & Malware Analysis skills"
-    ]
+    "Courses": {
+      "Microsoft": [
+        "MCSA",
+        "MCSE",
+        "AI-900 Azure AI Fundamentals",
+        "Microsoft 365",
+        "Microsoft Fabric"
+      ],
+
+      "Cloud & Security": [
+        "AWS Cloud Practitioner",
+        "CompTIA A+",
+        "CompTIA Security+",
+        "ICDL"
+      ],
+
+      "Engineering Concepts": [
+        "SOLID Principles",
+        "3-Tier Architecture",
+        "Training of Trainers (TOT)"
+      ]
+    },
+
+    "CybersecurityInterest": [
+      "Malware Analysis Basics",
+      "Network Security",
+      "Wireshark Analysis"
+    ],
+
+    "Goals": [
+      "Become a strong Backend Engineer",
+      "Master System Design & Scalability",
+      "Advance in Cybersecurity",
+      "Build production-level systems"
+    ],
+
+    "Contact": {
+      "Email": "mailto:anasemadanas1@gmail.com",
+      "LinkedIn": "https://www.linkedin.com/in/eng-anasemad",
+      "Reddit": "https://www.reddit.com/user/anasemadanas1",
+      "StackOverflow": "https://stackoverflow.com/users/32631412/anas-emad"
+    }
   };
 }
 ```

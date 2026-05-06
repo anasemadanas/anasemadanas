@@ -88,10 +88,12 @@ class AboutMe extends Me {
     ],
 
     "Contact": {
-      "Email": "mailto:anasemadanas1@gmail.com",
-      "LinkedIn": "https://www.linkedin.com/in/eng-anasemad",
-      "Reddit": "https://www.reddit.com/user/anasemadanas1",
+      "Email":         "mailto:anasemadanas1@gmail.com",
+      "LinkedIn":      "https://www.linkedin.com/in/eng-anasemad",
+      "Reddit":        "https://www.reddit.com/user/anasemadanas1",
       "StackOverflow": "https://stackoverflow.com/users/32631412/anas-emad"
+      "ORCID":         "https://orcid.org/0009-0000-7569-8202"
+      "Facebook":      "https://www.facebook.com/anasemadanas1"
     }
   };
 }
@@ -304,7 +306,8 @@ class AboutMe extends Me {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-anasemad)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/anasemadanas1)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32631412/anas-emad)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/anasemadanas1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anasemadanas1)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-7569-8202)
 
 ---
 

@@ -92,6 +92,7 @@ class AboutMe extends Me {
       "LinkedIn":      "https://www.linkedin.com/in/eng-anasemad",
       "Reddit":        "https://www.reddit.com/user/anasemadanas1",
       "StackOverflow": "https://stackoverflow.com/users/32631412/anas-emad"
+      "Discord":       "[https://stackoverflow.com/users/32631412/anas-emad](https://discord.com/users/559077785587679272)"
       "ORCID":         "https://orcid.org/0009-0000-7569-8202"
       "Facebook":      "https://www.facebook.com/anasemadanas1"
     }

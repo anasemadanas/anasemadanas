@@ -131,6 +131,12 @@ class AboutMe extends Me {
 ## 🚀 Projects
 - 💰 Expense Track (Django) — Personal finance manager web app
   
+---
+
+## 🚀 Live Website
+
+Visit the portfolio here:
+👉 https://anasemadanas.github.io/
 
 ---
 ## 🛠 Skills

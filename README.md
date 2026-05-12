@@ -243,22 +243,37 @@ Visit the portfolio here:
   <a href="https://mrdoob.com/projects/chromeexperiments/google-gravity/" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Gravity-Play%20Now-black?style=for-the-badge&logo=google&logoColor=white" />
 </a>
-
+  
+    <!-- PlantUML -->
   <a href="https://plantuml.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/plantuml" width="40" alt="PlantUML">
+    <img src="https://cdn.simpleicons.org/plantuml/000000" width="40" alt="PlantUML">
   </a>
-  
+
+  <!-- draw.io -->
   <a href="https://www.diagrams.net/" target="_blank">
-    <img src="https://cdn.simpleicons.org/diagramsdotnet" width="40" alt="draw.io">
+    <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="40" alt="draw.io">
   </a>
-  
+
+  <!-- Visio -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software" target="_blank">
-    <img src="https://cdn.simpleicons.org/microsoftvisio" width="40" alt="Visio">
+    <img src="https://cdn.simpleicons.org/microsoftvisio/3955A3" width="40" alt="Visio">
   </a>
-  
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman">
+
+  <!-- IntelliJ -->
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA">
   </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git">
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub">
+  </a>
+
 </p>
 
 ### 🛠 Tools & Platforms
@@ -272,25 +287,80 @@ Visit the portfolio here:
 
 ### 🖥️ Operating Systems
 <p align="left">
+  <!-- macOS -->
   <a href="https://www.apple.com/macos/" target="_blank">
-    <img src="https://cdn.simpleicons.org/apple" width="40" alt="macOS">
+    <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="40" alt="macOS">
   </a>
 
+  <!-- Windows -->
   <a href="https://www.microsoft.com/windows/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" alt="Windows">
   </a>
 
+  <!-- Kali Linux -->
   <a href="https://www.kali.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Kali Linux">
+    <img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="40" alt="Kali Linux">
   </a>
 
+  <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" alt="Ubuntu">
   </a>
 
+  <!-- Fedora -->
   <a href="https://fedoraproject.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="40" alt="Fedora">
   </a>
+
+</p>
+
+### 🧪 API Testing
+<p align="left">
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman">
+  </a>
+</p>
+
+---
+
+### ✅ Testing Frameworks
+<p align="left">
+
+  <a href="https://junit.org/junit5/" target="_blank">
+    <img src="https://cdn.simpleicons.org/junit5/25A162" width="40" alt="JUnit">
+  </a>
+
+  <a href="https://site.mockito.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/mockito/78A641" width="40" alt="Mockito">
+  </a>
+
+  <a href="https://pytest.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="40" alt="Pytest">
+  </a>
+
+</p>
+
+---
+
+### 🖥️ GUI Development
+<p align="left">
+
+  <a href="https://www.qt.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/qt/41CD52" width="40" alt="Qt">
+  </a>
+
+  <a href="https://www.qt.io/product/development-tools" target="_blank">
+    <img src="https://cdn.simpleicons.org/qtcreator/41CD52" width="40" alt="Qt Creator">
+  </a>
+
+  <a href="https://docs.oracle.com/javase/tutorial/uiswing/" target="_blank">
+    <img src="https://cdn.simpleicons.org/openjdk/FFFFFF" width="40" alt="Java Swing">
+  </a>
+
+  <a href="https://openjfx.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/openjfx/FF0000" width="40" alt="JavaFX">
+  </a>
+
 </p>
 
 ---

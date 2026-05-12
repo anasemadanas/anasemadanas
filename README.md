@@ -303,14 +303,6 @@ Visit the portfolio here:
 
 </p>
 
-### 🛠 Tools & Platforms
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"></a>
-</p>
-
 ### 🖥️ GUI Development
 <p align="left">
 
@@ -348,14 +340,18 @@ Visit the portfolio here:
   </a>
 
   <!-- Ubuntu -->
-  <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" alt="Ubuntu">
-  </a>
+<a href="https://ubuntu.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux">
+</a>
 
   <!-- Fedora -->
   <a href="https://fedoraproject.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="40" alt="Fedora">
   </a>
+  
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"></a>
+</p>
 
 </p>
 

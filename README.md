@@ -379,7 +379,7 @@ Visit the portfolio here:
 
 <!-- Microsoft Certifications -->
 <img src="https://img.shields.io/badge/MCSA-Microsoft%20Certified-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/MCSE-Expert-red?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/MCSE-Solutions%20Engineer-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20365-Office%20365-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-purple?style=for-the-badge&logo=microsoft&logoColor=white" />

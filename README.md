@@ -137,7 +137,11 @@ class AboutMe extends Me {
 
 Visit the portfolio here:
 
-👉 https://anasemadanas.github.io/
+<p align="left">
+  <a href="https://anasemadanas.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-Click%20Here-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 ## 🛠 Skills

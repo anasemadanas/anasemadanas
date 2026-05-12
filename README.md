@@ -352,7 +352,15 @@ Visit the portfolio here:
   <a href="https://fedoraproject.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="40" alt="Fedora">
   </a>
-  
+
+  <a href="https://www.vmware.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/vmware/607078" width="40" alt="VMware">
+</a>
+
+<a href="https://www.vmware.com/products/vsphere.html" target="_blank">
+  <img src="https://cdn.simpleicons.org/vmware/0078D4" width="40" alt="vSphere">
+</a>
+
 </p>
 
 ---

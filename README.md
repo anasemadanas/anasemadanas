@@ -144,21 +144,37 @@ Visit the portfolio here:
 
 ### 💻 Programming Languages
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"></a>
-  <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#"></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"></a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C">
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++">
+  </a>
+  <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#">
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python">
+  </a>
 </p>
 
-### ⚙️ Backend Development
+
+### 🚀 Frameworks & Technologies
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" alt=".NET">
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" alt="Spring Boot">
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django">
   </a>
 </p>
+
 
 ### 🌐 Frontend Development
 <p align="left">
@@ -187,9 +203,18 @@ Visit the portfolio here:
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL">
   </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL">
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite">
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle">
+  </a>
 </p>
 
-### 🧑‍💻 IDEs & Development Tools
+### 🛠️ IDEs & Development Tools
 <p align="left">
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio">
@@ -219,6 +244,21 @@ Visit the portfolio here:
   <img src="https://img.shields.io/badge/Google%20Gravity-Play%20Now-black?style=for-the-badge&logo=google&logoColor=white" />
 </a>
 
+  <a href="https://plantuml.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/plantuml" width="40" alt="PlantUML">
+  </a>
+  
+  <a href="https://www.diagrams.net/" target="_blank">
+    <img src="https://cdn.simpleicons.org/diagramsdotnet" width="40" alt="draw.io">
+  </a>
+  
+  <a href="https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software" target="_blank">
+    <img src="https://cdn.simpleicons.org/microsoftvisio" width="40" alt="Visio">
+  </a>
+  
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman">
+  </a>
 </p>
 
 ### 🛠 Tools & Platforms
@@ -227,6 +267,30 @@ Visit the portfolio here:
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"></a>
+</p>
+
+
+### 🖥️ Operating Systems
+<p align="left">
+  <a href="https://www.apple.com/macos/" target="_blank">
+    <img src="https://cdn.simpleicons.org/apple" width="40" alt="macOS">
+  </a>
+
+  <a href="https://www.microsoft.com/windows/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" alt="Windows">
+  </a>
+
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Kali Linux">
+  </a>
+
+  <a href="https://ubuntu.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" alt="Ubuntu">
+  </a>
+
+  <a href="https://fedoraproject.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="40" alt="Fedora">
+  </a>
 </p>
 
 ---

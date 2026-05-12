@@ -384,16 +384,16 @@ Visit the portfolio here:
 <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20365-Office%20365-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-purple?style=for-the-badge&logo=microsoft&logoColor=white" />
-
+<br><br>
 <!-- Cloud & Security -->
 <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA%20A+-IT%20Support-red?style=for-the-badge&logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA%20Security+-Cybersecurity-darkgreen?style=for-the-badge&logo=comptia&logoColor=white" />
-
+<br><br>
 <!-- Fundamentals -->
 <img src="https://img.shields.io/badge/ICDL-Digital%20Skills-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/TOT-Training%20of%20Trainers-orange?style=for-the-badge" />
-
+<br><br>
 <!-- Concepts -->
 <img src="https://img.shields.io/badge/SOLID-Principles-4CAF50?style=for-the-badge" />
 <img src="https://img.shields.io/badge/3--Tier-Architecture-blue?style=for-the-badge" />

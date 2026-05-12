@@ -268,17 +268,17 @@ Visit the portfolio here:
 ### 📐 UML & Design Tools
 <p align="left">
 
-  <a href="https://plantuml.com/" target="_blank">
-    <img src="https://www.plantuml.com/plantuml/logo" width="40" alt="PlantUML">
-  </a>
+<a href="https://plantuml.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/PlantUML_Logo.svg" width="40" alt="PlantUML">
+</a>
 
   <a href="https://www.diagrams.net/" target="_blank">
     <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="40" alt="draw.io">
   </a>
 
-  <a href="https://www.microsoft.com/microsoft-365/visio/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Visio_%282019-present%29.svg" width="40" alt="Visio">
-  </a>
+<a href="https://www.microsoft.com/microsoft-365/visio/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="40" alt="Visio">
+</a>
 
 </p>
 
@@ -294,7 +294,7 @@ Visit the portfolio here:
   </a>
 
 <a href="https://site.mockito.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/mockito.png" width="40" alt="Mockito">
+  <img src="https://avatars.githubusercontent.com/u/2656033?s=200&v=4" width="40" alt="Mockito">
 </a>
 
   <a href="https://pytest.org/" target="_blank">

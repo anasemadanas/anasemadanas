@@ -180,8 +180,10 @@ Visit the portfolio here:
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django">
   </a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js">
+</a>
 </p>
-
 
 ### 🌐 Frontend Development
 <p align="left">
@@ -191,10 +193,6 @@ Visit the portfolio here:
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">
   </a>
 
   <a href="https://react.dev/" target="_blank">
@@ -219,6 +217,9 @@ Visit the portfolio here:
   <a href="https://www.oracle.com/database/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle">
   </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB">
+</a>
 </p>
 
 ### 🛠️ IDEs & Editors

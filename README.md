@@ -269,7 +269,7 @@ Visit the portfolio here:
 <p align="left">
 
   <a href="https://plantuml.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/PlantUML_Logo.svg" width="40" alt="PlantUML">
+    <img src="https://www.plantuml.com/plantuml/logo" width="40" alt="PlantUML">
   </a>
 
   <a href="https://www.diagrams.net/" target="_blank">
@@ -293,9 +293,9 @@ Visit the portfolio here:
     <img src="https://cdn.simpleicons.org/junit5/25A162" width="40" alt="JUnit">
   </a>
 
-  <a href="https://site.mockito.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/mockito/78A641" width="40" alt="Mockito">
-  </a>
+<a href="https://site.mockito.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/mockito.png" width="40" alt="Mockito">
+</a>
 
   <a href="https://pytest.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="40" alt="Pytest">
@@ -344,7 +344,7 @@ Visit the portfolio here:
 
   <!-- Kali Linux -->
   <a href="https://www.kali.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" width="40" alt="Kali Linux">
+    <img src="https://cdn.simpleicons.org/kalilinux" width="40" alt="Kali Linux">
   </a>
 
   <!-- Ubuntu -->

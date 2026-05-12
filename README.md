@@ -269,7 +269,7 @@ Visit the portfolio here:
 <p align="left">
 
 <a href="https://plantuml.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/PlantUML_Logo.svg" width="40" alt="PlantUML">
+  <img src="https://avatars.githubusercontent.com/u/7387923?s=200&v=4" width="40" alt="PlantUML">
 </a>
 
   <a href="https://www.diagrams.net/" target="_blank">
@@ -349,10 +349,6 @@ Visit the portfolio here:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="40" alt="Fedora">
   </a>
   
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"></a>
-</p>
-
 </p>
 
 ---

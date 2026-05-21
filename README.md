@@ -630,7 +630,6 @@ Visit the portfolio here:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark)
 
----
 
 ## 🔝 Back To Top
 

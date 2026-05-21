@@ -129,9 +129,16 @@ class AboutMe extends Me {
 
 ---
 
-## 🚀 Projects
-- 💰 Expense Track (Django) — Personal finance manager web app
-  
+## 🚀 Featured Projects
+
+### 💰 Expense Tracker System
+- Django + PostgreSQL
+- Authentication & Dashboard
+- Financial analytics
+- REST APIs
+
+🔗 [Manager](https://anasemad.pythonanywhere.com/)
+
 ---
 
 ## 🚀 Live Website
@@ -417,7 +424,7 @@ Visit the portfolio here:
 
 ## 🎓 Certifications
 
-[![CS50](https://img.shields.io/badge/CS50-Harvard%20University-A41034?style=for-the-badge&logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/46da5d62-c049-47a6-a77a-f4e31ec9da9b)
+[![CS50](https://img.shields.io/badge/CS50-Harvard%20University-8B1E3F?style=for-the-badge)](https://cs50.harvard.edu/certificates/46da5d62-c049-47a6-a77a-f4e31ec9da9b)
 
 ---
 

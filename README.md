@@ -612,7 +612,6 @@ Visit the portfolio here:
 
 ---
 
-
 ## 🔥 Contribution Calendar
 <p align="center">
   <img src="https://ghchart.rshah.org/anasemadanas" />
@@ -639,15 +638,11 @@ Visit the portfolio here:
   </a> 
 </p>
 
----
-
 <p align="center">
 💙 Thank you for visiting my portfolio
 <br><br>
   <img src="https://komarev.com/ghpvc/?username=anasemadanas&style=for-the-badge&color=blue" />
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/anasemadanas" target="_blank">

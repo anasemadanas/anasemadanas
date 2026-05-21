@@ -88,13 +88,14 @@ class AboutMe extends Me {
     ],
 
     "Contact": {
-      "Email":         "mailto:anasemadanas1@gmail.com",
+      "Email":         "anasemadanas1@gmail.com",
       "LinkedIn":      "https://www.linkedin.com/in/eng-anasemad",
       "Reddit":        "https://www.reddit.com/user/anasemadanas1",
-      "StackOverflow": "https://stackoverflow.com/users/32631412/anas-emad"
-      "Discord":       "https://discord.com/users/559077785587679272"
-      "ORCID":         "https://orcid.org/0009-0000-7569-8202"
+      "StackOverflow": "https://stackoverflow.com/users/32631412/anas-emad",
+      "Discord":       "https://discord.com/users/559077785587679272",
+      "ORCID":         "https://orcid.org/0009-0000-7569-8202",
       "Facebook":      "https://www.facebook.com/anasemadanas1"
+
     }
   };
 }
@@ -414,6 +415,12 @@ Visit the portfolio here:
 
 ---
 
+## 🎓 Certifications
+
+[![CS50](https://img.shields.io/badge/CS50-Harvard%20University-A41034?style=for-the-badge&logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/46da5d62-c049-47a6-a77a-f4e31ec9da9b)
+
+---
+
 ### 🤖 AI & Machine Learning Tools
 
 <p align="left">
@@ -450,13 +457,27 @@ Visit the portfolio here:
 
 ## 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 
+## 📬 Contact Information
+
+<p align="left">
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasemadanas1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-anasemad)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/anasemadanas1)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32631412/anas-emad)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/559077785587679272)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anasemadanas1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eng-anasemad)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasemadanas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anasemadanas.github.io/)
+
+<br><br>
+
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/anas-emad-sabri-al-shawiki)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-7569-8202)
+
+<br><br>
+
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://anasemadanas.wordpress.com/)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://anasemadanas.blogspot.com/)
+[![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)](https://anasemadanas1.wixsite.com/anas1)
+
+</p>
 
 ---
 

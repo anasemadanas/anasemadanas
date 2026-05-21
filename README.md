@@ -442,30 +442,48 @@ Visit the portfolio here:
 
 ---
 
-## 📚 Learning Journey & Courses
+## 📚 Courses, Learning Journey & Technical Training
+
+### 🌐 Cisco Networking Academy (NetAcad)
 
 <p align="left">
 
-<!-- Microsoft Learning -->
-<a href="https://learn.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Learning-Server%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/C++%20Essentials%201-Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python%20Essentials%201-Cisco%20NetAcad-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python%20Essentials%202-Cisco%20NetAcad-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Networking%20Basics-Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Cisco%20NetAcad-darkgreen?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Data%20Science%20Essentials%20with%20Python-Cisco%20NetAcad-yellow?style=for-the-badge&logo=python&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-Network%20Simulation-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/HTML%20Essentials-Cisco%20NetAcad-orange?style=for-the-badge&logo=html5&logoColor=white" />
+
+</p>
+
+---
+
+### ☁️ Cloud, Microsoft & Security Learning
+
+<p align="left">
 
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/" target="_blank">
   <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
 
-<a href="https://learn.microsoft.com/en-us/training/" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20365-Office%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+<a href="https://learn.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Learning-Server%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
 
 <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-purple?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
 
-<br><br>
-
-<!-- Cloud & Security -->
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </a>
@@ -474,20 +492,32 @@ Visit the portfolio here:
   <img src="https://img.shields.io/badge/CompTIA%20A+-IT%20Fundamentals-red?style=for-the-badge&logo=comptia&logoColor=white" />
 </a>
 
+<a href="https://www.comptia.org/certifications/network" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA%20Network+-Networking%20Fundamentals-orange?style=for-the-badge&logo=comptia&logoColor=white" />
+</a>
+
 <a href="https://www.comptia.org/certifications/security" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA%20Security+-Cybersecurity-darkgreen?style=for-the-badge&logo=comptia&logoColor=white" />
 </a>
 
-<br><br>
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
 
-<!-- Fundamentals -->
-<img src="https://img.shields.io/badge/ICDL-Digital%20Skills-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 
-<img src="https://img.shields.io/badge/TOT-Training%20of%20Trainers-orange?style=for-the-badge" />
+</p>
 
-<br><br>
+---
 
-<!-- Engineering Concepts -->
+### 🌐 Web Development & Software Engineering
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/HTML-Orange%20Coding%20Academy-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CSS-Orange%20Coding%20Academy-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JavaScript-Orange%20Coding%20Academy-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 <img src="https://img.shields.io/badge/SOLID-Principles-4CAF50?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/3--Tier-Architecture-blue?style=for-the-badge" />
@@ -496,31 +526,37 @@ Visit the portfolio here:
 
 ---
 
-## 🌐 Networking & Security Learning
+### 🎨 Creative, Productivity & Business Skills
 
 <p align="left">
 
-<a href="https://www.wireshark.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Video%20Editing-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
 
-<a href="https://www.cisco.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Canva%20Design-Udemy-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
-<a href="https://www.comptia.org/certifications/network" target="_blank">
-  <img src="https://img.shields.io/badge/CompTIA%20Network+-Networking%20Fundamentals-orange?style=for-the-badge&logo=comptia&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/ICDL-Digital%20Skills-green?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/TOT-Training%20of%20Trainers-orange?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/CCBA-Business%20Analysis-blue?style=for-the-badge" />
 
 </p>
 
-> 📌 These represent completed courses, learning paths, and self-study topics — not official international certifications unless explicitly verified.
+---
 
+### 💻 ProgrammingAdvices Learning Path
 
+<p align="left">
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-19%20Completed%20Courses-success?style=for-the-badge" />
+
+</p>
+
+> 📌 These represent completed courses, certificates of completion, learning paths, and self-study programs — not official international certifications unless explicitly verified.
 
 ---
 
-## 🎓 Trust
+## 🎓 Certifications
 
 [![CS50](https://img.shields.io/badge/CS50-Harvard%20University-8B1E3F?style=for-the-badge)](https://cs50.harvard.edu/certificates/46da5d62-c049-47a6-a77a-f4e31ec9da9b)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/anas-emad-sabri-al-shawiki)

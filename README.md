@@ -14,7 +14,6 @@
 
 ---
 
-```md id="3q17a6"
 ## 📌 Quick Navigation
 
 <p align="center">
@@ -32,8 +31,6 @@
 <a href="#-github-stats">Stats</a>
 
 </p>
-
-```
 
 ---
 

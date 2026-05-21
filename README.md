@@ -16,21 +16,17 @@
 
 ## 📌 Quick Navigation
 
-<p align="center">
-
-<a href="#-about-me">About</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-currently-learning">Learning</a> •
-<a href="#-problem-solving">Problem Solving</a> •
-<a href="#-skills">Skills</a> •
-<a href="#️-development-environment">Environment</a> •
-<a href="#️-cloud--devops">Cloud</a> •
-<a href="#-certifications">Certifications</a> •
-<a href="#-career-goals">Goals</a> •
-<a href="#-contact-information-">Contact</a> •
-<a href="#-github-stats">Stats</a>
-
-</p>
+- [👤 About Me](#-about-me)
+- [🚀 Featured Projects](#-featured-projects)
+- [🌱 Currently Learning](#-currently-learning)
+- [🧠 Problem Solving](#-problem-solving)
+- [🛠 Skills](#-skills)
+- [⚙️ Development Environment](#️-development-environment)
+- [☁️ Cloud & DevOps](#️-cloud--devops)
+- [🎓 Certifications](#-certifications)
+- [🎯 Career Goals](#-career-goals)
+- [📬 Contact](#-contact-information-)
+- [📊 GitHub Stats](#-github-stats)
 
 ---
 

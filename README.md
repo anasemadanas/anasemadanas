@@ -155,6 +155,14 @@ class AboutMe extends Me {
 
 🔗 [Link Site](https://anasemad.pythonanywhere.com/)
 
+### 🎮 Connect 4 Game
+- JavaScript / HTML / CSS
+- Interactive browser game
+- Full game logic
+- Hosted with GitHub Pages
+
+🔗 [Play Game](https://anasemadanas.github.io/connect-4/)
+
 ---
 
 ## 🌱 Currently Learning 
@@ -432,15 +440,6 @@ Visit the portfolio here:
 
 ---
 
-### 🌐 Networking & Security Tools
-<p align="left">
-
-<img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA%20Network+-Networking%20Fundamentals-orange?style=for-the-badge&logo=comptia&logoColor=white" />
-
-</p>
-
 ### 📜 Certifications & Courses
 
 <p align="left">
@@ -467,6 +466,16 @@ Visit the portfolio here:
 
 </p>
 
+### 🌐 Networking & Security Tools
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA%20Network+-Networking%20Fundamentals-orange?style=for-the-badge&logo=comptia&logoColor=white" />
+
+</p>
+
 ### 💻 Programming Skills 
 
 <p align="left">
@@ -483,6 +492,7 @@ Visit the portfolio here:
 ## 🎓 Certifications
 
 [![CS50](https://img.shields.io/badge/CS50-Harvard%20University-8B1E3F?style=for-the-badge)](https://cs50.harvard.edu/certificates/46da5d62-c049-47a6-a77a-f4e31ec9da9b)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/anas-emad-sabri-al-shawiki)
 
 ---
 

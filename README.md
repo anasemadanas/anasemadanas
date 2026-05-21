@@ -460,7 +460,7 @@ Visit the portfolio here:
 
 <img src="https://img.shields.io/badge/Data%20Science%20Essentials%20with%20Python-Cisco%20NetAcad-yellow?style=for-the-badge&logo=python&logoColor=black" />
 
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-Network%20Simulation-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Getting%20Started%20with%20Cisco%20Packet%20Tracer-Cisco%20NetAcad-005073?style=for-the-badge&logo=cisco&logoColor=white" />
 
 <img src="https://img.shields.io/badge/HTML%20Essentials-Cisco%20NetAcad-orange?style=for-the-badge&logo=html5&logoColor=white" />
 
@@ -472,12 +472,16 @@ Visit the portfolio here:
 
 <p align="left">
 
+<a href="https://learn.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Learning-Server%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/" target="_blank">
   <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
 
-<a href="https://learn.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Learning-Server%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+<a href="https://learn.microsoft.com/en-us/training/" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20365-Office%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
 
 <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank">
@@ -489,7 +493,7 @@ Visit the portfolio here:
 </a>
 
 <a href="https://www.comptia.org/certifications/a" target="_blank">
-  <img src="https://img.shields.io/badge/CompTIA%20A+-IT%20Fundamentals-red?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA%20A+-IT%20Support-red?style=for-the-badge&logo=comptia&logoColor=white" />
 </a>
 
 <a href="https://www.comptia.org/certifications/network" target="_blank">
@@ -544,15 +548,54 @@ Visit the portfolio here:
 
 ---
 
-### 💻 ProgrammingAdvices Learning Path
+### 💻 ProgrammingAdvices Courses
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-19%20Completed%20Courses-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%201-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%202-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%203-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%204-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%205-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%206-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%207-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%208-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%209-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2010-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2011-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2012-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2013-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2014-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2015-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2016-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2017-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2018-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2019-success?style=for-the-badge" />
 
 </p>
 
-> 📌 These represent completed courses, certificates of completion, learning paths, and self-study programs — not official international certifications unless explicitly verified.
+---
+
+> 📌 These represent completed courses, learning paths, certificates of completion, and self-study programs — not official international certifications unless explicitly verified.
+
 
 ---
 

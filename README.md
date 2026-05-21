@@ -620,8 +620,6 @@ Visit the portfolio here:
 
 <img src="https://img.shields.io/badge/Problem%20Solving%20&%20Decision%20Making%20Skills-Edraak-00AEEF?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/TOT%20Train%20The%20Trainer%20Program-Edraak-00AEEF?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/Word%20Processing-Edraak-00AEEF?style=for-the-badge" />
 
 </p>

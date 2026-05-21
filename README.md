@@ -643,13 +643,9 @@ Visit the portfolio here:
 ---
 
 <p align="center">
-
 💙 Thank you for visiting my portfolio
-
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=anasemadanas&style=for-the-badge&color=blue" />
-
+  <img src="https://komarev.com/ghpvc/?username=anasemadanas&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -659,4 +655,3 @@ Visit the portfolio here:
     <img src="https://img.shields.io/badge/Credit-Anas%20Emad-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-

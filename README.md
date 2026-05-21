@@ -14,6 +14,29 @@
 
 ---
 
+```md id="3q17a6"
+## 📌 Quick Navigation
+
+<p align="center">
+
+<a href="#-about-me">About</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-currently-learning">Learning</a> •
+<a href="#-problem-solving">Problem Solving</a> •
+<a href="#-skills">Skills</a> •
+<a href="#️-development-environment">Environment</a> •
+<a href="#️-cloud--devops">Cloud</a> •
+<a href="#-certifications">Certifications</a> •
+<a href="#-career-goals">Goals</a> •
+<a href="#-contact-information-">Contact</a> •
+<a href="#-github-stats">Stats</a>
+
+</p>
+
+```
+
+---
+
 ## 👤 About Me
 
 ```dart
@@ -209,11 +232,11 @@ Visit the portfolio here:
 
 ## ☁️ Cloud & DevOps 
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Linux-System%20Administration-black?style=for-the-badge&logo=linux&logoColor=white" /> 
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-System%20Administration-black?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---

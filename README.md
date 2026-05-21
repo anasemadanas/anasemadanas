@@ -630,8 +630,33 @@ Visit the portfolio here:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark)
 
-<p align="left">
+---
+
+## 🔝 Back To Top
+
+<p align="center"> 
+  <a href="#anas-emad---software-developer"> 
+    <img src="https://img.shields.io/badge/Back%20To%20Top-38BDF8?style=for-the-badge&logo=github&logoColor=white"/> 
+  </a> 
+</p>
+
+---
+
+<p align="center">
+
+💙 Thank you for visiting my portfolio
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=anasemadanas&style=for-the-badge&color=blue" />
+
+</p>
+
+---
+
+<p align="center">
   <a href="https://github.com/anasemadanas" target="_blank">
     <img src="https://img.shields.io/badge/Credit-Anas%20Emad-blue?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+

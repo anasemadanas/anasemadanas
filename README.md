@@ -549,12 +549,12 @@ Visit the portfolio here:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasemadanas)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anasemadanas.github.io/)
 
-<br><br>
+<br>
 
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/anas-emad-sabri-al-shawiki)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-7569-8202)
 
-<br><br>
+<br>
 
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://anasemadanas.wordpress.com/)
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://anasemadanas.blogspot.com/)

@@ -548,49 +548,51 @@ Visit the portfolio here:
 
 ---
 
-### 💻 ProgrammingAdvices Courses
+### 💻 ProgrammingAdvices Roadmap Courses
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%201-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/01-Foundations%20Level%201-success?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%202-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/02-Algorithms%20Level%201-success?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%203-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/03-C++%20Level%201-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%204-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/04-Advanced%20Solutions%20for%20Algorithms%201-success?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%205-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/05-Algorithms%20Level%202-success?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%206-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/06-C++%20Level%202-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%207-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/07-Algorithms%20Level%203-success?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%208-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/08-Algorithms%20Level%204-success?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%209-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/09-Foundations%20Level%202-success?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2010-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/10-OOP%20Level%201-00599C?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2011-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/11-OOP%20Level%202-00599C?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2012-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/12-Data%20Structures%20Level%201-orange?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2013-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/13-Algorithms%20Level%205-success?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2014-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/14-C%23%20Level%201-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2015-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/15-Database%20Level%201%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2016-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/16-OOP%20in%20C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2017-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/17-Database%20Project-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2018-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/18-C%23%20&%20Database-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
 
-<img src="https://img.shields.io/badge/ProgrammingAdvices-Course%2019-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/19-Full%20Project%20in%20C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
 
 </p>
+
+
 
 ---
 

@@ -137,9 +137,30 @@ class AboutMe extends Me {
 - Financial analytics
 - REST APIs
 
-🔗 [Manager](https://anasemad.pythonanywhere.com/)
+🔗 [Link Site](https://anasemad.pythonanywhere.com/)
 
 ---
+
+## 🌱 Currently Learning 
+
+- System Design & Scalability
+- Docker & DevOps
+- Malware Analysis
+- Spring Boot & Microservices
+- AI Integrations with Backend Systems
+- Cloud Computing & Azure
+
+---
+
+## 🧠 Problem Solving 
+
+- Solved 1000+ algorithmic challenges
+- Strong understanding of Data Structures & Algorithms
+- Focused on clean code and optimization
+- Practicing competitive programming regularly
+  
+---
+
 
 ## 🚀 Live Website
 
@@ -176,6 +197,26 @@ Visit the portfolio here:
   </a>
 </p>
 
+---
+
+## ⚙️ Development Environment 
+
+- OS: Windows, Ubuntu, Kali Linux
+- IDEs: Visual Studio, VS Code, PyCharm, IntelliJ IDEA
+- Tools: Git, Docker, VMware, Postman - Databases: SQL Server, PostgreSQL, MySQL
+
+---
+
+## ☁️ Cloud & DevOps 
+
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Linux-System%20Administration-black?style=for-the-badge&logo=linux&logoColor=white" /> 
+</p>
+
+---
 
 ### 🚀 Backend & Frameworks
 <p align="left">
@@ -253,9 +294,10 @@ Visit the portfolio here:
   </a>
 
   <a href="https://mrdoob.com/projects/chromeexperiments/google-gravity/" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Gravity-Play%20Now-black?style=for-the-badge&logo=google&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/Google%20Gravity-Play%20Now-black?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
 
+</p>
 
 ### 🔧 Development Tools
 <p align="left">
@@ -428,6 +470,16 @@ Visit the portfolio here:
 
 ---
 
+## 🎯 Career Goals 
+
+- Backend Engineering
+- Secure System Design
+- Cloud & DevOps
+- AI-powered Applications
+- Cybersecurity Research
+
+---
+
 ### 🤖 AI & Machine Learning Tools
 
 <p align="left">
@@ -463,8 +515,6 @@ Visit the portfolio here:
 ---
 
 ## 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
-
-## 📬 Contact Information
 
 <p align="left">
 
@@ -536,6 +586,7 @@ Visit the portfolio here:
 
 ---
 
+
 ## 🔥 Contribution Calendar
 <p align="center">
   <img src="https://ghchart.rshah.org/anasemadanas" />
@@ -551,4 +602,8 @@ Visit the portfolio here:
 ## 🐍 Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/anasemadanas/anasemadanas/output/snake.svg)
+
+## 📊 Profile Summary 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark)
 

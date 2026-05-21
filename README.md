@@ -592,6 +592,44 @@ Visit the portfolio here:
 
 </p>
 
+---
+
+### 🎓 Edraak Courses
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Computer%20Essentials-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/English%20for%20the%20Workplace-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/How%20to%20Overcome%20Fear%20in%20Our%20Lives-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ICDL%20Base-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Influential%20Leadership%20&%20Effective%20Management-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Internet%20&%20Email%20Essentials-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Introduction%20to%20Islamic%20Art-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Introduction%20to%20Networking-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Introduction%20to%20Photography-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Microsoft%20Office%20365-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Operations%20Management-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Problem%20Solving%20&%20Decision%20Making%20Skills-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Teaching%20Online%20-%20Be%20Ready%20Now!-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/TOT%20Train%20The%20Trainer%20Program-Edraak-00AEEF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Word%20Processing-Edraak-00AEEF?style=for-the-badge" />
+
+</p>
+
 
 
 ---

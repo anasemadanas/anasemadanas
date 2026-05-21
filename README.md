@@ -1,6 +1,8 @@
 # Anas Emad - Software Developer
 
-💡 Passionate about building real-world backend systems & secure applications
+## 💡 Hero
+
+Passionate about building real-world backend systems & secure applications
 
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anas Emad
@@ -440,56 +442,85 @@ Visit the portfolio here:
 
 ---
 
-### 📜 Certifications & Courses
+## 📚 Learning Journey & Courses
 
 <p align="left">
 
-<!-- Microsoft Certifications -->
-<img src="https://img.shields.io/badge/MCSA-Microsoft%20Certified-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/MCSE-Solutions%20Engineer-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20365-Office%20365-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-purple?style=for-the-badge&logo=microsoft&logoColor=white" />
+<!-- Microsoft Learning -->
+<a href="https://learn.microsoft.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Learning-Server%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/" target="_blank">
+  <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/training/" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20365-Office%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/fabric/" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-purple?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+
 <br><br>
+
 <!-- Cloud & Security -->
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA%20A+-IT%20Support-red?style=for-the-badge&logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA%20Security+-Cybersecurity-darkgreen?style=for-the-badge&logo=comptia&logoColor=white" />
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
+<a href="https://www.comptia.org/certifications/a" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA%20A+-IT%20Fundamentals-red?style=for-the-badge&logo=comptia&logoColor=white" />
+</a>
+
+<a href="https://www.comptia.org/certifications/security" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA%20Security+-Cybersecurity-darkgreen?style=for-the-badge&logo=comptia&logoColor=white" />
+</a>
+
 <br><br>
+
 <!-- Fundamentals -->
 <img src="https://img.shields.io/badge/ICDL-Digital%20Skills-green?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/TOT-Training%20of%20Trainers-orange?style=for-the-badge" />
+
 <br><br>
-<!-- Concepts -->
+
+<!-- Engineering Concepts -->
 <img src="https://img.shields.io/badge/SOLID-Principles-4CAF50?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/3--Tier-Architecture-blue?style=for-the-badge" />
-
-</p>
-
-### 🌐 Networking & Security Tools
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA%20Network+-Networking%20Fundamentals-orange?style=for-the-badge&logo=comptia&logoColor=white" />
-
-</p>
-
-### 💻 Programming Skills 
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-.NET-purple?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-OOP-red?style=for-the-badge&logo=java&logoColor=white" />
 
 </p>
 
 ---
 
-## 🎓 Certifications
+## 🌐 Networking & Security Learning
+
+<p align="left">
+
+<a href="https://www.wireshark.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
+</a>
+
+<a href="https://www.cisco.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
+
+<a href="https://www.comptia.org/certifications/network" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA%20Network+-Networking%20Fundamentals-orange?style=for-the-badge&logo=comptia&logoColor=white" />
+</a>
+
+</p>
+
+> 📌 These represent completed courses, learning paths, and self-study topics — not official international certifications unless explicitly verified.
+
+
+
+---
+
+## 🎓 Trust
 
 [![CS50](https://img.shields.io/badge/CS50-Harvard%20University-8B1E3F?style=for-the-badge)](https://cs50.harvard.edu/certificates/46da5d62-c049-47a6-a77a-f4e31ec9da9b)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/anas-emad-sabri-al-shawiki)

@@ -618,18 +618,20 @@ Visit the portfolio here:
   <img src="https://ghchart.rshah.org/anasemadanas" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/anasemadanas" target="_blank">
-    <img src="https://img.shields.io/badge/Credit-Anas%20Emad-blue?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
+---
 
 ## 🐍 Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/anasemadanas/anasemadanas/output/snake.svg)
 
+---
+
 ## 📊 Profile Summary 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark)
 
+<p align="left">
+  <a href="https://github.com/anasemadanas" target="_blank">
+    <img src="https://img.shields.io/badge/Credit-Anas%20Emad-blue?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>

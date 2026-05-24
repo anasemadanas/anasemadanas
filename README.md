@@ -323,6 +323,10 @@ Visit the portfolio here:
     <img src="https://img.shields.io/badge/Google%20Gravity-Play%20Now-black?style=for-the-badge&logo=google&logoColor=white" />
   </a>
 
+  <a href="https://github.com/getcursor/cursor" target="_blank">
+    <img src="https://www.cursor.com/assets/images/logo.svg" width="40" alt="Cursor">
+  </a>
+
 </p>
 
 ### 🔧 Development Tools

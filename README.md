@@ -476,20 +476,8 @@ Visit the portfolio here:
   <img src="https://img.shields.io/badge/Microsoft%20Learning-Server%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
 
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/" target="_blank">
-  <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</a>
-
 <a href="https://learn.microsoft.com/en-us/training/" target="_blank">
   <img src="https://img.shields.io/badge/Microsoft%20365-Office%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
-
-<a href="https://learn.microsoft.com/en-us/fabric/" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-purple?style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
-
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </a>
 
 <a href="https://www.comptia.org/certifications/a" target="_blank">
@@ -507,6 +495,27 @@ Visit the portfolio here:
 <img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS%20CLF--C01-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
+<a href="https://aws.amazon.com/machine-learning/ai-practitioner/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS%20AIF--C01-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
+<a href="https://aws.amazon.com/training/digital/aws-cloud-quest/" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Learning-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/training/" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20365-Office%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/fabric/" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-purple?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+
 
 </p>
 
@@ -637,6 +646,12 @@ Visit the portfolio here:
 
 [![CS50](https://img.shields.io/badge/CS50-Harvard%20University-8B1E3F?style=for-the-badge)](https://cs50.harvard.edu/certificates/46da5d62-c049-47a6-a77a-f4e31ec9da9b)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/anas-emad-sabri-al-shawiki)
+[![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
+[![AB-900](https://img.shields.io/badge/AB--900-Copilot%20%26%20Agent%20Administration-742774?style=for-the-badge&logo=microsoftcopilot&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/copilot-and-agent-administration-fundamentals/?practice-assessment-type=certification)
+[![PL-900](https://img.shields.io/badge/PL--900-Power%20Platform%20Fundamentals-742774?style=for-the-badge&logo=powerapps&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/)
+[![AI-900](https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
+[![DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-005A9C?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
+[![SC-900](https://img.shields.io/badge/SC--900-Security%2C%20Compliance%20%26%20Identity-107C10?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
 
 ---
 

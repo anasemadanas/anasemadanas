@@ -18,17 +18,17 @@ Passionate about building real-world backend systems & secure applications
 
 ## 📌 Quick Navigation
 
-- [👤 About Me](#-about-me)
-- [🚀 Featured Projects](#-featured-projects)
-- [🌱 Currently Learning](#-currently-learning)
-- [🧠 Problem Solving](#-problem-solving)
-- [🛠 Skills](#-skills)
-- [⚙️ Development Environment](#️-development-environment)
-- [☁️ Cloud & DevOps](#️-cloud--devops)
-- [🎓 Certifications](#-certifications)
-- [🎯 Career Goals](#-career-goals)
-- [📬 Contact](#-contact-information-)
-- [📊 GitHub Stats](#-github-stats)
+- 👤 [About Me](#-about-me)
+- 🚀 [Featured Projects](#-featured-projects)
+- 🌱 [Currently Learning](#-currently-learning)
+- 🧠 [Problem Solving](#-problem-solving)
+- 🛠 [Skills](#-skills)
+- ⚙️ [Development Environment](#️-development-environment)
+- ☁️ [Cloud & DevOps](#️-cloud--devops)
+- 🎓 [Certifications](#-certifications)
+- 🎯 [Career Goals](#-career-goals)
+- 📬 [Contact](#-contact-information-)
+- 📊 [GitHub Stats](#-github-stats)
 
 ---
 

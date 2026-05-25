@@ -193,7 +193,7 @@ class AboutMe extends Me {
 Visit the portfolio here:
 
 <p align="left">
-  <a href="https://github.com/anasemadanas/anasemadanas" target="_blank">
+  <a href="https://anasemadanas.github.io/anasemadanas" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-Click%20Here-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   

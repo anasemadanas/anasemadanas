@@ -788,7 +788,7 @@ Visit the portfolio here:
 
 ---
 
-## 📊 Profile Summary 
+## ⚔️ Profile Summary 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark)
 

@@ -196,6 +196,10 @@ Visit the portfolio here:
   <a href="https://anasemadanas.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-Click%20Here-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  
+  <a href="https://github.com/anasemadanas">
+    <img src="https://komarev.com/ghpvc/?username=anasemadanas&label=Visitors&color=1E3A8A&style=for-the-badge" alt="Profile views"/>
+  </a>
 </p>
 
 ---

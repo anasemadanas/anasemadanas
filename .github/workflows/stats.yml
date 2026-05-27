@@ -32,7 +32,7 @@ jobs:
         run: |
           curl -L "https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=dark" -o assets/streak.svg
 
-      - name: Commit stats
+      - name: Commit and push stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -43,8 +43,10 @@ jobs:
 
           git commit -m "Update GitHub stats"
 
-          for i in 1 2 3; do
+          for i in 1 2 3 4 5; do
             git pull --rebase origin main
-            git push origin main && break
+            git push origin main && exit 0
             sleep 5
           done
+
+          exit 1

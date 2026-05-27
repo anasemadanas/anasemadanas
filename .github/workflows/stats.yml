@@ -43,5 +43,8 @@ jobs:
 
           git commit -m "Update GitHub stats"
 
-          git pull --rebase origin main
-          git push origin main
+          for i in 1 2 3; do
+            git pull --rebase origin main
+            git push origin main && break
+            sleep 5
+          done

@@ -733,7 +733,9 @@ Visit the portfolio here:
 
 ## 🏆 GitHub Trophies 
 
-<img src="./assets/trophy.svg" />
+<div align="center">
+  <img src="./assets/trophy.svg" />
+</div>
 
 ---
 

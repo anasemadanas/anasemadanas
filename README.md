@@ -5,7 +5,7 @@
 Passionate about building real-world backend systems & secure applications
 
 <h1 align="center">
-  Hi <img src="./assets/wave.gif" width="40px"> , I'm Anas Emad
+  Hi <img src="./assets/readme/wave.gif" width="40px"> , I'm Anas Emad
 </h1>
 
 🚀 Backend Developer (Multi-stack: .NET + Python/Django, Java) | Cybersecurity Learner
@@ -707,7 +707,7 @@ Visit the portfolio here:
 
 ---
 
-## 📬 Contact Information <img src="./assets/phone.gif" width="30px">
+## 📬 Contact Information <img src="./assets/readme/phone.gif" width="30px">
 
 <p align="left">
 

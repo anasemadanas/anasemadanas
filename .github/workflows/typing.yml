@@ -1,0 +1,35 @@
+name: Generate Typing SVGs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  typing:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Download first typing SVG
+        run: |
+          curl -L "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF732&width=600&lines=Welcome+To+My+Github+Profile;Junior+Full+Stack+Developer" -o assets/typing1.svg
+
+      - name: Download second typing SVG
+        run: |
+          curl -L "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=600&lines=Cybersecurity+Learner;Malware+Analysis+Learner" -o assets/typing2.svg
+
+      - name: Commit SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git commit -m "Update typing svgs" || exit 0
+          git push

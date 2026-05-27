@@ -10,9 +10,9 @@ Passionate about building real-world backend systems & secure applications
 
 🚀 Backend Developer (Multi-stack: .NET + Python/Django, Java) | Cybersecurity Learner
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EF732&width=600&lines=Welcome+To+My+Github+Profile+;Junior+Full+Stack+Developer;Cybersecurity+%26+Malware+Analysis+Learner" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="./assets/typing1.svg" />
+</div>
 
 ---
 
@@ -711,21 +711,21 @@ Visit the portfolio here:
 
 <p align="left">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasemadanas1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eng-anasemad)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anasemadanas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anasemadanas.github.io/)
+[![Gmail](./assets/badges/Gmail-D14836.svg)](mailto:anasemadanas1@gmail.com)
+[![LinkedIn](./assets/badges/LinkedIn-0A66C2.svg)](https://linkedin.com/in/eng-anasemad)
+[![GitHub](./assets/badges/GitHub-181717.svg)](https://github.com/anasemadanas)
+[![Portfolio](./assets/badges/Portfolio-121013.svg)](https://anasemadanas.github.io/)
 
 <br>
 
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/anas-emad-sabri-al-shawiki)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-7569-8202)
+[![Credly](./assets/badges/Credly-FF6B00.svg)](https://www.credly.com/users/anas-emad-sabri-al-shawiki)
+[![ORCID](./assets/badges/ORCID-A6CE39.svg)](https://orcid.org/0009-0000-7569-8202)
 
 <br>
 
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://anasemadanas.wordpress.com/)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://anasemadanas.blogspot.com/)
-[![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)](https://anasemadanas1.wixsite.com/anas1)
+[![WordPress](./assets/badges/WordPress-21759B.svg)](https://anasemadanas.wordpress.com/)
+[![Blogger](./assets/badges/Blogger-FF5722.svg)](https://anasemadanas.blogspot.com/)
+[![Wix](./assets/badges/Wix-000000.svg)](https://anasemadanas1.wixsite.com/anas1)
 
 </p>
 
@@ -741,20 +741,25 @@ Visit the portfolio here:
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark)
+<div align="center">
+  <img src="./assets/top-langs.svg" />
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=dark)
+<div align="center">
+  <img src="./assets/streak.svg" width="500" />
+</div>
 
 > ⚠️ **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" />
+  <img src="./assets/activity-graph.svg" />
 </p>
 
 ---
@@ -801,14 +806,15 @@ Visit the portfolio here:
   </a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark)
-
+<div align="center">
+  <img src="./assets/typing2.svg" />
+</div>
 
 ## 🔝 Back To Top
 
 <p align="center"> 
   <a href="#anas-emad---software-developer"> 
-    <img src="https://img.shields.io/badge/Back%20To%20Top-38BDF8?style=for-the-badge&logo=github&logoColor=white"/> 
+    <img src="./assets/Back-To-Top.svg"/> 
   </a> 
 </p>
 
@@ -820,6 +826,6 @@ Visit the portfolio here:
 
 <p align="center">
   <a href="https://github.com/anasemadanas" target="_blank">
-    <img src="https://img.shields.io/badge/Credit-Anas%20Emad-blue?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="./assets/Credit-Anas Emad-blue.svg" />
   </a>
 </p>

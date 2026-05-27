@@ -1,0 +1,31 @@
+name: Generate Activity Graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Download activity graph
+        run: |
+          curl -L "https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" -o assets/activity-graph.svg
+
+      - name: Commit graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-graph.svg
+          git commit -m "Update activity graph" || exit 0
+          git push

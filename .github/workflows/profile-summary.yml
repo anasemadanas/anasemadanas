@@ -1,0 +1,42 @@
+name: Generate Profile Summary
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme-assets
+  cancel-in-progress: false
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Download profile summary card
+        run: |
+          curl -L "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark" -o assets/profile-details.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/profile-details.svg
+
+          git diff --cached --quiet && exit 0
+
+          git commit -m "Update profile summary"
+
+          git pull --rebase origin main
+          git push origin main

@@ -800,11 +800,9 @@ Visit the portfolio here:
 
 ## ⚔️ Profile Summary 
 
-<p align="center">
-  <a href="https://github.com/anasemadanas">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=28&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Backend+Developer;Flutter+%7C+Java+%7C+Spring+Boot;Building+Cool+Stuff+Everyday" />
-  </a>
-</p>
+<div align="center">
+  <img src="./assets/profile-details.svg" />
+</div>
 
 <div align="center">
   <img src="./assets/typing2.svg" />

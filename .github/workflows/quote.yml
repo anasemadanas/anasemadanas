@@ -1,0 +1,31 @@
+name: Generate Quote
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Download quote SVG
+        run: |
+          curl -L "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" -o assets/quote.svg
+
+      - name: Commit quote
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/quote.svg
+          git commit -m "Update quote.svg" || exit 0
+          git push

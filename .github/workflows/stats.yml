@@ -39,9 +39,12 @@ jobs:
 
           git add assets/top-langs.svg assets/streak.svg
 
-          git diff --cached --quiet && exit 0
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
 
-          git commit -m "Update GitHub stats"
+          git commit -m "Update GitHub stats [skip ci]"
 
           for i in 1 2 3 4 5; do
             git pull --rebase origin main

@@ -597,6 +597,10 @@ Visit the portfolio here:
   <img src="./assets/badges/AWS-CLF-C02-FF9900-51373805.svg" />
 </a>
 
+<a href="https://aws.amazon.com/certification/certified-ai-practitioner/" target="_blank">
+  <img src="./assets/badges/AWS-AI-Practitioner-AIF-C01-FF9900.svg" />
+</a>
+
 <a href="https://aws.amazon.com/training/digital/aws-cloud-quest/" target="_blank">
   <img src="./assets/badges/AWS-Cloud-Learning-orange-eb12ab3b.svg" />
 </a>

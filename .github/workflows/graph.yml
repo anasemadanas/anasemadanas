@@ -2,8 +2,6 @@ name: Generate Activity Graph
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -22,18 +20,18 @@ jobs:
           fetch-depth: 0
 
       - name: Create assets folder
-        run: mkdir -p assets
+        run: mkdir -p assets/generated
 
       - name: Download activity graph
         run: |
-          curl -L "https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" -o assets/activity-graph.svg
+          curl -L "https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" -o assets/generated/activity-graph.svg
 
       - name: Commit graph
         run: |
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
   
-            git add assets/activity-graph.svg
+            git add assets/generated/activity-graph.svg
   
             if git diff --cached --quiet; then
               echo "No changes to commit"

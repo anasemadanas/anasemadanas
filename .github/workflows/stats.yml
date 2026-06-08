@@ -2,8 +2,6 @@ name: Generate GitHub Stats
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -22,22 +20,18 @@ jobs:
           fetch-depth: 0
 
       - name: Create assets folder
-        run: mkdir -p assets
+        run: mkdir -p assets/generated
 
       - name: Download top languages card
         run: |
-          curl -L "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark" -o assets/top-langs.svg
-
-      - name: Download streak stats
-        run: |
-          curl -L "https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=dark" -o assets/streak.svg
+          curl -L "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark" -o assets/generated/top-langs.svg
 
       - name: Commit and push stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add assets/top-langs.svg assets/streak.svg
+          git add assets/generated/top-langs.svg
 
           if git diff --cached --quiet; then
             echo "No changes to commit"

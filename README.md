@@ -1,4 +1,4 @@
-# Anas Emad - Software Developer
+﻿# Anas Emad - Software Developer
 
 ## 💡 Hero
 
@@ -11,24 +11,24 @@ Passionate about building real-world backend systems & secure applications
 🚀 Backend Developer (Multi-stack: .NET + Python/Django, Java) | Cybersecurity Learner
 
 <div align="center">
-  <img src="./assets/typing1.svg" />
+  <img src="./assets/generated/typing1.svg" />
 </div>
 
 ---
 
 ## 📌 Quick Navigation
 
-- 👤 [About Me](#-about-me)
-- 🚀 [Featured Projects](#-featured-projects)
-- 🌱 [Currently Learning](#-currently-learning)
-- 🧠 [Problem Solving](#-problem-solving)
-- 🛠 [Skills](#-skills)
-- ⚙️ [Development Environment](#️-development-environment)
-- ☁️ [Cloud & DevOps](#️-cloud--devops)
-- 🎓 [Certifications](#-certifications)
-- 🎯 [Career Goals](#-career-goals)
-- 📬 [Contact](#-contact-information-)
-- 📊 [GitHub Stats](#-github-stats)
+- 👤 [About Me](#about-me)
+- 🚀 [Featured Projects](#featured-projects)
+- 🌱 [Currently Learning](#currently-learning)
+- 🧠 [Problem Solving](#problem-solving)
+- 🛠 [Skills](#skills)
+- ⚙️ [Development Environment](#development-environment)
+- ☁️ [Cloud & DevOps](#cloud--devops)
+- 🎓 [Certifications](#certifications)
+- 🎯 [Career Goals](#career-goals)
+- 📬 [Contact](#contact-information)
+- 📊 [GitHub Stats](#github-stats)
 
 ---
 
@@ -194,7 +194,7 @@ Visit the portfolio here:
 
 <p align="left">
   <a href="https://anasemadanas.github.io/anasemadanas" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-Click%20Here-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="./assets/badges/Visit-Portfolio-Click-Here-0A66C2-a0b81e95.svg" />
   </a>
   
   <a href="https://github.com/anasemadanas">
@@ -208,22 +208,22 @@ Visit the portfolio here:
 ### 💻 Programming Languages
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-c-c-original-a2da2aed.svg" width="40" alt="C">
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-cplusplus-cplusplus-original-c68babad.svg" width="40" alt="C++">
   </a>
   <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-csharp-csharp-original-a36b6998.svg" width="40" alt="C#">
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-java-java-original-681bf1cd.svg" width="40" alt="Java">
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-python-python-original-5dca7381.svg" width="40" alt="Python">
   </a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-javascript-javascript-original-e155cd6c.svg" width="40" alt="JavaScript">
   </a>
 </p>
 
@@ -233,17 +233,18 @@ Visit the portfolio here:
 
 - OS: Windows, Ubuntu, Kali Linux
 - IDEs: Visual Studio, VS Code, PyCharm, IntelliJ IDEA
-- Tools: Git, Docker, VMware, Postman - Databases: SQL Server, PostgreSQL, MySQL
+- Tools: Git, Docker, VMware, Postman
+- Databases: SQL Server, PostgreSQL, MySQL
 
 ---
 
 ## ☁️ Cloud & DevOps 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-System%20Administration-black?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="./assets/badges/Azure-Cloud-blue-6c5591aa.svg" />
+  <img src="./assets/badges/AWS-Cloud-orange-13f301f0.svg" />
+  <img src="./assets/badges/Docker-Containers-blue-7de33744.svg" />
+  <img src="./assets/badges/Linux-System-Administration-black-fefe6d86.svg" />
 </p>
 
 ---
@@ -251,84 +252,84 @@ Visit the portfolio here:
 ### 🚀 Backend & Frameworks
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" alt=".NET">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-dot-net-dot-net-original-a2924d6c.svg" width="40" alt=".NET">
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" alt="Spring Boot">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-spring-spring-original-1d478850.svg" width="40" alt="Spring Boot">
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-django-django-plain-a10c8f52.svg" width="40" alt="Django">
   </a>
 <a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-nodejs-nodejs-original-6af468e3.svg" width="40" alt="Node.js">
 </a>
 </p>
 
 ### 🌐 Frontend Development
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-html5-html5-original-47188965.svg" width="40" alt="HTML">
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-css3-css3-original-59019dde.svg" width="40" alt="CSS">
   </a>
 
   <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-react-react-original-f3412fc9.svg" width="40" alt="React">
   </a>
 </p>
 
 ### 🗄️ Databases
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" alt="SQL Server">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-microsoftsqlserver-microsoftsqlserver-original-e6b7e84e.svg" width="40" alt="SQL Server">
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-postgresql-postgresql-original-85c81dbb.svg" width="40" alt="PostgreSQL">
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-mysql-mysql-original-f068bf4a.svg" width="40" alt="MySQL">
   </a>
   <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-sqlite-sqlite-original-0f022bb2.svg" width="40" alt="SQLite">
   </a>
   <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" alt="Oracle">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-oracle-oracle-original-891f7c30.svg" width="40" alt="Oracle">
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-mongodb-mongodb-original-303837ee.svg" width="40" alt="MongoDB">
 </a>
 </p>
 
 ### 🛠️ IDEs & Editors
 <p align="left">
   <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-visualstudio-visualstudio-plain-3e686761.svg" width="40" alt="Visual Studio">
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-vscode-vscode-original-9ecd94bd.svg" width="40" alt="VS Code">
   </a>
 
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-pycharm-pycharm-original-b2fe29b4.svg" width="40" alt="PyCharm">
   </a>
 
   <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-intellij-intellij-original-de22522d.svg" width="40" alt="IntelliJ IDEA">
   </a>
 
   <a href="https://netbeans.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="40" alt="NetBeans">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-netbeans-netbeans-original-91a58fd8.svg" width="40" alt="NetBeans">
   </a>
 
   <a href="https://mrdoob.com/projects/chromeexperiments/google-gravity/" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Gravity-Play%20Now-black?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="./assets/badges/Google-Gravity-Play-Now-black-a6980063.svg" />
   </a>
 
   <a href="https://github.com/getcursor/cursor" target="_blank">
-    <img src="https://www.cursor.com/assets/images/logo.svg" width="40" alt="Cursor">
+    <img src="./assets/readme/external/assets-images-logo-11be51c8.svg" width="40" alt="Cursor">
   </a>
 
 </p>
@@ -337,19 +338,19 @@ Visit the portfolio here:
 <p align="left">
 
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-git-git-original-d0822bc5.svg" width="40" alt="Git">
   </a>
 
   <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" alt="GitHub">
+    <img src="./assets/readme/external/github-FFFFFF-c8c82016.svg" width="40" alt="GitHub">
   </a>
 
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-docker-docker-original-c33d3f9a.svg" width="40" alt="Docker">
   </a>
 
   <a href="https://colab.research.google.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" alt="Google Colab">
+    <img src="./assets/readme/external/wikipedia-commons-d-d0-Google_Colaboratory_SVG_Logo-abdd7a8d.svg" width="40" alt="Google Colab">
   </a>
 
 </p>
@@ -358,15 +359,15 @@ Visit the portfolio here:
 <p align="left">
 
 <a href="https://plantuml.com/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/7387923?s=200&v=4" width="40" alt="PlantUML">
+  <img src="./assets/readme/external/u-7387923-614f3c70.png" width="40" alt="PlantUML">
 </a>
 
   <a href="https://www.diagrams.net/" target="_blank">
-    <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="40" alt="draw.io">
+    <img src="./assets/readme/external/diagramsdotnet-F08705-9e8c79b5.svg" width="40" alt="draw.io">
   </a>
 
 <a href="https://www.microsoft.com/microsoft-365/visio/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="40" alt="Visio">
+  <img src="./assets/readme/external/u-6154722-3896b2e1.png" width="40" alt="Visio">
 </a>
 
 </p>
@@ -375,19 +376,19 @@ Visit the portfolio here:
 <p align="left">
 
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman">
+    <img src="./assets/readme/external/logos-getpostman-getpostman-icon-3133174d.svg" width="40" alt="Postman">
   </a>
 
   <a href="https://junit.org/junit5/" target="_blank">
-    <img src="https://cdn.simpleicons.org/junit5/25A162" width="40" alt="JUnit">
+    <img src="./assets/readme/external/junit5-25A162-9f8e765f.svg" width="40" alt="JUnit">
   </a>
 
 <a href="https://site.mockito.org/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/2656033?s=200&v=4" width="40" alt="Mockito">
+  <img src="./assets/readme/external/u-2656033-a21d53c3.png" width="40" alt="Mockito">
 </a>
 
   <a href="https://pytest.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="40" alt="Pytest">
+    <img src="./assets/readme/external/pytest-0A9EDC-7200b94a.svg" width="40" alt="Pytest">
   </a>
 
 </p>
@@ -396,15 +397,15 @@ Visit the portfolio here:
 <p align="left">
 
   <a href="https://www.qt.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/qt/41CD52" width="40" alt="Qt">
+    <img src="./assets/readme/external/qt-41CD52-32ef5527.svg" width="40" alt="Qt">
   </a>
 
   <a href="https://openjfx.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="40" alt="JavaFX">
+    <img src="./assets/readme/external/openjdk-ED8B00-bafcf158.svg" width="40" alt="JavaFX">
   </a>
 
   <a href="https://docs.oracle.com/javase/tutorial/uiswing/" target="_blank">
-    <img src="https://cdn.simpleicons.org/openjdk/FFFFFF" width="40" alt="Java Swing">
+    <img src="./assets/readme/external/openjdk-FFFFFF-c5a38d0b.svg" width="40" alt="Java Swing">
   </a>
 
 </p>
@@ -415,35 +416,35 @@ Visit the portfolio here:
 <p align="left">
   <!-- Windows -->
   <a href="https://www.microsoft.com/windows/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" alt="Windows">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-windows8-windows8-original-c9a40368.svg" width="40" alt="Windows">
   </a>
   
   <!-- macOS -->
   <a href="https://www.apple.com/macos/" target="_blank">
-    <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="40" alt="macOS">
+    <img src="./assets/readme/external/apple-FFFFFF-18bc3f45.svg" width="40" alt="macOS">
   </a>
 
   <!-- Kali Linux -->
   <a href="https://www.kali.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/kalilinux" width="40" alt="Kali Linux">
+    <img src="./assets/readme/external/kalilinux-a60853a6.svg" width="40" alt="Kali Linux">
   </a>
 
   <!-- Ubuntu -->
 <a href="https://ubuntu.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-linux-linux-original-15a14c53.svg" width="40" alt="Linux">
 </a>
 
   <!-- Fedora -->
   <a href="https://fedoraproject.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="40" alt="Fedora">
+    <img src="./assets/readme/external/devicons-devicon-master-icons-fedora-fedora-original-3a511053.svg" width="40" alt="Fedora">
   </a>
 
   <a href="https://www.vmware.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/vmware/607078" width="40" alt="VMware">
+  <img src="./assets/readme/external/vmware-607078-179db399.svg" width="40" alt="VMware">
 </a>
 
 <a href="https://www.vmware.com/products/vsphere.html" target="_blank">
-  <img src="https://cdn.simpleicons.org/vmware/0078D4" width="40" alt="vSphere">
+  <img src="./assets/readme/external/vmware-0078D4-b2cb941c.svg" width="40" alt="vSphere">
 </a>
 
 </p>
@@ -456,21 +457,35 @@ Visit the portfolio here:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/C++%20Essentials%201-Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="./assets/badges/NetAcad-C++-Essentials-1-1BA0D7-43e4f26a.svg" />
 
-<img src="https://img.shields.io/badge/Python%20Essentials%201-Cisco%20NetAcad-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="./assets/badges/NetAcad-C++-Essentials-2-00599C-c9ad9d69.svg" />
 
-<img src="https://img.shields.io/badge/Python%20Essentials%202-Cisco%20NetAcad-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="./assets/badges/NetAcad-Advanced-C++-004482-8b0d57bb.svg" />
 
-<img src="https://img.shields.io/badge/Networking%20Basics-Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="./assets/badges/NetAcad-CSS-Essentials-1572B6-f2abb417.svg" />
 
-<img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Cisco%20NetAcad-darkgreen?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="./assets/badges/NetAcad-JavaScript-Essentials-1-F7DF1E-30242b26.svg" />
 
-<img src="https://img.shields.io/badge/Data%20Science%20Essentials%20with%20Python-Cisco%20NetAcad-yellow?style=for-the-badge&logo=python&logoColor=black" />
+<img src="./assets/badges/NetAcad-JavaScript-Essentials-2-EFD81D-95a6feef.svg" />
 
-<img src="https://img.shields.io/badge/Getting%20Started%20with%20Cisco%20Packet%20Tracer-Cisco%20NetAcad-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="./assets/badges/Python-Essentials-1-Cisco-NetAcad-3776AB-29c67885.svg" />
 
-<img src="https://img.shields.io/badge/HTML%20Essentials-Cisco%20NetAcad-orange?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="./assets/badges/Python-Essentials-2-Cisco-NetAcad-3776AB-2ff1ca82.svg" />
+
+<img src="./assets/badges/Networking-Basics-Cisco-NetAcad-1BA0D7-7c256968.svg" />
+
+<img src="./assets/badges/CCNA-200-301-Network-Fundamentals-1BA0D7-59731e1d.svg" />
+
+<img src="./assets/badges/Cisco-Learner-Verification-005073-eb2b68fd.svg" />
+
+<img src="./assets/badges/Introduction-to-Cybersecurity-Cisco-NetAcad-darkgreen-a2208985.svg" />
+
+<img src="./assets/badges/Data-Science-Essentials-with-Python-Cisco-NetAcad-yellow-e280db09.svg" />
+
+<img src="./assets/badges/Getting-Started-with-Cisco-Packet-Tracer-Cisco-NetAcad-005073-038b07ef.svg" />
+
+<img src="./assets/badges/HTML-Essentials-Cisco-NetAcad-orange-3a4a673f.svg" />
 
 </p>
 
@@ -481,47 +496,49 @@ Visit the portfolio here:
 <p align="left">
 
 <a href="https://learn.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Learning-Server%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="./assets/badges/Microsoft-Learning-Server-Technologies-blue-2c87dc27.svg" />
 </a>
 
 <a href="https://learn.microsoft.com/en-us/training/" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20365-Office%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="./assets/badges/Microsoft-365-Office-Technologies-blue-6e7be568.svg" />
 </a>
 
 <a href="https://www.comptia.org/certifications/a" target="_blank">
-  <img src="https://img.shields.io/badge/CompTIA%20A+-IT%20Support-red?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="./assets/badges/CompTIA-A+-IT-Support-red-9ca5144c.svg" />
 </a>
 
+<img src="./assets/badges/CompTIA-A+-Core-1-red-5a9d1065.svg" />
+
+<img src="./assets/badges/CompTIA-A+-Core-2-BD1E2D-2949b83e.svg" />
+
 <a href="https://www.comptia.org/certifications/network" target="_blank">
-  <img src="https://img.shields.io/badge/CompTIA%20Network+-Networking%20Fundamentals-orange?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="./assets/badges/CompTIA-Network+-Networking-Fundamentals-orange-ebf93cad.svg" />
+</a>
+
+<a href="https://www.comptia.org/certifications/cloud" target="_blank">
+  <img src="./assets/badges/CompTIA-Cloud+-Cloud-Computing-00A3E0-003255c3.svg" />
 </a>
 
 <a href="https://www.comptia.org/certifications/security" target="_blank">
-  <img src="https://img.shields.io/badge/CompTIA%20Security+-Cybersecurity-darkgreen?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="./assets/badges/CompTIA-Security+-Cybersecurity-darkgreen-77fe8fa3.svg" />
 </a>
 
-<img src="https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="./assets/badges/CompTIA-Security+-Learner-Verification-107C10-262dbf8d.svg" />
 
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="./assets/badges/Wireshark-Network-Analyzer-blue-a8dedede.svg" />
+
+<img src="./assets/badges/Cisco-Networking-1BA0D7-80637403.svg" />
 
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
-  <img src="https://img.shields.io/badge/AWS%20CLF--C01-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
-
-<a href="https://aws.amazon.com/machine-learning/ai-practitioner/" target="_blank">
-  <img src="https://img.shields.io/badge/AWS%20AIF--C01-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="./assets/badges/AWS-CLF-C02-FF9900-51373805.svg" />
 </a>
 
 <a href="https://aws.amazon.com/training/digital/aws-cloud-quest/" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Learning-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
-
-<a href="https://learn.microsoft.com/en-us/training/" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20365-Office%20Technologies-blue?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="./assets/badges/AWS-Cloud-Learning-orange-eb12ab3b.svg" />
 </a>
 
 <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-purple?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="./assets/badges/Microsoft-Fabric-Data-Platform-purple-cbb6357b.svg" />
 </a>
 
 
@@ -533,15 +550,15 @@ Visit the portfolio here:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/HTML-Orange%20Coding%20Academy-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="./assets/badges/HTML-Orange-Coding-Academy-E34F26-7ecc0a95.svg" />
 
-<img src="https://img.shields.io/badge/CSS-Orange%20Coding%20Academy-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="./assets/badges/CSS-Orange-Coding-Academy-1572B6-4de93d5c.svg" />
 
-<img src="https://img.shields.io/badge/JavaScript-Orange%20Coding%20Academy-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="./assets/badges/JavaScript-Orange-Coding-Academy-F7DF1E-6d0bbadc.svg" />
 
-<img src="https://img.shields.io/badge/SOLID-Principles-4CAF50?style=for-the-badge" />
+<img src="./assets/badges/SOLID-Principles-4CAF50-19dcd060.svg" />
 
-<img src="https://img.shields.io/badge/3--Tier-Architecture-blue?style=for-the-badge" />
+<img src="./assets/badges/3-Tier-Architecture-blue-0b45e59e.svg" />
 
 </p>
 
@@ -551,15 +568,15 @@ Visit the portfolio here:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Video%20Editing-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
+<img src="./assets/badges/Video-Editing-Udemy-A435F0-45be70df.svg" />
 
-<img src="https://img.shields.io/badge/Canva%20Design-Udemy-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="./assets/badges/Canva-Design-Udemy-00C4CC-46409b18.svg" />
 
-<img src="https://img.shields.io/badge/ICDL-Digital%20Skills-green?style=for-the-badge" />
+<img src="./assets/badges/ICDL-Digital-Skills-green-95acc18e.svg" />
 
-<img src="https://img.shields.io/badge/TOT-Training%20of%20Trainers-orange?style=for-the-badge" />
+<img src="./assets/badges/TOT-Training-of-Trainers-orange-4d1ebeaf.svg" />
 
-<img src="https://img.shields.io/badge/CCBA-Business%20Analysis-blue?style=for-the-badge" />
+<img src="./assets/badges/CCBA-Business-Analysis-blue-9d91e70b.svg" />
 
 </p>
 
@@ -569,43 +586,43 @@ Visit the portfolio here:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/01-Foundations%20Level%201-success?style=for-the-badge" />
+<img src="./assets/badges/01-Foundations-Level-1-success-c5d57a50.svg" />
 
-<img src="https://img.shields.io/badge/02-Algorithms%20Level%201-success?style=for-the-badge" />
+<img src="./assets/badges/02-Algorithms-Level-1-success-bcc4b60e.svg" />
 
-<img src="https://img.shields.io/badge/03-C++%20Level%201-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="./assets/badges/03-C++-Level-1-blue-882988d3.svg" />
 
-<img src="https://img.shields.io/badge/04-Advanced%20Solutions%20for%20Algorithms%201-success?style=for-the-badge" />
+<img src="./assets/badges/04-Advanced-Solutions-for-Algorithms-1-success-7c85ddb3.svg" />
 
-<img src="https://img.shields.io/badge/05-Algorithms%20Level%202-success?style=for-the-badge" />
+<img src="./assets/badges/05-Algorithms-Level-2-success-2bd43382.svg" />
 
-<img src="https://img.shields.io/badge/06-C++%20Level%202-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="./assets/badges/06-C++-Level-2-blue-2f765542.svg" />
 
-<img src="https://img.shields.io/badge/07-Algorithms%20Level%203-success?style=for-the-badge" />
+<img src="./assets/badges/07-Algorithms-Level-3-success-94e924a4.svg" />
 
-<img src="https://img.shields.io/badge/08-Algorithms%20Level%204-success?style=for-the-badge" />
+<img src="./assets/badges/08-Algorithms-Level-4-success-9ad2deec.svg" />
 
-<img src="https://img.shields.io/badge/09-Foundations%20Level%202-success?style=for-the-badge" />
+<img src="./assets/badges/09-Foundations-Level-2-success-f971d55a.svg" />
 
-<img src="https://img.shields.io/badge/10-OOP%20Level%201-00599C?style=for-the-badge" />
+<img src="./assets/badges/10-OOP-Level-1-00599C-c218f063.svg" />
 
-<img src="https://img.shields.io/badge/11-OOP%20Level%202-00599C?style=for-the-badge" />
+<img src="./assets/badges/11-OOP-Level-2-00599C-a3f18049.svg" />
 
-<img src="https://img.shields.io/badge/12-Data%20Structures%20Level%201-orange?style=for-the-badge" />
+<img src="./assets/badges/12-Data-Structures-Level-1-orange-12d2a44b.svg" />
 
-<img src="https://img.shields.io/badge/13-Algorithms%20Level%205-success?style=for-the-badge" />
+<img src="./assets/badges/13-Algorithms-Level-5-success-1259c608.svg" />
 
-<img src="https://img.shields.io/badge/14-C%23%20Level%201-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="./assets/badges/14-C-Level-1-68217A-78ba3ad7.svg" />
 
-<img src="https://img.shields.io/badge/15-Database%20Level%201%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="./assets/badges/15-Database-Level-1-SQL-4479A1-7db6812a.svg" />
 
-<img src="https://img.shields.io/badge/16-OOP%20in%20C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="./assets/badges/16-OOP-in-C-68217A-97223b7a.svg" />
 
-<img src="https://img.shields.io/badge/17-Database%20Project-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="./assets/badges/17-Database-Project-4479A1-924a805f.svg" />
 
-<img src="https://img.shields.io/badge/18-C%23%20&%20Database-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="./assets/badges/18-C-Database-68217A-372d2c85.svg" />
 
-<img src="https://img.shields.io/badge/19-Full%20Project%20in%20C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="./assets/badges/19-Full-Project-in-C-68217A-c8eb04f5.svg" />
 
 </p>
 
@@ -615,29 +632,29 @@ Visit the portfolio here:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Computer%20Essentials-Edraak-00AEEF?style=for-the-badge" />
+<img src="./assets/badges/Computer-Essentials-Edraak-00AEEF-8703286a.svg" />
 
-<img src="https://img.shields.io/badge/English%20for%20the%20Workplace-Edraak-00AEEF?style=for-the-badge" />
+<img src="./assets/badges/English-for-the-Workplace-Edraak-00AEEF-5b8058ab.svg" />
 
-<img src="https://img.shields.io/badge/How%20to%20Overcome%20Fear%20in%20Our%20Lives-Edraak-00AEEF?style=for-the-badge" />
+<img src="./assets/badges/How-to-Overcome-Fear-in-Our-Lives-Edraak-00AEEF-0f666209.svg" />
 
-<img src="https://img.shields.io/badge/ICDL%20Base-Edraak-00AEEF?style=for-the-badge" />
+<img src="./assets/badges/ICDL-Base-Edraak-00AEEF-f44152b0.svg" />
 
-<img src="https://img.shields.io/badge/Influential%20Leadership%20&%20Effective%20Management-Edraak-00AEEF?style=for-the-badge" />
+<img src="./assets/badges/Influential-Leadership-Effective-Management-Edraak-00AEEF-07beaec4.svg" />
 
-<img src="https://img.shields.io/badge/Internet%20&%20Email%20Essentials-Edraak-00AEEF?style=for-the-badge" />
+<img src="./assets/badges/Internet-Email-Essentials-Edraak-00AEEF-f10e8683.svg" />
 
-<img src="https://img.shields.io/badge/Introduction%20to%20Networking-Edraak-00AEEF?style=for-the-badge" />
+<img src="./assets/badges/Introduction-to-Networking-Edraak-00AEEF-39f32734.svg" />
 
-<img src="https://img.shields.io/badge/Introduction%20to%20Photography-Edraak-00AEEF?style=for-the-badge" />
+<img src="./assets/badges/Introduction-to-Photography-Edraak-00AEEF-5feec681.svg" />
 
-<img src="https://img.shields.io/badge/Microsoft%20Office%20365-Edraak-00AEEF?style=for-the-badge" />
+<img src="./assets/badges/Microsoft-Office-365-Edraak-00AEEF-597ec032.svg" />
 
-<img src="https://img.shields.io/badge/Operations%20Management-Edraak-00AEEF?style=for-the-badge" />
+<img src="./assets/badges/Operations-Management-Edraak-00AEEF-9490d782.svg" />
 
-<img src="https://img.shields.io/badge/Problem%20Solving%20&%20Decision%20Making%20Skills-Edraak-00AEEF?style=for-the-badge" />
+<img src="./assets/badges/Problem-Solving-Decision-Making-Skills-Edraak-00AEEF-ea396590.svg" />
 
-<img src="https://img.shields.io/badge/Word%20Processing-Edraak-00AEEF?style=for-the-badge" />
+<img src="./assets/badges/Word-Processing-Edraak-00AEEF-f0d2a3c6.svg" />
 
 </p>
 
@@ -652,14 +669,14 @@ Visit the portfolio here:
 
 ## 🎓 Certifications
 
-[![CS50](https://img.shields.io/badge/CS50-Harvard%20University-8B1E3F?style=for-the-badge)](https://cs50.harvard.edu/certificates/46da5d62-c049-47a6-a77a-f4e31ec9da9b)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/anas-emad-sabri-al-shawiki)
-[![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
-[![AB-900](https://img.shields.io/badge/AB--900-Copilot%20%26%20Agent%20Administration-742774?style=for-the-badge&logo=microsoftcopilot&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/copilot-and-agent-administration-fundamentals/?practice-assessment-type=certification)
-[![PL-900](https://img.shields.io/badge/PL--900-Power%20Platform%20Fundamentals-742774?style=for-the-badge&logo=powerapps&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/)
-[![AI-900](https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
-[![DP-900](https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-005A9C?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
-[![SC-900](https://img.shields.io/badge/SC--900-Security%2C%20Compliance%20%26%20Identity-107C10?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
+[![CS50](./assets/badges/CS50-Harvard-University-8B1E3F-d00e7cad.svg)](https://cs50.harvard.edu/certificates/46da5d62-c049-47a6-a77a-f4e31ec9da9b)
+[![Credly](./assets/badges/Credly-FF6B00-78573125.svg)](https://www.credly.com/users/anas-emad-sabri-al-shawiki)
+[![AZ-900](./assets/badges/AZ-900-Azure-Fundamentals-0078D4-f4852bf8.svg)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
+[![AB-900](./assets/badges/AB-900-Copilot-Agent-Administration-742774-44a07a9c.svg)](https://learn.microsoft.com/en-us/credentials/certifications/copilot-and-agent-administration-fundamentals/?practice-assessment-type=certification)
+[![PL-900](./assets/badges/PL-900-Power-Platform-Fundamentals-742774-ebd4984c.svg)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/)
+[![AI-900](./assets/badges/AI-900-Azure-AI-Fundamentals-0078D4-6a0d5b0a.svg)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
+[![DP-900](./assets/badges/DP-900-Azure-Data-Fundamentals-005A9C-dd3529d8.svg)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
+[![SC-900](./assets/badges/SC-900-Security-Compliance-Identity-107C10-eed5b9c8.svg)](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
 
 ---
 
@@ -678,19 +695,19 @@ Visit the portfolio here:
 <p align="left">
 
 <!-- AI Tools -->
-<img src="https://img.shields.io/badge/Ollama-Local%20LLM%20Runner-black?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Models-LLMs-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KoboldCPP-Local%20Inference-purple?style=for-the-badge" />
+<img src="./assets/badges/Ollama-Local-LLM-Runner-black-22a74c2d.svg" />
+<img src="./assets/badges/AI-Models-LLMs-blue-3171afd8.svg" />
+<img src="./assets/badges/KoboldCPP-Local-Inference-purple-b0841874.svg" />
 </p>
 
 ### 🧠 LLMs & Models Experience
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Qwen-2.5%20Coder-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DeepSeek-Coder-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Llama-Models-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mistral-AI-gray?style=for-the-badge" />
+<img src="./assets/badges/Qwen-2.5-Coder-orange-181ec436.svg" />
+<img src="./assets/badges/DeepSeek-Coder-red-5ddaa966.svg" />
+<img src="./assets/badges/Llama-Models-purple-00a4774b.svg" />
+<img src="./assets/badges/Mistral-AI-gray-8fdaba72.svg" />
 
 </p>
 
@@ -698,14 +715,16 @@ Visit the portfolio here:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/OpenRouter-AI%20Gateway-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HuggingFace-Models-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Together%20AI-LLM%20API-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Groq-LLM%20Inference-red?style=for-the-badge" />
+<img src="./assets/badges/OpenRouter-AI-Gateway-blue-d77a0850.svg" />
+<img src="./assets/badges/HuggingFace-Models-yellow-20a20513.svg" />
+<img src="./assets/badges/Together-AI-LLM-API-orange-9b47b8d8.svg" />
+<img src="./assets/badges/Groq-LLM-Inference-red-d6ac7eef.svg" />
 
 </p>
 
 ---
+
+<a id="contact-information"></a>
 
 ## 📬 Contact Information <img src="./assets/readme/phone.gif" width="30px">
 
@@ -734,7 +753,7 @@ Visit the portfolio here:
 ## 🏆 GitHub Trophies 
 
 <div align="center">
-  <img src="./assets/trophy.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anasemadanas&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
 </div>
 
 ---
@@ -742,7 +761,7 @@ Visit the portfolio here:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="./assets/top-langs.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ---
@@ -750,7 +769,7 @@ Visit the portfolio here:
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="./assets/streak.svg" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=dark" width="500" />
 </div>
 
 > ⚠️ **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -759,7 +778,7 @@ Visit the portfolio here:
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="./assets/activity-graph.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" />
 </p>
 
 ---
@@ -771,16 +790,11 @@ Visit the portfolio here:
   <img src="https://img.shields.io/github/stars/anasemadanas?style=for-the-badge" />
 </p>
 
-## 👀 Visitors
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=anasemadanas" />
-</p>
-
 ---
 
 ## 🧠 Dev Quote
 <p align="center">
-  <img src="./assets/quote.svg">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
 </p>
 
 ---
@@ -794,36 +808,34 @@ Visit the portfolio here:
 
 ## 🐍 Contribution Snake
 
-![snake](https://raw.githubusercontent.com/anasemadanas/anasemadanas/output/snake.svg)
+![snake](./assets/readme/external/anasemadanas-anasemadanas-output-snake-eee0e1e1.svg)
 
 ---
 
 ## ⚔️ Profile Summary 
 
 <div align="center">
-  <img src="./assets/profile-details.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark" />
 </div>
 
 <div align="center">
-  <img src="./assets/typing2.svg" />
+  <img src="./assets/generated/typing2.svg" />
 </div>
 
 ## 🔝 Back To Top
 
 <p align="center"> 
   <a href="#anas-emad---software-developer"> 
-    <img src="./assets/Back-To-Top.svg"/> 
+    <img src="./assets/static/Back-To-Top.svg"/> 
   </a> 
 </p>
 
 <p align="center">
 💙 Thank you for visiting my portfolio
-<br><br>
-  <img src="https://komarev.com/ghpvc/?username=anasemadanas&style=for-the-badge&color=blue" />
 </p>
 
 <p align="center">
   <a href="https://github.com/anasemadanas" target="_blank">
-      <img src="./assets/Credit-Anas Emad-blue.svg" />
+      <img src="./assets/static/Credit-Anas Emad-blue.svg" />
   </a>
 </p>

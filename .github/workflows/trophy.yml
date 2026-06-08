@@ -2,8 +2,6 @@ name: Generate Trophy
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * 0"
 
 permissions:
   contents: write
@@ -15,11 +13,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create assets folder
+        run: mkdir -p assets/generated
+
       - name: Generate trophy card
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
           options: 'username=anasemadanas&theme=darkhub&no-frame=true&no-bg=true&margin-w=5'
-          path: assets/trophy.svg
+          path: assets/generated/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit trophy
@@ -27,7 +28,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add assets/trophy.svg
+          git add assets/generated/trophy.svg
 
           if git diff --cached --quiet; then
             echo "No changes to commit"

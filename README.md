@@ -11,7 +11,9 @@ Passionate about building real-world backend systems & secure applications
 🚀 Backend Developer (Multi-stack: .NET + Python/Django, Java) | Cybersecurity Learner
 
 <div align="center">
+  <a href="https://github.com/anasemadanas" target="_blank">
   <img src="./assets/generated/typing1.svg" />
+  </a>
 </div>
 
 ---
@@ -241,10 +243,18 @@ Visit the portfolio here:
 ## ☁️ Cloud & DevOps 
 
 <p align="left">
+  <a href="https://azure.microsoft.com/" target="_blank">
   <img src="./assets/badges/Azure-Cloud-blue-6c5591aa.svg" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
   <img src="./assets/badges/AWS-Cloud-orange-13f301f0.svg" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
   <img src="./assets/badges/Docker-Containers-blue-7de33744.svg" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
   <img src="./assets/badges/Linux-System-Administration-black-fefe6d86.svg" />
+  </a>
 </p>
 
 ---
@@ -457,35 +467,65 @@ Visit the portfolio here:
 
 <p align="left">
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/NetAcad-C++-Essentials-1-1BA0D7-43e4f26a.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/NetAcad-C++-Essentials-2-00599C-c9ad9d69.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/NetAcad-Advanced-C++-004482-8b0d57bb.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/NetAcad-CSS-Essentials-1572B6-f2abb417.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/NetAcad-JavaScript-Essentials-1-F7DF1E-30242b26.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/NetAcad-JavaScript-Essentials-2-EFD81D-95a6feef.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/Python-Essentials-1-Cisco-NetAcad-3776AB-29c67885.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/Python-Essentials-2-Cisco-NetAcad-3776AB-2ff1ca82.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/Networking-Basics-Cisco-NetAcad-1BA0D7-7c256968.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/CCNA-200-301-Network-Fundamentals-1BA0D7-59731e1d.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/Cisco-Learner-Verification-005073-eb2b68fd.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/Introduction-to-Cybersecurity-Cisco-NetAcad-darkgreen-a2208985.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/Data-Science-Essentials-with-Python-Cisco-NetAcad-yellow-e280db09.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/Getting-Started-with-Cisco-Packet-Tracer-Cisco-NetAcad-005073-038b07ef.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/HTML-Essentials-Cisco-NetAcad-orange-3a4a673f.svg" />
+</a>
 
 </p>
 
@@ -507,9 +547,13 @@ Visit the portfolio here:
   <img src="./assets/badges/CompTIA-A+-IT-Support-red-9ca5144c.svg" />
 </a>
 
+<a href="https://www.comptia.org/certifications/a" target="_blank">
 <img src="./assets/badges/CompTIA-A+-Core-1-red-5a9d1065.svg" />
+</a>
 
+<a href="https://www.comptia.org/certifications/a" target="_blank">
 <img src="./assets/badges/CompTIA-A+-Core-2-BD1E2D-2949b83e.svg" />
+</a>
 
 <a href="https://www.comptia.org/certifications/network" target="_blank">
   <img src="./assets/badges/CompTIA-Network+-Networking-Fundamentals-orange-ebf93cad.svg" />
@@ -523,11 +567,17 @@ Visit the portfolio here:
   <img src="./assets/badges/CompTIA-Security+-Cybersecurity-darkgreen-77fe8fa3.svg" />
 </a>
 
+<a href="https://www.comptia.org/certifications/security" target="_blank">
 <img src="./assets/badges/CompTIA-Security+-Learner-Verification-107C10-262dbf8d.svg" />
+</a>
 
+<a href="https://www.wireshark.org/" target="_blank">
 <img src="./assets/badges/Wireshark-Network-Analyzer-blue-a8dedede.svg" />
+</a>
 
+<a href="https://www.netacad.com/" target="_blank">
 <img src="./assets/badges/Cisco-Networking-1BA0D7-80637403.svg" />
+</a>
 
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
   <img src="./assets/badges/AWS-CLF-C02-FF9900-51373805.svg" />
@@ -550,15 +600,25 @@ Visit the portfolio here:
 
 <p align="left">
 
+<a href="https://orange.jo/en/corporate/csr/coding-academy" target="_blank">
 <img src="./assets/badges/HTML-Orange-Coding-Academy-E34F26-7ecc0a95.svg" />
+</a>
 
+<a href="https://orange.jo/en/corporate/csr/coding-academy" target="_blank">
 <img src="./assets/badges/CSS-Orange-Coding-Academy-1572B6-4de93d5c.svg" />
+</a>
 
+<a href="https://orange.jo/en/corporate/csr/coding-academy" target="_blank">
 <img src="./assets/badges/JavaScript-Orange-Coding-Academy-F7DF1E-6d0bbadc.svg" />
+</a>
 
+<a href="https://en.wikipedia.org/wiki/SOLID" target="_blank">
 <img src="./assets/badges/SOLID-Principles-4CAF50-19dcd060.svg" />
+</a>
 
+<a href="https://en.wikipedia.org/wiki/Multitier_architecture" target="_blank">
 <img src="./assets/badges/3-Tier-Architecture-blue-0b45e59e.svg" />
+</a>
 
 </p>
 
@@ -568,15 +628,25 @@ Visit the portfolio here:
 
 <p align="left">
 
+<a href="https://www.udemy.com/" target="_blank">
 <img src="./assets/badges/Video-Editing-Udemy-A435F0-45be70df.svg" />
+</a>
 
+<a href="https://www.udemy.com/" target="_blank">
 <img src="./assets/badges/Canva-Design-Udemy-00C4CC-46409b18.svg" />
+</a>
 
+<a href="https://icdl.org/" target="_blank">
 <img src="./assets/badges/ICDL-Digital-Skills-green-95acc18e.svg" />
+</a>
 
+<a href="https://en.wikipedia.org/wiki/Training_of_trainers" target="_blank">
 <img src="./assets/badges/TOT-Training-of-Trainers-orange-4d1ebeaf.svg" />
+</a>
 
+<a href="https://www.iiba.org/business-analysis-certifications/ccba/" target="_blank">
 <img src="./assets/badges/CCBA-Business-Analysis-blue-9d91e70b.svg" />
+</a>
 
 </p>
 
@@ -586,43 +656,81 @@ Visit the portfolio here:
 
 <p align="left">
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/01-Foundations-Level-1-success-c5d57a50.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/02-Algorithms-Level-1-success-bcc4b60e.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/03-C++-Level-1-blue-882988d3.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/04-Advanced-Solutions-for-Algorithms-1-success-7c85ddb3.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/05-Algorithms-Level-2-success-2bd43382.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/06-C++-Level-2-blue-2f765542.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/07-Algorithms-Level-3-success-94e924a4.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/08-Algorithms-Level-4-success-9ad2deec.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/09-Foundations-Level-2-success-f971d55a.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/10-OOP-Level-1-00599C-c218f063.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/11-OOP-Level-2-00599C-a3f18049.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/12-Data-Structures-Level-1-orange-12d2a44b.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/13-Algorithms-Level-5-success-1259c608.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/14-C-Level-1-68217A-78ba3ad7.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/15-Database-Level-1-SQL-4479A1-7db6812a.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/16-OOP-in-C-68217A-97223b7a.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/17-Database-Project-4479A1-924a805f.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/18-C-Database-68217A-372d2c85.svg" />
+</a>
 
+<a href="https://programmingadvices.com/" target="_blank">
 <img src="./assets/badges/19-Full-Project-in-C-68217A-c8eb04f5.svg" />
+</a>
 
 </p>
 
@@ -632,29 +740,53 @@ Visit the portfolio here:
 
 <p align="left">
 
+<a href="https://www.edraak.org/" target="_blank">
 <img src="./assets/badges/Computer-Essentials-Edraak-00AEEF-8703286a.svg" />
+</a>
 
+<a href="https://www.edraak.org/" target="_blank">
 <img src="./assets/badges/English-for-the-Workplace-Edraak-00AEEF-5b8058ab.svg" />
+</a>
 
+<a href="https://www.edraak.org/" target="_blank">
 <img src="./assets/badges/How-to-Overcome-Fear-in-Our-Lives-Edraak-00AEEF-0f666209.svg" />
+</a>
 
+<a href="https://www.edraak.org/" target="_blank">
 <img src="./assets/badges/ICDL-Base-Edraak-00AEEF-f44152b0.svg" />
+</a>
 
+<a href="https://www.edraak.org/" target="_blank">
 <img src="./assets/badges/Influential-Leadership-Effective-Management-Edraak-00AEEF-07beaec4.svg" />
+</a>
 
+<a href="https://www.edraak.org/" target="_blank">
 <img src="./assets/badges/Internet-Email-Essentials-Edraak-00AEEF-f10e8683.svg" />
+</a>
 
+<a href="https://www.edraak.org/" target="_blank">
 <img src="./assets/badges/Introduction-to-Networking-Edraak-00AEEF-39f32734.svg" />
+</a>
 
+<a href="https://www.edraak.org/" target="_blank">
 <img src="./assets/badges/Introduction-to-Photography-Edraak-00AEEF-5feec681.svg" />
+</a>
 
+<a href="https://www.edraak.org/" target="_blank">
 <img src="./assets/badges/Microsoft-Office-365-Edraak-00AEEF-597ec032.svg" />
+</a>
 
+<a href="https://www.edraak.org/" target="_blank">
 <img src="./assets/badges/Operations-Management-Edraak-00AEEF-9490d782.svg" />
+</a>
 
+<a href="https://www.edraak.org/" target="_blank">
 <img src="./assets/badges/Problem-Solving-Decision-Making-Skills-Edraak-00AEEF-ea396590.svg" />
+</a>
 
+<a href="https://www.edraak.org/" target="_blank">
 <img src="./assets/badges/Word-Processing-Edraak-00AEEF-f0d2a3c6.svg" />
+</a>
 
 </p>
 
@@ -695,19 +827,33 @@ Visit the portfolio here:
 <p align="left">
 
 <!-- AI Tools -->
+<a href="https://ollama.com/" target="_blank">
 <img src="./assets/badges/Ollama-Local-LLM-Runner-black-22a74c2d.svg" />
+</a>
+<a href="https://github.com/anasemadanas" target="_blank">
 <img src="./assets/badges/AI-Models-LLMs-blue-3171afd8.svg" />
+</a>
+<a href="https://github.com/LostRuins/koboldcpp" target="_blank">
 <img src="./assets/badges/KoboldCPP-Local-Inference-purple-b0841874.svg" />
+</a>
 </p>
 
 ### 🧠 LLMs & Models Experience
 
 <p align="left">
 
+<a href="https://qwenlm.github.io/" target="_blank">
 <img src="./assets/badges/Qwen-2.5-Coder-orange-181ec436.svg" />
+</a>
+<a href="https://www.deepseek.com/" target="_blank">
 <img src="./assets/badges/DeepSeek-Coder-red-5ddaa966.svg" />
+</a>
+<a href="https://www.llama.com/" target="_blank">
 <img src="./assets/badges/Llama-Models-purple-00a4774b.svg" />
+</a>
+<a href="https://mistral.ai/" target="_blank">
 <img src="./assets/badges/Mistral-AI-gray-8fdaba72.svg" />
+</a>
 
 </p>
 
@@ -715,10 +861,18 @@ Visit the portfolio here:
 
 <p align="left">
 
+<a href="https://openrouter.ai/" target="_blank">
 <img src="./assets/badges/OpenRouter-AI-Gateway-blue-d77a0850.svg" />
+</a>
+<a href="https://huggingface.co/" target="_blank">
 <img src="./assets/badges/HuggingFace-Models-yellow-20a20513.svg" />
+</a>
+<a href="https://www.together.ai/" target="_blank">
 <img src="./assets/badges/Together-AI-LLM-API-orange-9b47b8d8.svg" />
+</a>
+<a href="https://groq.com/" target="_blank">
 <img src="./assets/badges/Groq-LLM-Inference-red-d6ac7eef.svg" />
+</a>
 
 </p>
 
@@ -753,7 +907,9 @@ Visit the portfolio here:
 ## 🏆 GitHub Trophies 
 
 <div align="center">
+  <a href="https://github.com/anasemadanas" target="_blank">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=anasemadanas&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
+  </a>
 </div>
 
 ---
@@ -761,7 +917,9 @@ Visit the portfolio here:
 ## 📊 GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/anasemadanas?tab=repositories" target="_blank">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark&hide_border=true" />
+  </a>
 </div>
 
 ---
@@ -769,7 +927,9 @@ Visit the portfolio here:
 ## 🔥 GitHub Streak
 
 <div align="center">
+  <a href="https://github.com/anasemadanas" target="_blank">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=dark" width="500" />
+  </a>
 </div>
 
 > ⚠️ **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -778,48 +938,64 @@ Visit the portfolio here:
 
 ## 📈 Activity Graph
 <p align="center">
+  <a href="https://github.com/anasemadanas" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" />
+  </a>
 </p>
 
 ---
 
 ## 🏅 Badges
 <p align="center">
+  <a href="https://github.com/anasemadanas" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=anasemadanas&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/anasemadanas?tab=followers" target="_blank">
   <img src="https://img.shields.io/github/followers/anasemadanas?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/anasemadanas?tab=stars" target="_blank">
   <img src="https://img.shields.io/github/stars/anasemadanas?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 Dev Quote
 <p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  </a>
 </p>
 
 ---
 
 ## 🔥 Contribution Calendar
 <p align="center">
+  <a href="https://github.com/anasemadanas" target="_blank">
   <img src="https://ghchart.rshah.org/anasemadanas" />
+  </a>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake](./assets/readme/external/anasemadanas-anasemadanas-output-snake-eee0e1e1.svg)
+[![snake](./assets/readme/external/anasemadanas-anasemadanas-output-snake-eee0e1e1.svg)](https://github.com/anasemadanas)
 
 ---
 
 ## ⚔️ Profile Summary 
 
 <div align="center">
+  <a href="https://github.com/anasemadanas" target="_blank">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark" />
+  </a>
 </div>
 
 <div align="center">
+  <a href="https://github.com/anasemadanas" target="_blank">
   <img src="./assets/generated/typing2.svg" />
+  </a>
 </div>
 
 ## 🔝 Back To Top

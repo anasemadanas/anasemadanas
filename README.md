@@ -753,7 +753,7 @@ Visit the portfolio here:
 ## 🏆 GitHub Trophies 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anasemadanas&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=anasemadanas&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
 </div>
 
 ---
@@ -761,7 +761,7 @@ Visit the portfolio here:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 ---

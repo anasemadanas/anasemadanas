@@ -601,10 +601,6 @@ Visit the portfolio here:
   <img src="./assets/badges/AWS-AI-Practitioner-AIF-C01-FF9900.svg" />
 </a>
 
-<a href="https://aws.amazon.com/training/digital/aws-cloud-quest/" target="_blank">
-  <img src="./assets/badges/AWS-Cloud-Learning-orange-eb12ab3b.svg" />
-</a>
-
 <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank">
   <img src="./assets/badges/Microsoft-Fabric-Data-Platform-purple-cbb6357b.svg" />
 </a>

@@ -34,6 +34,8 @@ Passionate about building real-world backend systems & secure applications
 
 ---
 
+<a id="about-me"></a>
+
 ## 👤 About Me
 
 ```dart
@@ -149,6 +151,8 @@ class AboutMe extends Me {
 
 ---
 
+<a id="featured-projects"></a>
+
 ## 🚀 Featured Projects
 
 ### 💰 Expense Tracker System
@@ -169,6 +173,8 @@ class AboutMe extends Me {
 
 ---
 
+<a id="currently-learning"></a>
+
 ## 🌱 Currently Learning 
 
 - System Design & Scalability
@@ -179,6 +185,8 @@ class AboutMe extends Me {
 - Cloud Computing & Azure
 
 ---
+
+<a id="problem-solving"></a>
 
 ## 🧠 Problem Solving 
 
@@ -205,6 +213,8 @@ Visit the portfolio here:
 </p>
 
 ---
+<a id="skills"></a>
+
 ## 🛠 Skills
 
 ### 💻 Programming Languages
@@ -231,6 +241,8 @@ Visit the portfolio here:
 
 ---
 
+<a id="development-environment"></a>
+
 ## ⚙️ Development Environment 
 
 - OS: Windows, Ubuntu, Kali Linux
@@ -239,6 +251,8 @@ Visit the portfolio here:
 - Databases: SQL Server, PostgreSQL, MySQL
 
 ---
+
+<a id="cloud--devops"></a>
 
 ## ☁️ Cloud & DevOps 
 
@@ -799,6 +813,8 @@ Visit the portfolio here:
 
 ---
 
+<a id="certifications"></a>
+
 ## 🎓 Certifications
 
 [![CS50](./assets/badges/CS50-Harvard-University-8B1E3F-d00e7cad.svg)](https://cs50.harvard.edu/certificates/46da5d62-c049-47a6-a77a-f4e31ec9da9b)
@@ -811,6 +827,8 @@ Visit the portfolio here:
 [![SC-900](./assets/badges/SC-900-Security-Compliance-Identity-107C10-eed5b9c8.svg)](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
 
 ---
+
+<a id="career-goals"></a>
 
 ## 🎯 Career Goals 
 
@@ -913,6 +931,8 @@ Visit the portfolio here:
 </div>
 
 ---
+
+<a id="github-stats"></a>
 
 ## 📊 GitHub Stats
 

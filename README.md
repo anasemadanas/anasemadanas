@@ -5,7 +5,11 @@
 ## 💡 Hero
 
 <h1 align="center">
-  Hi <img src="./assets/readme/wave.gif" height="45" alt="wave">, I'm Anas Emad
+  Hi 
+  <a href="https://github.com/anasemadanas#about-me" target="_blank">
+    <img src="./assets/readme/wave.gif" height="45" alt="wave">
+  </a>, 
+  I'm Anas Emad
 </h1>
 
 <p align="center">
@@ -22,7 +26,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/anasemadanas" target="_blank">
+  <a href="https://github.com/anasemadanas#about-me" target="_blank">
     <img src="./assets/generated/typing1.svg" alt="Typing intro">
   </a>
 </div>
@@ -307,10 +311,10 @@ class AboutMe extends Me {
 ## ☁️ Cloud & DevOps
 
 <p align="left">
-  <img src="./assets/badges/Azure-Cloud-blue-6c5591aa.svg" alt="Azure Cloud">
-  <img src="./assets/badges/AWS-Cloud-orange-13f301f0.svg" alt="AWS Cloud">
-  <img src="./assets/badges/Docker-Containers-blue-7de33744.svg" alt="Docker">
-  <img src="./assets/badges/Linux-System-Administration-black-fefe6d86.svg" alt="Linux">
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="./assets/badges/Azure-Cloud-blue-6c5591aa.svg" alt="Azure Cloud"></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="./assets/badges/AWS-Cloud-orange-13f301f0.svg" alt="AWS Cloud"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="./assets/badges/Docker-Containers-blue-7de33744.svg" alt="Docker"></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="./assets/badges/Linux-System-Administration-black-fefe6d86.svg" alt="Linux"></a>
 </p>
 
 ---
@@ -401,7 +405,7 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 
 <p align="left">
   <a href="https://ollama.com/" target="_blank"><img src="./assets/badges/Ollama-Local-LLM-Runner-black-22a74c2d.svg" alt="Ollama"></a>
-  <a href="https://github.com/anasemadanas" target="_blank"><img src="./assets/badges/AI-Models-LLMs-blue-3171afd8.svg" alt="AI Models"></a>
+  <a href="https://github.com/anasemadanas#career-goals" target="_blank"><img src="./assets/badges/AI-Models-LLMs-blue-3171afd8.svg" alt="AI Models"></a>
   <a href="https://github.com/LostRuins/koboldcpp" target="_blank"><img src="./assets/badges/KoboldCPP-Local-Inference-purple-b0841874.svg" alt="KoboldCPP"></a>
 </p>
 
@@ -438,7 +442,7 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 <br>
 
 <div align="center">
-  <a href="https://github.com/anasemadanas" target="_blank">
+  <a href="https://github.com/anasemadanas#github-stats" target="_blank">
     <img src="https://streak-stats.demolab.com/?user=anasemadanas&theme=dark" width="500" alt="GitHub streak">
   </a>
 </div>
@@ -446,7 +450,7 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 <br>
 
 <div align="center">
-  <a href="https://github.com/anasemadanas" target="_blank">
+  <a href="https://github.com/anasemadanas#github-stats" target="_blank">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark" alt="GitHub profile summary">
   </a>
 </div>
@@ -454,6 +458,7 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 <br>
 
 <p align="center">
+  <a href="https://github.com/anasemadanas#github-stats" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" alt="GitHub activity graph">
 </p>
 
@@ -465,12 +470,14 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 ### 🏆 Trophies
 
 <div align="center">
+  <a href="https://github.com/anasemadanas#github-stats" target="_blank">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=anasemadanas&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" alt="GitHub trophies">
 </div>
 
 ### 🔥 Contribution Calendar
 
 <p align="center">
+  <a href="https://github.com/anasemadanas#github-stats" target="_blank">
   <img src="https://ghchart.rshah.org/anasemadanas" alt="Contribution calendar">
 </p>
 
@@ -496,7 +503,9 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 
 <a id="contact"></a>
 
-## 📬 Contact <img src="./assets/readme/phone.gif" width="30px" alt="phone">
+## 📬 Contact <a href="https://github.com/anasemadanas#contact" target="_blank">
+  <img src="./assets/readme/phone.gif" width="30px" alt="phone">
+</a>
 
 <p align="left">
   <a href="mailto:anasemadanas1@gmail.com"><img src="./assets/badges/Gmail-D14836.svg" alt="Gmail"></a>
@@ -519,7 +528,9 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 </details>
 
 <div align="center">
-  <img src="./assets/generated/typing2.svg" alt="Thank you">
+  <a href="https://github.com/anasemadanas#contact">
+    <img src="./assets/generated/typing2.svg" alt="Thank you">
+  </a>
 </div>
 
 ## 🔝 Back To Top

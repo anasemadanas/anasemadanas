@@ -363,23 +363,6 @@ The full Programming Advices roadmap, text, and badge archive moved to the cours
   <a href="https://en.wikipedia.org/wiki/Multitier_architecture" target="_blank"><img src="./assets/badges/3-Tier-Architecture-blue-0b45e59e.svg" alt="3-Tier Architecture"></a>
 </p>
 
-### 🎓 Edraak Courses
-
-<p align="left">
-  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Computer-Essentials-Edraak-00AEEF-8703286a.svg" alt="Computer Essentials"></a>
-  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/English-for-the-Workplace-Edraak-00AEEF-5b8058ab.svg" alt="English for the Workplace"></a>
-  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/How-to-Overcome-Fear-in-Our-Lives-Edraak-00AEEF-0f666209.svg" alt="How to Overcome Fear"></a>
-  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/ICDL-Base-Edraak-00AEEF-f44152b0.svg" alt="ICDL Base"></a>
-  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Influential-Leadership-Effective-Management-Edraak-00AEEF-07beaec4.svg" alt="Influential Leadership"></a>
-  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Internet-Email-Essentials-Edraak-00AEEF-f10e8683.svg" alt="Internet Email Essentials"></a>
-  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Introduction-to-Networking-Edraak-00AEEF-39f32734.svg" alt="Introduction to Networking"></a>
-  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Introduction-to-Photography-Edraak-00AEEF-5feec681.svg" alt="Introduction to Photography"></a>
-  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Microsoft-Office-365-Edraak-00AEEF-597ec032.svg" alt="Microsoft Office 365"></a>
-  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Operations-Management-Edraak-00AEEF-9490d782.svg" alt="Operations Management"></a>
-  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Problem-Solving-Decision-Making-Skills-Edraak-00AEEF-ea396590.svg" alt="Problem Solving Decision Making"></a>
-  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Word-Processing-Edraak-00AEEF-f0d2a3c6.svg" alt="Word Processing"></a>
-</p>
-
 </details>
 
 ---

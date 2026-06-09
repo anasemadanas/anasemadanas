@@ -479,14 +479,6 @@ I truly appreciate the educational value and structured learning approach that h
   <img src="./assets/badges/Microsoft-365-Office-Technologies-blue-6e7be568.svg" />
 </a>
 
-<a href="https://www.comptia.org/certifications/network" target="_blank">
-  <img src="./assets/badges/CompTIA-Network+-Networking-Fundamentals-orange-ebf93cad.svg" />
-</a>
-
-<a href="https://www.comptia.org/certifications/cloud" target="_blank">
-  <img src="./assets/badges/CompTIA-Cloud+-Cloud-Computing-00A3E0-003255c3.svg" />
-</a>
-
 <a href="https://www.wireshark.org/" target="_blank">
 <img src="./assets/badges/Wireshark-Network-Analyzer-blue-a8dedede.svg" />
 </a>
@@ -499,6 +491,22 @@ I truly appreciate the educational value and structured learning approach that h
   <img src="./assets/badges/Microsoft-Fabric-Data-Platform-purple-cbb6357b.svg" />
 </a>
 
+
+</p>
+
+---
+
+### 🧩 CompTIA Learning
+
+<p align="left">
+
+<a href="https://www.comptia.org/certifications/network" target="_blank">
+  <img src="./assets/badges/CompTIA-Network+-Networking-Fundamentals-orange-ebf93cad.svg" />
+</a>
+
+<a href="https://www.comptia.org/certifications/cloud" target="_blank">
+  <img src="./assets/badges/CompTIA-Cloud+-Cloud-Computing-00A3E0-003255c3.svg" />
+</a>
 
 </p>
 

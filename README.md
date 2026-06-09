@@ -17,7 +17,7 @@
     <img src="./assets/badges/Visit-Portfolio-Click-Here-0A66C2-a0b81e95.svg" alt="Visit portfolio">
   </a>
   <a href="https://github.com/anasemadanas" target="_blank">
-    <img src="./assets/static/ghpvc-84256598.svg" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=anasemadanas&label=Visitors&color=1E3A8A&style=for-the-badge" alt="Profile views">
   </a>
 </p>
 

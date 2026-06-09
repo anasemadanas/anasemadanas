@@ -249,16 +249,6 @@ The full archive is maintained separately in [anasemadanas/courses](https://gith
   <img src="https://ghchart.rshah.org/anasemadanas" alt="Contribution calendar">
 </p>
 
-### Contribution Snake
-
-[![snake](./assets/readme/external/anasemadanas-anasemadanas-output-snake-eee0e1e1.svg)](https://github.com/anasemadanas)
-
-### Dev Quote
-
-<p align="center">
-  <img src="./assets/static/quote.svg" alt="Developer quote">
-</p>
-
 </details>
 
 ---

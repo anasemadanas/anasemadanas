@@ -52,22 +52,53 @@
 ## 👤 About Me
 
 ```dart
+
 class AboutMe extends Me {
-  final Map<String, dynamic> profile = {
-    "Name": "Anas Emad",
+  final Map<String, dynamic> personalInfo = {
+    "FullName": "Anas Emad",
     "Title": "Backend Developer | Cloud & Cybersecurity Learner",
-    "CoreFocus": [
-      "Backend Development with .NET, Django, and Java",
-      "REST APIs, authentication, dashboards, and database-backed systems",
-      "Cloud, DevOps, Linux, Docker, and deployment fundamentals",
-      "Cybersecurity foundations and secure application design",
-      "AI integrations with backend services and developer workflows"
+
+    "FocusAreas": [
+      "Backend Development (.NET, Django, Java)",
+      "Production-style web apps and REST APIs",
+      "Cloud, DevOps, and secure system design",
+      "AI integrations with backend systems"
     ],
-    "Strengths": [
-      "Problem solving and algorithms",
-      "OOP, clean code, SQL, and layered architecture",
-      "Building practical projects and documenting learning progress"
-    ]
+
+    "Highlights": [
+      "Built Django and .NET applications",
+      "Designed database-backed backend systems",
+      "Solved 1000+ algorithmic challenges"
+    ],
+
+    "CurrentProjects": [
+      "Expense Tracking System (Django Web App)",
+      "Backend architecture and API design practice",
+      "AI-powered backend integrations"
+    ],
+
+    "TechnicalSkills": {
+      "Languages": ["C++", "C#", "Java", "Python", "JavaScript"],
+      "Backend": [".NET", "Django", "Java", "REST APIs"],
+      "Databases": ["SQL Server", "PostgreSQL", "MySQL"],
+      "CloudSecurity": ["AWS", "Azure", "Docker", "Linux", "Cybersecurity"]
+    },
+
+    "Goals": [
+      "Grow as a backend engineer",
+      "Build scalable and secure systems",
+      "Apply cloud, DevOps, cybersecurity, and AI in real projects"
+    ],
+
+    "Contact": {
+      "Email":         "anasemadanas1@gmail.com",
+      "LinkedIn":      "https://www.linkedin.com/in/eng-anasemad",
+      "Reddit":        "https://www.reddit.com/user/anasemadanas1",
+      "StackOverflow": "https://stackoverflow.com/users/32631412/anas-emad",
+      "Discord":       "https://discord.com/users/559077785587679272",
+      "ORCID":         "https://orcid.org/0009-0000-7569-8202",
+      "Facebook":      "https://www.facebook.com/anasemadanas1"
+    }
   };
 }
 ```

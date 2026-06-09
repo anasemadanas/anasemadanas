@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="28" role="img" aria-label="Courses Archive: GitHub Repo">
+  <title>Courses Archive: GitHub Repo</title>
+  <g shape-rendering="crispEdges">
+    <rect width="114" height="28" fill="#555"/>
+    <rect x="114" width="74" height="28" fill="#181717"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <text transform="scale(.1)" x="570" y="175" textLength="900">Courses Archive</text>
+    <text transform="scale(.1)" x="1510" y="175" textLength="520" font-weight="bold">GitHub</text>
+  </g>
+</svg>

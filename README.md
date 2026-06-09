@@ -445,7 +445,27 @@ Visit the portfolio here:
 <details>
 <summary><strong>📚 More Courses & Learning Archive</strong></summary>
 
-> Full archive repository: [courses](https://github.com/anasemadanas/courses)
+> Full archive repository: [anasemadanas/courses](https://github.com/anasemadanas/courses)
+
+<p align="left">
+  <a href="https://github.com/anasemadanas/courses" target="_blank">
+    <img src="./assets/badges/Courses-Archive-181717.svg" />
+  </a>
+</p>
+
+### 💻 ProgrammingAdvices Roadmap
+
+🔗 [ProgrammingAdvices](https://programmingadvices.com/)
+
+Programming Advices played a major role in my journey into software engineering and the IT field.  
+It was one of the main foundations that helped shape my problem-solving mindset, programming logic, and backend development skills.
+
+Through its roadmap and practical projects, I built a strong understanding of algorithms, OOP, databases, system thinking, and clean code principles.  
+It became an important starting point in my professional growth and learning journey.
+
+I truly appreciate the educational value and structured learning approach that helped me progress from fundamentals to building real-world applications.
+
+---
 
 ### ☁️ Cloud, Microsoft & Security Learning
 

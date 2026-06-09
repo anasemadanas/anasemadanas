@@ -467,7 +467,7 @@ I truly appreciate the educational value and structured learning approach that h
 
 ---
 
-### ☁️ Cloud, Microsoft & Security Learning
+### ☁️ Cloud, Microsoft, AWS & AI Learning
 
 <p align="left">
 
@@ -532,7 +532,7 @@ I truly appreciate the educational value and structured learning approach that h
 
 ---
 
-> 📌 These represent completed courses, learning paths, certificates of completion, and self-study programs — not official international certifications unless explicitly verified.
+> 📌 These represent completed courses, learning paths, certificates of completion, and self-study programs.
 
 
 </details>

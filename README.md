@@ -512,34 +512,6 @@ Visit the portfolio here:
 
 ---
 
-### 🎨 Creative, Productivity & Business Skills
-
-<p align="left">
-
-<a href="https://www.udemy.com/" target="_blank">
-<img src="./assets/badges/Video-Editing-Udemy-A435F0-45be70df.svg" />
-</a>
-
-<a href="https://www.udemy.com/" target="_blank">
-<img src="./assets/badges/Canva-Design-Udemy-00C4CC-46409b18.svg" />
-</a>
-
-<a href="https://icdl.org/" target="_blank">
-<img src="./assets/badges/ICDL-Digital-Skills-green-95acc18e.svg" />
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Training_of_trainers" target="_blank">
-<img src="./assets/badges/TOT-Training-of-Trainers-orange-4d1ebeaf.svg" />
-</a>
-
-<a href="https://www.iiba.org/business-analysis-certifications/ccba/" target="_blank">
-<img src="./assets/badges/CCBA-Business-Analysis-blue-9d91e70b.svg" />
-</a>
-
-</p>
-
----
-
 > 📌 These represent completed courses, learning paths, certificates of completion, and self-study programs — not official international certifications unless explicitly verified.
 
 

@@ -72,10 +72,6 @@ class AboutMe extends Me {
 }
 ```
 
-Programming Advices played a major role at the beginning of my software engineering and IT journey. Its roadmap helped me build strong foundations in problem solving, programming logic, OOP, databases, clean code, and backend development.
-
----
-
 <a id="top-highlights"></a>
 
 ## ⭐ Top Highlights
@@ -303,14 +299,39 @@ Programming Advices played a major role at the beginning of my software engineer
 
 ### 💻 Programming Advices Foundation
 
+The full Programming Advices roadmap, text, and badge archive moved to the courses repository:
+
 <p align="left">
-  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/01-Foundations-Level-1-success-c5d57a50.svg" alt="Foundations Level 1"></a>
-  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/02-Algorithms-Level-1-success-bcc4b60e.svg" alt="Algorithms Level 1"></a>
-  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/03-C++-Level-1-blue-882988d3.svg" alt="C++ Level 1"></a>
-  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/10-OOP-Level-1-00599C-c218f063.svg" alt="OOP Level 1"></a>
-  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/12-Data-Structures-Level-1-orange-12d2a44b.svg" alt="Data Structures Level 1"></a>
-  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/15-Database-Level-1-SQL-4479A1-7db6812a.svg" alt="Database Level 1"></a>
-  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/17-Database-Project-4479A1-924a805f.svg" alt="Database Project"></a>
+  <a href="https://github.com/anasemadanas/courses#programming-advices-roadmap" target="_blank">
+    <img src="./assets/badges/Courses-Archive-181717.svg" alt="Programming Advices in Courses Archive">
+  </a>
+</p>
+
+### 🌐 Web Development & Software Engineering
+
+<p align="left">
+  <a href="https://orange.jo/en/corporate/csr/coding-academy" target="_blank"><img src="./assets/badges/HTML-Orange-Coding-Academy-E34F26-7ecc0a95.svg" alt="HTML Orange Coding Academy"></a>
+  <a href="https://orange.jo/en/corporate/csr/coding-academy" target="_blank"><img src="./assets/badges/CSS-Orange-Coding-Academy-1572B6-4de93d5c.svg" alt="CSS Orange Coding Academy"></a>
+  <a href="https://orange.jo/en/corporate/csr/coding-academy" target="_blank"><img src="./assets/badges/JavaScript-Orange-Coding-Academy-F7DF1E-6d0bbadc.svg" alt="JavaScript Orange Coding Academy"></a>
+  <a href="https://en.wikipedia.org/wiki/SOLID" target="_blank"><img src="./assets/badges/SOLID-Principles-4CAF50-19dcd060.svg" alt="SOLID Principles"></a>
+  <a href="https://en.wikipedia.org/wiki/Multitier_architecture" target="_blank"><img src="./assets/badges/3-Tier-Architecture-blue-0b45e59e.svg" alt="3-Tier Architecture"></a>
+</p>
+
+### 🎓 Edraak Courses
+
+<p align="left">
+  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Computer-Essentials-Edraak-00AEEF-8703286a.svg" alt="Computer Essentials"></a>
+  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/English-for-the-Workplace-Edraak-00AEEF-5b8058ab.svg" alt="English for the Workplace"></a>
+  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/How-to-Overcome-Fear-in-Our-Lives-Edraak-00AEEF-0f666209.svg" alt="How to Overcome Fear"></a>
+  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/ICDL-Base-Edraak-00AEEF-f44152b0.svg" alt="ICDL Base"></a>
+  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Influential-Leadership-Effective-Management-Edraak-00AEEF-07beaec4.svg" alt="Influential Leadership"></a>
+  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Internet-Email-Essentials-Edraak-00AEEF-f10e8683.svg" alt="Internet Email Essentials"></a>
+  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Introduction-to-Networking-Edraak-00AEEF-39f32734.svg" alt="Introduction to Networking"></a>
+  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Introduction-to-Photography-Edraak-00AEEF-5feec681.svg" alt="Introduction to Photography"></a>
+  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Microsoft-Office-365-Edraak-00AEEF-597ec032.svg" alt="Microsoft Office 365"></a>
+  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Operations-Management-Edraak-00AEEF-9490d782.svg" alt="Operations Management"></a>
+  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Problem-Solving-Decision-Making-Skills-Edraak-00AEEF-ea396590.svg" alt="Problem Solving Decision Making"></a>
+  <a href="https://www.edraak.org/" target="_blank"><img src="./assets/badges/Word-Processing-Edraak-00AEEF-f0d2a3c6.svg" alt="Word Processing"></a>
 </p>
 
 </details>
@@ -423,6 +444,22 @@ Full certificates, courses, notes, labs, roadmaps, and learning resources are or
 </p>
 
 </details>
+
+---
+
+## 🏅 Badges
+
+<p align="center">
+  <a href="https://github.com/anasemadanas" target="_blank">
+    <img src="./assets/static/ghpvc-84256598.svg" alt="Profile views">
+  </a>
+  <a href="https://github.com/anasemadanas?tab=followers" target="_blank">
+    <img src="./assets/static/github-followers-anasemadanas-bbdb64d6.svg" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/anasemadanas?tab=stars" target="_blank">
+    <img src="./assets/static/github-stars-anasemadanas-f5c4e843.svg" alt="GitHub stars">
+  </a>
+</p>
 
 ---
 

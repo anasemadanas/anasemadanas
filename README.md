@@ -505,9 +505,7 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 
 <a id="contact"></a>
 
-## 📬 Contact <a href="#contact">
-  <img src="./assets/readme/phone.gif" width="30px" alt="phone">
-</a>
+## 📬 Contact <a href="#contact"><img src="./assets/readme/phone.gif" width="30px" alt="phone"></a>
 
 <p align="left">
   <a href="mailto:anasemadanas1@gmail.com"><img src="./assets/badges/Gmail-D14836.svg" alt="Gmail"></a>

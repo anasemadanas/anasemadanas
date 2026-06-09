@@ -4,9 +4,11 @@
 
 ## 💡 Hero
 
+<a id="top"></a>
+
 <h1 align="center">
   Hi 
-  <a href="#about-me">
+  <a href="#anas-emad---software-developer"">
     <img src="./assets/readme/wave.gif" height="45" alt="wave">
   </a>, 
   I'm Anas Emad
@@ -20,13 +22,13 @@
   <a href="https://anasemadanas.github.io/anasemadanas" target="_blank">
     <img src="./assets/badges/Visit-Portfolio-Click-Here-0A66C2-a0b81e95.svg" alt="Visit portfolio">
   </a>
-  <a href="https://github.com/anasemadanas" target="_blank">
+  <a href="#anas-emad---software-developer" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=anasemadanas&label=Visitors&color=1E3A8A&style=for-the-badge" alt="Profile views">
   </a>
 </p>
 
 <div align="center">
-    <a href="#about-me">
+    <a href="#anas-emad---software-developer"">
     <img src="./assets/generated/typing1.svg" alt="Typing intro">
   </a>
 </div>
@@ -450,7 +452,7 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 <br>
 
 <div align="center">
-  <a href="https://github.com/anasemadanas#github-stats" target="_blank">
+  <a href="#github-stats">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark" alt="GitHub profile summary">
   </a>
 </div>
@@ -458,7 +460,7 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 <br>
 
 <p align="center">
-  <a href="https://github.com/anasemadanas#github-stats" target="_blank">
+  <a href="#github-stats">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" alt="GitHub activity graph">
 </p>
 
@@ -470,14 +472,14 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 ### 🏆 Trophies
 
 <div align="center">
-  <a href="https://github.com/anasemadanas#github-stats" target="_blank">
+  <a href="#github-stats">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=anasemadanas&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" alt="GitHub trophies">
 </div>
 
 ### 🔥 Contribution Calendar
 
 <p align="center">
-  <a href="https://github.com/anasemadanas#github-stats" target="_blank">
+  <a href="#github-stats">
   <img src="https://ghchart.rshah.org/anasemadanas" alt="Contribution calendar">
 </p>
 
@@ -503,7 +505,7 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 
 <a id="contact"></a>
 
-## 📬 Contact <a href="https://github.com/anasemadanas#contact" target="_blank">
+## 📬 Contact <a href="#contact">
   <img src="./assets/readme/phone.gif" width="30px" alt="phone">
 </a>
 
@@ -528,7 +530,7 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 </details>
 
 <div align="center">
-  <a href="https://github.com/anasemadanas#contact">
+  <a href="#contact">
     <img src="./assets/generated/typing2.svg" alt="Thank you">
   </a>
 </div>
@@ -546,7 +548,7 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 </p>
 
 <p align="center">
-  <a href="https://github.com/anasemadanas" target="_blank">
+  <a href="#anas-emad---software-developer">
     <img src="./assets/static/Credit-Anas Emad-blue.svg" alt="Credit Anas Emad">
   </a>
 </p>

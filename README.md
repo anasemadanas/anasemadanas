@@ -5,7 +5,7 @@
 Passionate about building real-world backend systems & secure applications
 
 <h1 align="center">
-  Hi <img src="./assets/readme/wave.gif" width="40px"> , I'm Anas Emad
+  Hi <img src="./assets/readme/wave.gif" height="45"> , I'm Anas Emad
 </h1>
 
 🚀 Backend Developer (Multi-stack: .NET + Python/Django, Java) | Cybersecurity Learner
@@ -21,6 +21,7 @@ Passionate about building real-world backend systems & secure applications
 ## 📌 Quick Navigation
 
 - 👤 [About Me](#about-me)
+- ⭐ [Top Highlights](#top-highlights)
 - 🚀 [Featured Projects](#featured-projects)
 - 🌱 [Currently Learning](#currently-learning)
 - 🧠 [Problem Solving](#problem-solving)
@@ -28,6 +29,7 @@ Passionate about building real-world backend systems & secure applications
 - ⚙️ [Development Environment](#development-environment)
 - ☁️ [Cloud & DevOps](#cloud--devops)
 - 🎓 [Certifications](#certifications)
+- 📚 [Learning Archive](#more-courses--learning-archive)
 - 🎯 [Career Goals](#career-goals)
 - 📬 [Contact](#contact-information)
 - 📊 [GitHub Stats](#github-stats)
@@ -43,70 +45,38 @@ Passionate about building real-world backend systems & secure applications
 class AboutMe extends Me {
   final Map<String, dynamic> personalInfo = {
     "FullName": "Anas Emad",
-    "Title": "Software Engineer | Backend Developer | Cybersecurity Learner",
+    "Title": "Backend Developer | Cloud & Cybersecurity Learner",
 
     "FocusAreas": [
-      "Backend Development (.NET, Django)",
-      "System Design & APIs",
-      "Database Systems",
-      "Cybersecurity & Malware Analysis"
+      "Backend Development (.NET, Django, Java)",
+      "Production-style web apps and REST APIs",
+      "Cloud, DevOps, and secure system design",
+      "AI integrations with backend systems"
     ],
 
-    "Experience": [
-      "Developed scalable .NET applications",
-      "Built console-based games and web applications",
-      "Designed and implemented backend systems using Django",
+    "Highlights": [
+      "Built Django and .NET applications",
+      "Designed database-backed backend systems",
       "Solved 1000+ algorithmic challenges"
     ],
 
     "CurrentProjects": [
       "Expense Tracking System (Django Web App)",
-      "Backend system architecture learning",
-      "AI integration with backend systems"
+      "Backend architecture and API design practice",
+      "AI-powered backend integrations"
     ],
 
     "TechnicalSkills": {
       "Languages": ["C++", "C#", "Java", "Python", "JavaScript"],
-      "Web": ["HTML", "CSS", "Django", ".NET"],
+      "Backend": [".NET", "Django", "Java", "REST APIs"],
       "Databases": ["SQL Server", "PostgreSQL", "MySQL"],
-      "Tools": ["Git", "Docker (learning)", "Linux", "VMware"],
-      "IDEs": ["Visual Studio", "VS Code", "NetBeans", "PyCharm"]
+      "CloudSecurity": ["AWS", "Azure", "Docker", "Linux", "Cybersecurity"]
     },
-
-    "Courses": {
-      "Microsoft": [
-        "MCSA",
-        "MCSE",
-        "AI-900 Azure AI Fundamentals",
-        "Microsoft 365",
-        "Microsoft Fabric"
-      ],
-
-      "Cloud & Security": [
-        "AWS Cloud Practitioner",
-        "CompTIA A+",
-        "CompTIA Security+",
-        "ICDL"
-      ],
-
-      "Engineering Concepts": [
-        "SOLID Principles",
-        "3-Tier Architecture",
-        "Training of Trainers (TOT)"
-      ]
-    },
-
-    "CybersecurityInterest": [
-      "Malware Analysis Basics",
-      "Network Security",
-      "Wireshark Analysis"
-    ],
 
     "Goals": [
-      "Become a strong Backend Engineer",
-      "Master System Design & Scalability",
-      "Advance in Cybersecurity",
-      "Build production-level systems"
+      "Grow as a backend engineer",
+      "Build scalable and secure systems",
+      "Apply cloud, DevOps, cybersecurity, and AI in real projects"
     ],
 
     "Contact": {
@@ -126,28 +96,23 @@ class AboutMe extends Me {
 
 ---
 
-## 🎬 Interests / Learning
+<a id="top-highlights"></a>
 
-💻 I'm a passionate **.NET Developer** with strong skills in **C++, C#, and Java**  
+## ⭐ Top Highlights
 
-🚀 Focused on building **Scalable Systems**, **Web Applications**, **Console-based Games**, and **Algorithmic Solutions**  
-
-🧠 **Clean Code Enthusiast** & Logical Problem Solver (**Solved 1000+ coding challenges**)  
-
-🛠️ **Tech Stack:** C++, C#, Java, .NET Framework, SQL Server, HTML, CSS, JavaScript  
-
-🔐 Interested in **Cybersecurity & Malware Simulation**  
-
-🌱 Always learning and exploring **Advanced .NET, Node.js, Web Development, and System Programming**  
+- Backend Developer focused on .NET, Django, and Java
+- Building production-style web apps and APIs
+- Learning cloud, DevOps, and cybersecurity
+- Solved 1000+ algorithmic problems
 
 ---
 
-## 👨‍💻 Info
-- 💻 Django Developer
-- 📊 Building Money Manager App
-- 🧠 Learning Backend & Databases
-- 🚀 Interested in Full Stack & Cloud Development
-- 🔗 Exploring AI integrations with backend systems
+## 🎬 Current Focus
+
+- 💻 Backend development with .NET, Django, Java, and relational databases
+- ☁️ Cloud and DevOps foundations with AWS, Azure, Docker, and Linux
+- 🔐 Cybersecurity fundamentals, networking, and secure application design
+- 🤖 AI integrations for backend systems and developer workflows
 
 ---
 
@@ -182,7 +147,7 @@ class AboutMe extends Me {
 - Malware Analysis
 - Spring Boot & Microservices
 - AI Integrations with Backend Systems
-- Cloud Computing & Azure
+- Cloud Computing with AWS & Azure
 
 ---
 
@@ -475,7 +440,12 @@ Visit the portfolio here:
 
 ---
 
-## 📚 Courses, Learning Journey & Technical Training
+<a id="more-courses--learning-archive"></a>
+
+<details>
+<summary><strong>📚 More Courses & Learning Archive</strong></summary>
+
+> Full archive repository: [courses](https://github.com/anasemadanas/courses)
 
 ### 🌐 Cisco Networking Academy (NetAcad)
 
@@ -811,6 +781,8 @@ Visit the portfolio here:
 > 📌 These represent completed courses, learning paths, certificates of completion, and self-study programs — not official international certifications unless explicitly verified.
 
 
+</details>
+
 ---
 
 <a id="certifications"></a>
@@ -819,12 +791,17 @@ Visit the portfolio here:
 
 [![CS50](./assets/badges/CS50-Harvard-University-8B1E3F-d00e7cad.svg)](https://cs50.harvard.edu/certificates/46da5d62-c049-47a6-a77a-f4e31ec9da9b)
 [![Credly](./assets/badges/Credly-FF6B00-78573125.svg)](https://www.credly.com/users/anas-emad-sabri-al-shawiki)
+[![AWS CLF-C02](./assets/badges/AWS-CLF-C02-FF9900-51373805.svg)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 [![AZ-900](./assets/badges/AZ-900-Azure-Fundamentals-0078D4-f4852bf8.svg)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
 [![AB-900](./assets/badges/AB-900-Copilot-Agent-Administration-742774-44a07a9c.svg)](https://learn.microsoft.com/en-us/credentials/certifications/copilot-and-agent-administration-fundamentals/?practice-assessment-type=certification)
 [![PL-900](./assets/badges/PL-900-Power-Platform-Fundamentals-742774-ebd4984c.svg)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/)
 [![AI-900](./assets/badges/AI-900-Azure-AI-Fundamentals-0078D4-6a0d5b0a.svg)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
 [![DP-900](./assets/badges/DP-900-Azure-Data-Fundamentals-005A9C-dd3529d8.svg)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
 [![SC-900](./assets/badges/SC-900-Security-Compliance-Identity-107C10-eed5b9c8.svg)](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
+[![Cisco](./assets/badges/Cisco-Networking-1BA0D7-80637403.svg)](https://www.netacad.com/)
+[![NetAcad](./assets/badges/Cisco-Learner-Verification-005073-eb2b68fd.svg)](https://www.netacad.com/)
+[![CompTIA A+](./assets/badges/CompTIA-A+-IT-Support-red-9ca5144c.svg)](https://www.comptia.org/certifications/a)
+[![CompTIA Security+](./assets/badges/CompTIA-Security+-Cybersecurity-darkgreen-77fe8fa3.svg)](https://www.comptia.org/certifications/security)
 
 ---
 

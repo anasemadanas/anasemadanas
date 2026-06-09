@@ -210,35 +210,50 @@ class AboutMe extends Me {
 ### 🛠️ IDEs & Editors
 
 <p align="left">
-  <img src="./assets/readme/external/devicons-devicon-master-icons-visualstudio-visualstudio-plain-3e686761.svg" width="40" alt="Visual Studio">
-  <img src="./assets/readme/external/devicons-devicon-master-icons-vscode-vscode-original-9ecd94bd.svg" width="40" alt="VS Code">
-  <img src="./assets/readme/external/devicons-devicon-master-icons-pycharm-pycharm-original-b2fe29b4.svg" width="40" alt="PyCharm">
-  <img src="./assets/readme/external/devicons-devicon-master-icons-intellij-intellij-original-de22522d.svg" width="40" alt="IntelliJ IDEA">
-  <img src="./assets/readme/external/devicons-devicon-master-icons-netbeans-netbeans-original-91a58fd8.svg" width="40" alt="NetBeans">
-  <img src="./assets/readme/external/assets-images-logo-11be51c8.svg" width="40" alt="Cursor">
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-visualstudio-visualstudio-plain-3e686761.svg" width="40" alt="Visual Studio"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-vscode-vscode-original-9ecd94bd.svg" width="40" alt="VS Code"></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-pycharm-pycharm-original-b2fe29b4.svg" width="40" alt="PyCharm"></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-intellij-intellij-original-de22522d.svg" width="40" alt="IntelliJ IDEA"></a>
+  <a href="https://netbeans.apache.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-netbeans-netbeans-original-91a58fd8.svg" width="40" alt="NetBeans"></a>
+  <a href="https://github.com/getcursor/cursor" target="_blank"><img src="./assets/readme/external/assets-images-logo-11be51c8.svg" width="40" alt="Cursor"></a>
+  <a href="https://mrdoob.com/projects/chromeexperiments/google-gravity/" target="_blank"><img src="./assets/badges/Google-Gravity-Play-Now-black-a6980063.svg" alt="Google Gravity"></a>
 </p>
 
-### 🧪 Testing
+### 📐 UML & Design Tools
 
 <p align="left">
-  <img src="./assets/readme/external/junit5-25A162-9f8e765f.svg" width="40" alt="JUnit">
-  <img src="./assets/readme/external/u-2656033-a21d53c3.png" width="40" alt="Mockito">
-  <img src="./assets/readme/external/pytest-0A9EDC-7200b94a.svg" width="40" alt="Pytest">
+  <a href="https://plantuml.com/" target="_blank"><img src="./assets/readme/external/u-7387923-614f3c70.png" width="40" alt="PlantUML"></a>
+  <a href="https://www.diagrams.net/" target="_blank"><img src="./assets/readme/external/diagramsdotnet-F08705-9e8c79b5.svg" width="40" alt="draw.io"></a>
+  <a href="https://www.microsoft.com/microsoft-365/visio/" target="_blank"><img src="./assets/readme/external/u-6154722-3896b2e1.png" width="40" alt="Visio"></a>
 </p>
 
-### 🖥️ GUI & Operating Systems
+### 🧪 Testing Tools & Frameworks
 
 <p align="left">
-  <img src="./assets/readme/external/qt-41CD52-32ef5527.svg" width="40" alt="Qt">
-  <img src="./assets/readme/external/openjdk-ED8B00-bafcf158.svg" width="40" alt="JavaFX">
-  <img src="./assets/readme/external/openjdk-FFFFFF-c5a38d0b.svg" width="40" alt="Java Swing">
-  <img src="./assets/readme/external/devicons-devicon-master-icons-windows8-windows8-original-c9a40368.svg" width="40" alt="Windows">
-  <img src="./assets/readme/external/apple-FFFFFF-18bc3f45.svg" width="40" alt="macOS">
-  <img src="./assets/readme/external/kalilinux-a60853a6.svg" width="40" alt="Kali Linux">
-  <img src="./assets/readme/external/devicons-devicon-master-icons-linux-linux-original-15a14c53.svg" width="40" alt="Linux">
-  <img src="./assets/readme/external/devicons-devicon-master-icons-fedora-fedora-original-3a511053.svg" width="40" alt="Fedora">
-  <img src="./assets/readme/external/vmware-607078-179db399.svg" width="40" alt="VMware">
-  <img src="./assets/readme/external/vmware-0078D4-b2cb941c.svg" width="40" alt="vSphere">
+  <a href="https://www.postman.com/" target="_blank"><img src="./assets/readme/external/logos-getpostman-getpostman-icon-3133174d.svg" width="40" alt="Postman"></a>
+  <a href="https://junit.org/junit5/" target="_blank"><img src="./assets/readme/external/junit5-25A162-9f8e765f.svg" width="40" alt="JUnit"></a>
+  <a href="https://site.mockito.org/" target="_blank"><img src="./assets/readme/external/u-2656033-a21d53c3.png" width="40" alt="Mockito"></a>
+  <a href="https://pytest.org/" target="_blank"><img src="./assets/readme/external/pytest-0A9EDC-7200b94a.svg" width="40" alt="Pytest"></a>
+</p>
+
+### 🖥️ GUI Development
+
+<p align="left">
+  <a href="https://www.qt.io/" target="_blank"><img src="./assets/readme/external/qt-41CD52-32ef5527.svg" width="40" alt="Qt"></a>
+  <a href="https://openjfx.io/" target="_blank"><img src="./assets/readme/external/openjdk-ED8B00-bafcf158.svg" width="40" alt="JavaFX"></a>
+  <a href="https://docs.oracle.com/javase/tutorial/uiswing/" target="_blank"><img src="./assets/readme/external/openjdk-FFFFFF-c5a38d0b.svg" width="40" alt="Java Swing"></a>
+</p>
+
+### 🖥️ Operating Systems
+
+<p align="left">
+  <a href="https://www.microsoft.com/windows/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-windows8-windows8-original-c9a40368.svg" width="40" alt="Windows"></a>
+  <a href="https://www.apple.com/macos/" target="_blank"><img src="./assets/readme/external/apple-FFFFFF-18bc3f45.svg" width="40" alt="macOS"></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="./assets/readme/external/kalilinux-a60853a6.svg" width="40" alt="Kali Linux"></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-linux-linux-original-15a14c53.svg" width="40" alt="Linux"></a>
+  <a href="https://fedoraproject.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-fedora-fedora-original-3a511053.svg" width="40" alt="Fedora"></a>
+  <a href="https://www.vmware.com/" target="_blank"><img src="./assets/readme/external/vmware-607078-179db399.svg" width="40" alt="VMware"></a>
+  <a href="https://www.vmware.com/products/vsphere.html" target="_blank"><img src="./assets/readme/external/vmware-0078D4-b2cb941c.svg" width="40" alt="vSphere"></a>
 </p>
 
 </details>
@@ -451,13 +466,13 @@ Full certificates, courses, notes, labs, roadmaps, and learning resources are or
 
 <p align="center">
   <a href="https://github.com/anasemadanas" target="_blank">
-    <img src="./assets/static/ghpvc-84256598.svg" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=anasemadanas&style=for-the-badge" alt="Profile views">
   </a>
   <a href="https://github.com/anasemadanas?tab=followers" target="_blank">
-    <img src="./assets/static/github-followers-anasemadanas-bbdb64d6.svg" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/anasemadanas?style=for-the-badge" alt="GitHub followers">
   </a>
   <a href="https://github.com/anasemadanas?tab=stars" target="_blank">
-    <img src="./assets/static/github-stars-anasemadanas-f5c4e843.svg" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/anasemadanas?style=for-the-badge" alt="GitHub stars">
   </a>
 </p>
 

@@ -329,7 +329,7 @@ class AboutMe extends Me {
 [![SC-900](./assets/badges/SC-900-Security-Compliance-Identity-107C10-eed5b9c8.svg)](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
 
 <details>
-<summary><strong>📚 More Learning Badges</strong></summary>
+<summary><strong>📚 More Courses & Learning Archive</strong></summary>
 
 ### ☁️ Cloud, Security & AI Learning
 
@@ -395,7 +395,9 @@ Full certificates, courses, notes, labs, roadmaps, and learning resources are or
 
 ## 🤖 AI & Machine Learning
 
-### 🛠️ AI Tools
+Backend-oriented AI experiments with local LLM tooling, model APIs, and automation workflows.
+
+**Tools**
 
 <p align="left">
   <a href="https://ollama.com/" target="_blank"><img src="./assets/badges/Ollama-Local-LLM-Runner-black-22a74c2d.svg" alt="Ollama"></a>
@@ -403,7 +405,7 @@ Full certificates, courses, notes, labs, roadmaps, and learning resources are or
   <a href="https://github.com/LostRuins/koboldcpp" target="_blank"><img src="./assets/badges/KoboldCPP-Local-Inference-purple-b0841874.svg" alt="KoboldCPP"></a>
 </p>
 
-### 🧠 LLMs & Models Experience
+**LLMs & Models**
 
 <p align="left">
   <a href="https://qwenlm.github.io/" target="_blank"><img src="./assets/badges/Qwen-2.5-Coder-orange-181ec436.svg" alt="Qwen"></a>
@@ -412,7 +414,7 @@ Full certificates, courses, notes, labs, roadmaps, and learning resources are or
   <a href="https://mistral.ai/" target="_blank"><img src="./assets/badges/Mistral-AI-gray-8fdaba72.svg" alt="Mistral AI"></a>
 </p>
 
-### 🌐 AI APIs & Platforms
+**APIs & Platforms**
 
 <p align="left">
   <a href="https://openrouter.ai/" target="_blank"><img src="./assets/badges/OpenRouter-AI-Gateway-blue-d77a0850.svg" alt="OpenRouter"></a>
@@ -437,7 +439,7 @@ Full certificates, courses, notes, labs, roadmaps, and learning resources are or
 
 <div align="center">
   <a href="https://github.com/anasemadanas" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=dark" width="500" alt="GitHub streak">
+    <img src="https://streak-stats.demolab.com/?user=anasemadanas&theme=dark" width="500" alt="GitHub streak">
   </a>
 </div>
 
@@ -449,6 +451,12 @@ Full certificates, courses, notes, labs, roadmaps, and learning resources are or
   </a>
 </div>
 
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" alt="GitHub activity graph">
+</p>
+
 > ⚠️ Top languages reflects public repository language usage, not overall experience or skill level.
 
 <details>
@@ -459,12 +467,6 @@ Full certificates, courses, notes, labs, roadmaps, and learning resources are or
 <div align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=anasemadanas&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" alt="GitHub trophies">
 </div>
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" alt="GitHub activity graph">
-</p>
 
 ### 🔥 Contribution Calendar
 

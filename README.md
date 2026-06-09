@@ -292,25 +292,25 @@ Programming Advices played a major role at the beginning of my software engineer
 ### ☁️ Cloud, Security & AI Learning
 
 <p align="left">
-  <img src="./assets/badges/AWS-CLF-C02-FF9900-51373805.svg" alt="AWS CLF-C02">
-  <img src="./assets/badges/AWS-AI-Practitioner-AIF-C01-FF9900.svg" alt="AWS AI Practitioner">
-  <img src="./assets/badges/Microsoft-Learning-Server-Technologies-blue-2c87dc27.svg" alt="Microsoft Learning">
-  <img src="./assets/badges/Microsoft-Fabric-Data-Platform-purple-cbb6357b.svg" alt="Microsoft Fabric">
-  <img src="./assets/badges/CompTIA-Network+-Networking-Fundamentals-orange-ebf93cad.svg" alt="CompTIA Network+">
-  <img src="./assets/badges/CompTIA-Cloud+-Cloud-Computing-00A3E0-003255c3.svg" alt="CompTIA Cloud+">
-  <img src="./assets/badges/Wireshark-Network-Analyzer-blue-a8dedede.svg" alt="Wireshark">
+  <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank"><img src="./assets/badges/AWS-CLF-C02-FF9900-51373805.svg" alt="AWS CLF-C02"></a>
+  <a href="https://aws.amazon.com/certification/certified-ai-practitioner/" target="_blank"><img src="./assets/badges/AWS-AI-Practitioner-AIF-C01-FF9900.svg" alt="AWS AI Practitioner"></a>
+  <a href="https://learn.microsoft.com/" target="_blank"><img src="./assets/badges/Microsoft-Learning-Server-Technologies-blue-2c87dc27.svg" alt="Microsoft Learning"></a>
+  <a href="https://learn.microsoft.com/en-us/fabric/" target="_blank"><img src="./assets/badges/Microsoft-Fabric-Data-Platform-purple-cbb6357b.svg" alt="Microsoft Fabric"></a>
+  <a href="https://www.comptia.org/certifications/network" target="_blank"><img src="./assets/badges/CompTIA-Network+-Networking-Fundamentals-orange-ebf93cad.svg" alt="CompTIA Network+"></a>
+  <a href="https://www.comptia.org/certifications/cloud" target="_blank"><img src="./assets/badges/CompTIA-Cloud+-Cloud-Computing-00A3E0-003255c3.svg" alt="CompTIA Cloud+"></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="./assets/badges/Wireshark-Network-Analyzer-blue-a8dedede.svg" alt="Wireshark"></a>
 </p>
 
 ### 💻 Programming Advices Foundation
 
 <p align="left">
-  <img src="./assets/badges/01-Foundations-Level-1-success-c5d57a50.svg" alt="Foundations Level 1">
-  <img src="./assets/badges/02-Algorithms-Level-1-success-bcc4b60e.svg" alt="Algorithms Level 1">
-  <img src="./assets/badges/03-C++-Level-1-blue-882988d3.svg" alt="C++ Level 1">
-  <img src="./assets/badges/10-OOP-Level-1-00599C-c218f063.svg" alt="OOP Level 1">
-  <img src="./assets/badges/12-Data-Structures-Level-1-orange-12d2a44b.svg" alt="Data Structures Level 1">
-  <img src="./assets/badges/15-Database-Level-1-SQL-4479A1-7db6812a.svg" alt="Database Level 1">
-  <img src="./assets/badges/17-Database-Project-4479A1-924a805f.svg" alt="Database Project">
+  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/01-Foundations-Level-1-success-c5d57a50.svg" alt="Foundations Level 1"></a>
+  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/02-Algorithms-Level-1-success-bcc4b60e.svg" alt="Algorithms Level 1"></a>
+  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/03-C++-Level-1-blue-882988d3.svg" alt="C++ Level 1"></a>
+  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/10-OOP-Level-1-00599C-c218f063.svg" alt="OOP Level 1"></a>
+  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/12-Data-Structures-Level-1-orange-12d2a44b.svg" alt="Data Structures Level 1"></a>
+  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/15-Database-Level-1-SQL-4479A1-7db6812a.svg" alt="Database Level 1"></a>
+  <a href="https://programmingadvices.com/" target="_blank"><img src="./assets/badges/17-Database-Project-4479A1-924a805f.svg" alt="Database Project"></a>
 </p>
 
 </details>
@@ -340,6 +340,36 @@ Full certificates, courses, notes, labs, roadmaps, and learning resources are or
 - Cloud and DevOps
 - AI-powered applications
 - Cybersecurity research
+
+---
+
+## 🤖 AI & Machine Learning
+
+### 🛠️ AI Tools
+
+<p align="left">
+  <a href="https://ollama.com/" target="_blank"><img src="./assets/badges/Ollama-Local-LLM-Runner-black-22a74c2d.svg" alt="Ollama"></a>
+  <a href="https://github.com/anasemadanas" target="_blank"><img src="./assets/badges/AI-Models-LLMs-blue-3171afd8.svg" alt="AI Models"></a>
+  <a href="https://github.com/LostRuins/koboldcpp" target="_blank"><img src="./assets/badges/KoboldCPP-Local-Inference-purple-b0841874.svg" alt="KoboldCPP"></a>
+</p>
+
+### 🧠 LLMs & Models Experience
+
+<p align="left">
+  <a href="https://qwenlm.github.io/" target="_blank"><img src="./assets/badges/Qwen-2.5-Coder-orange-181ec436.svg" alt="Qwen"></a>
+  <a href="https://www.deepseek.com/" target="_blank"><img src="./assets/badges/DeepSeek-Coder-red-5ddaa966.svg" alt="DeepSeek"></a>
+  <a href="https://www.llama.com/" target="_blank"><img src="./assets/badges/Llama-Models-purple-00a4774b.svg" alt="Llama"></a>
+  <a href="https://mistral.ai/" target="_blank"><img src="./assets/badges/Mistral-AI-gray-8fdaba72.svg" alt="Mistral AI"></a>
+</p>
+
+### 🌐 AI APIs & Platforms
+
+<p align="left">
+  <a href="https://openrouter.ai/" target="_blank"><img src="./assets/badges/OpenRouter-AI-Gateway-blue-d77a0850.svg" alt="OpenRouter"></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="./assets/badges/HuggingFace-Models-yellow-20a20513.svg" alt="Hugging Face"></a>
+  <a href="https://www.together.ai/" target="_blank"><img src="./assets/badges/Together-AI-LLM-API-orange-9b47b8d8.svg" alt="Together AI"></a>
+  <a href="https://groq.com/" target="_blank"><img src="./assets/badges/Groq-LLM-Inference-red-d6ac7eef.svg" alt="Groq"></a>
+</p>
 
 ---
 

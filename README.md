@@ -1,756 +1,290 @@
-﻿# Anas Emad - Software Developer
-
-## 💡 Hero
-
-Passionate about building real-world backend systems & secure applications
-
-<h1 align="center">
-  Hi <img src="./assets/readme/wave.gif" height="45"> , I'm Anas Emad
-</h1>
-
-🚀 Backend Developer (Multi-stack: .NET + Python/Django, Java) | Cybersecurity Learner
+# Anas Emad - Backend Developer
 
 <div align="center">
-  <a href="https://github.com/anasemadanas" target="_blank">
-  <img src="./assets/generated/typing1.svg" />
+  <img src="./assets/readme/wave.gif" height="42" alt="wave">
+
+  <h1>Hi, I'm Anas Emad</h1>
+
+  <p>
+    Backend Developer focused on .NET, Django, Java, cloud-ready systems, cybersecurity fundamentals, and practical AI integrations.
+  </p>
+
+  <a href="https://anasemadanas.github.io/anasemadanas" target="_blank">
+    <img src="./assets/badges/Visit-Portfolio-Click-Here-0A66C2-a0b81e95.svg" alt="Visit portfolio">
   </a>
+  <a href="https://github.com/anasemadanas" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=anasemadanas&label=Visitors&color=1E3A8A&style=for-the-badge" alt="Profile views">
+  </a>
+
+  <br><br>
+
+  <img src="./assets/generated/typing1.svg" alt="Backend development focus">
 </div>
 
 ---
 
-## 📌 Quick Navigation
+## Quick Navigation
 
-- 👤 [About Me](#about-me)
-- ⭐ [Top Highlights](#top-highlights)
-- 🚀 [Featured Projects](#featured-projects)
-- 🌱 [Currently Learning](#currently-learning)
-- 🧠 [Problem Solving](#problem-solving)
-- 🛠 [Skills](#skills)
-- ⚙️ [Development Environment](#development-environment)
-- ☁️ [Cloud & DevOps](#cloud--devops)
-- 🎓 [Certifications](#certifications)
-- 📚 [Learning Archive](#more-courses--learning-archive)
-- 🎯 [Career Goals](#career-goals)
-- 📬 [Contact](#contact-information)
-- 📊 [GitHub Stats](#github-stats)
+- [Top Highlights](#top-highlights)
+- [Engineering Focus](#engineering-focus)
+- [Featured Projects](#featured-projects)
+- [Core Skills](#core-skills)
+- [Certifications](#certifications)
+- [Learning Archive](#learning-archive)
+- [GitHub Stats](#github-stats)
+- [Contact](#contact)
 
 ---
 
-<a id="about-me"></a>
+## Top Highlights
 
-## 👤 About Me
+- Backend developer building API-driven web applications with .NET, Django, Java, and relational databases.
+- Strong foundation in problem solving, data structures, algorithms, OOP, SQL, and layered architecture.
+- Practical interest in secure backend systems, cloud deployment, DevOps workflows, and Linux environments.
+- Exploring AI integrations for backend services, developer tooling, local LLM workflows, and API-based automation.
+- Solved 1000+ algorithmic challenges while building production-style projects and learning paths.
 
-```dart
-
-class AboutMe extends Me {
-  final Map<String, dynamic> personalInfo = {
-    "FullName": "Anas Emad",
-    "Title": "Backend Developer | Cloud & Cybersecurity Learner",
-
-    "FocusAreas": [
-      "Backend Development (.NET, Django, Java)",
-      "Production-style web apps and REST APIs",
-      "Cloud, DevOps, and secure system design",
-      "AI integrations with backend systems"
-    ],
-
-    "Highlights": [
-      "Built Django and .NET applications",
-      "Designed database-backed backend systems",
-      "Solved 1000+ algorithmic challenges"
-    ],
-
-    "CurrentProjects": [
-      "Expense Tracking System (Django Web App)",
-      "Backend architecture and API design practice",
-      "AI-powered backend integrations"
-    ],
-
-    "TechnicalSkills": {
-      "Languages": ["C++", "C#", "Java", "Python", "JavaScript"],
-      "Backend": [".NET", "Django", "Java", "REST APIs"],
-      "Databases": ["SQL Server", "PostgreSQL", "MySQL"],
-      "CloudSecurity": ["AWS", "Azure", "Docker", "Linux", "Cybersecurity"]
-    },
-
-    "Goals": [
-      "Grow as a backend engineer",
-      "Build scalable and secure systems",
-      "Apply cloud, DevOps, cybersecurity, and AI in real projects"
-    ],
-
-    "Contact": {
-      "Email":         "anasemadanas1@gmail.com",
-      "LinkedIn":      "https://www.linkedin.com/in/eng-anasemad",
-      "Reddit":        "https://www.reddit.com/user/anasemadanas1",
-      "StackOverflow": "https://stackoverflow.com/users/32631412/anas-emad",
-      "Discord":       "https://discord.com/users/559077785587679272",
-      "ORCID":         "https://orcid.org/0009-0000-7569-8202",
-      "Facebook":      "https://www.facebook.com/anasemadanas1"
-
-    }
-  };
-}
-```
-
+Programming Advices played a major role at the beginning of my software engineering and IT journey. Its structured roadmap helped me build strong foundations in problem solving, programming logic, OOP, databases, clean code, and backend development.
 
 ---
 
-<a id="top-highlights"></a>
+## Engineering Focus
 
-## ⭐ Top Highlights
-
-- Backend Developer focused on .NET, Django, and Java
-- Building production-style web apps and APIs
-- Learning cloud, DevOps, and cybersecurity
-- Solved 1000+ algorithmic problems
-
----
-
-## 🎬 Current Focus
-
-- 💻 Backend development with .NET, Django, Java, and relational databases
-- ☁️ Cloud and DevOps foundations with AWS, Azure, Docker, and Linux
-- 🔐 Cybersecurity fundamentals, networking, and secure application design
-- 🤖 AI integrations for backend systems and developer workflows
+| Area | Current Focus |
+| --- | --- |
+| Backend Development | .NET, Django, Java, REST APIs, authentication, dashboards, service logic |
+| Databases | SQL Server, PostgreSQL, MySQL, SQLite, schema design, data-backed apps |
+| Cloud & DevOps | AWS, Azure, Docker, Linux, GitHub workflows, deployment fundamentals |
+| Cybersecurity | Networking, secure application design, Wireshark, Linux/Kali, malware analysis basics |
+| AI Integrations | LLM APIs, local models, backend automation, AI-assisted developer workflows |
 
 ---
 
-<a id="featured-projects"></a>
+## Featured Projects
 
-## 🚀 Featured Projects
+### Expense Tracker System
 
-### 💰 Expense Tracker System
-- Django + PostgreSQL
-- Authentication & Dashboard
-- Financial analytics
-- REST APIs
+**Django web application for personal finance tracking, reporting, and authenticated dashboard workflows.**
 
-🔗 [Link Site](https://anasemad.pythonanywhere.com/)
+- Architecture: Django app with database-backed models, authentication, dashboard views, and modular backend logic.
+- Backend focus: request handling, financial records, validation, user flows, and REST API-oriented design.
+- Data layer: PostgreSQL-ready relational structure for expenses, categories, and analytics.
+- Scalability direction: clearer service boundaries, API endpoints, reporting modules, and deployment-ready settings.
 
-### 🎮 Connect 4 Game
-- JavaScript / HTML / CSS
-- Interactive browser game
-- Full game logic
-- Hosted with GitHub Pages
+[Live Site](https://anasemad.pythonanywhere.com/)
 
-🔗 [Play Game](https://anasemadanas.github.io/connect-4/)
+### Connect 4 Game
 
----
+**Interactive browser game with complete game-state management and public GitHub Pages deployment.**
 
-<a id="currently-learning"></a>
+- Architecture: static frontend with JavaScript game engine, state transitions, win detection, and reset flow.
+- Engineering focus: clean control logic, deterministic board updates, and browser-based interaction.
+- Deployment: hosted through GitHub Pages.
 
-## 🌱 Currently Learning 
+[Play Game](https://anasemadanas.github.io/connect-4/)
 
-- System Design & Scalability
-- Docker & DevOps
-- Malware Analysis
-- Spring Boot & Microservices
-- AI Integrations with Backend Systems
-- Cloud Computing with AWS & Azure
+### AI Backend Integrations
+
+**Ongoing work around connecting backend applications with LLM APIs and local model tooling.**
+
+- Focus areas: API gateway patterns, prompt workflows, model providers, local inference, and backend automation.
+- Tools explored: OpenRouter, Hugging Face, Together AI, Groq, Ollama, KoboldCPP, Qwen, DeepSeek, Llama, and Mistral.
 
 ---
 
-<a id="problem-solving"></a>
+## Core Skills
 
-## 🧠 Problem Solving 
-
-- Solved 1000+ algorithmic challenges
-- Strong understanding of Data Structures & Algorithms
-- Focused on clean code and optimization
-- Practicing competitive programming regularly
-  
----
-
-
-## 🚀 Live Website
-
-Visit the portfolio here:
+### Languages
 
 <p align="left">
-  <a href="https://anasemadanas.github.io/anasemadanas" target="_blank">
-    <img src="./assets/badges/Visit-Portfolio-Click-Here-0A66C2-a0b81e95.svg" />
-  </a>
-  
-  <a href="https://github.com/anasemadanas">
-    <img src="https://komarev.com/ghpvc/?username=anasemadanas&label=Visitors&color=1E3A8A&style=for-the-badge" alt="Profile views"/>
-  </a>
+  <img src="./assets/readme/external/devicons-devicon-master-icons-csharp-csharp-original-a36b6998.svg" width="40" alt="C#">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-java-java-original-681bf1cd.svg" width="40" alt="Java">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-python-python-original-5dca7381.svg" width="40" alt="Python">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-cplusplus-cplusplus-original-c68babad.svg" width="40" alt="C++">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-javascript-javascript-original-e155cd6c.svg" width="40" alt="JavaScript">
 </p>
 
----
-<a id="skills"></a>
-
-## 🛠 Skills
-
-### 💻 Programming Languages
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-c-c-original-a2da2aed.svg" width="40" alt="C">
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-cplusplus-cplusplus-original-c68babad.svg" width="40" alt="C++">
-  </a>
-  <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-csharp-csharp-original-a36b6998.svg" width="40" alt="C#">
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-java-java-original-681bf1cd.svg" width="40" alt="Java">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-python-python-original-5dca7381.svg" width="40" alt="Python">
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-javascript-javascript-original-e155cd6c.svg" width="40" alt="JavaScript">
-  </a>
-</p>
-
----
-
-<a id="development-environment"></a>
-
-## ⚙️ Development Environment 
-
-- OS: Windows, Ubuntu, Kali Linux
-- IDEs: Visual Studio, VS Code, PyCharm, IntelliJ IDEA
-- Tools: Git, Docker, VMware, Postman
-- Databases: SQL Server, PostgreSQL, MySQL
-
----
-
-<a id="cloud--devops"></a>
-
-## ☁️ Cloud & DevOps 
+### Backend & Frameworks
 
 <p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank">
-  <img src="./assets/badges/Azure-Cloud-blue-6c5591aa.svg" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-  <img src="./assets/badges/AWS-Cloud-orange-13f301f0.svg" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-  <img src="./assets/badges/Docker-Containers-blue-7de33744.svg" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-  <img src="./assets/badges/Linux-System-Administration-black-fefe6d86.svg" />
-  </a>
-</p>
-
----
-
-### 🚀 Backend & Frameworks
-<p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-dot-net-dot-net-original-a2924d6c.svg" width="40" alt=".NET">
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-spring-spring-original-1d478850.svg" width="40" alt="Spring Boot">
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-django-django-plain-a10c8f52.svg" width="40" alt="Django">
-  </a>
-<a href="https://nodejs.org/" target="_blank">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-dot-net-dot-net-original-a2924d6c.svg" width="40" alt=".NET">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-django-django-plain-a10c8f52.svg" width="40" alt="Django">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-spring-spring-original-1d478850.svg" width="40" alt="Spring Boot">
   <img src="./assets/readme/external/devicons-devicon-master-icons-nodejs-nodejs-original-6af468e3.svg" width="40" alt="Node.js">
-</a>
 </p>
 
-### 🌐 Frontend Development
+### Databases, Cloud & Tools
+
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-html5-html5-original-47188965.svg" width="40" alt="HTML">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-css3-css3-original-59019dde.svg" width="40" alt="CSS">
-  </a>
-
-  <a href="https://react.dev/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-react-react-original-f3412fc9.svg" width="40" alt="React">
-  </a>
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-microsoftsqlserver-microsoftsqlserver-original-e6b7e84e.svg" width="40" alt="SQL Server">
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-postgresql-postgresql-original-85c81dbb.svg" width="40" alt="PostgreSQL">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-mysql-mysql-original-f068bf4a.svg" width="40" alt="MySQL">
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-sqlite-sqlite-original-0f022bb2.svg" width="40" alt="SQLite">
-  </a>
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-oracle-oracle-original-891f7c30.svg" width="40" alt="Oracle">
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-  <img src="./assets/readme/external/devicons-devicon-master-icons-mongodb-mongodb-original-303837ee.svg" width="40" alt="MongoDB">
-</a>
-</p>
-
-### 🛠️ IDEs & Editors
-<p align="left">
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-visualstudio-visualstudio-plain-3e686761.svg" width="40" alt="Visual Studio">
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-vscode-vscode-original-9ecd94bd.svg" width="40" alt="VS Code">
-  </a>
-
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-pycharm-pycharm-original-b2fe29b4.svg" width="40" alt="PyCharm">
-  </a>
-
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-intellij-intellij-original-de22522d.svg" width="40" alt="IntelliJ IDEA">
-  </a>
-
-  <a href="https://netbeans.apache.org/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-netbeans-netbeans-original-91a58fd8.svg" width="40" alt="NetBeans">
-  </a>
-
-  <a href="https://mrdoob.com/projects/chromeexperiments/google-gravity/" target="_blank">
-    <img src="./assets/badges/Google-Gravity-Play-Now-black-a6980063.svg" />
-  </a>
-
-  <a href="https://github.com/getcursor/cursor" target="_blank">
-    <img src="./assets/readme/external/assets-images-logo-11be51c8.svg" width="40" alt="Cursor">
-  </a>
-
-</p>
-
-### 🔧 Development Tools
-<p align="left">
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-git-git-original-d0822bc5.svg" width="40" alt="Git">
-  </a>
-
-  <a href="https://github.com/" target="_blank">
-    <img src="./assets/readme/external/github-FFFFFF-c8c82016.svg" width="40" alt="GitHub">
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-docker-docker-original-c33d3f9a.svg" width="40" alt="Docker">
-  </a>
-
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img src="./assets/readme/external/wikipedia-commons-d-d0-Google_Colaboratory_SVG_Logo-abdd7a8d.svg" width="40" alt="Google Colab">
-  </a>
-
-</p>
-
-### 📐 UML & Design Tools
-<p align="left">
-
-<a href="https://plantuml.com/" target="_blank">
-  <img src="./assets/readme/external/u-7387923-614f3c70.png" width="40" alt="PlantUML">
-</a>
-
-  <a href="https://www.diagrams.net/" target="_blank">
-    <img src="./assets/readme/external/diagramsdotnet-F08705-9e8c79b5.svg" width="40" alt="draw.io">
-  </a>
-
-<a href="https://www.microsoft.com/microsoft-365/visio/" target="_blank">
-  <img src="./assets/readme/external/u-6154722-3896b2e1.png" width="40" alt="Visio">
-</a>
-
-</p>
-
-### 🧪 Testing Tools & Frameworks
-<p align="left">
-
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="./assets/readme/external/logos-getpostman-getpostman-icon-3133174d.svg" width="40" alt="Postman">
-  </a>
-
-  <a href="https://junit.org/junit5/" target="_blank">
-    <img src="./assets/readme/external/junit5-25A162-9f8e765f.svg" width="40" alt="JUnit">
-  </a>
-
-<a href="https://site.mockito.org/" target="_blank">
-  <img src="./assets/readme/external/u-2656033-a21d53c3.png" width="40" alt="Mockito">
-</a>
-
-  <a href="https://pytest.org/" target="_blank">
-    <img src="./assets/readme/external/pytest-0A9EDC-7200b94a.svg" width="40" alt="Pytest">
-  </a>
-
-</p>
-
-### 🖥️ GUI Development
-<p align="left">
-
-  <a href="https://www.qt.io/" target="_blank">
-    <img src="./assets/readme/external/qt-41CD52-32ef5527.svg" width="40" alt="Qt">
-  </a>
-
-  <a href="https://openjfx.io/" target="_blank">
-    <img src="./assets/readme/external/openjdk-ED8B00-bafcf158.svg" width="40" alt="JavaFX">
-  </a>
-
-  <a href="https://docs.oracle.com/javase/tutorial/uiswing/" target="_blank">
-    <img src="./assets/readme/external/openjdk-FFFFFF-c5a38d0b.svg" width="40" alt="Java Swing">
-  </a>
-
-</p>
-
----
-
-### 🖥️ Operating Systems
-<p align="left">
-  <!-- Windows -->
-  <a href="https://www.microsoft.com/windows/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-windows8-windows8-original-c9a40368.svg" width="40" alt="Windows">
-  </a>
-  
-  <!-- macOS -->
-  <a href="https://www.apple.com/macos/" target="_blank">
-    <img src="./assets/readme/external/apple-FFFFFF-18bc3f45.svg" width="40" alt="macOS">
-  </a>
-
-  <!-- Kali Linux -->
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="./assets/readme/external/kalilinux-a60853a6.svg" width="40" alt="Kali Linux">
-  </a>
-
-  <!-- Ubuntu -->
-<a href="https://ubuntu.com/" target="_blank">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-microsoftsqlserver-microsoftsqlserver-original-e6b7e84e.svg" width="40" alt="SQL Server">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-postgresql-postgresql-original-85c81dbb.svg" width="40" alt="PostgreSQL">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-mysql-mysql-original-f068bf4a.svg" width="40" alt="MySQL">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-docker-docker-original-c33d3f9a.svg" width="40" alt="Docker">
   <img src="./assets/readme/external/devicons-devicon-master-icons-linux-linux-original-15a14c53.svg" width="40" alt="Linux">
-</a>
-
-  <!-- Fedora -->
-  <a href="https://fedoraproject.org/" target="_blank">
-    <img src="./assets/readme/external/devicons-devicon-master-icons-fedora-fedora-original-3a511053.svg" width="40" alt="Fedora">
-  </a>
-
-  <a href="https://www.vmware.com/" target="_blank">
-  <img src="./assets/readme/external/vmware-607078-179db399.svg" width="40" alt="VMware">
-</a>
-
-<a href="https://www.vmware.com/products/vsphere.html" target="_blank">
-  <img src="./assets/readme/external/vmware-0078D4-b2cb941c.svg" width="40" alt="vSphere">
-</a>
-
+  <img src="./assets/readme/external/devicons-devicon-master-icons-git-git-original-d0822bc5.svg" width="40" alt="Git">
+  <img src="./assets/readme/external/logos-getpostman-getpostman-icon-3133174d.svg" width="40" alt="Postman">
 </p>
-
----
-
-<a id="more-courses--learning-archive"></a>
 
 <details>
-<summary><strong>📚 More Courses & Learning Archive</strong></summary>
+<summary><strong>Additional Tools & Environment</strong></summary>
 
-> Full archive repository: [anasemadanas/courses](https://github.com/anasemadanas/courses)
+### Development Environment
 
-<p align="left">
-  <a href="https://github.com/anasemadanas/courses" target="_blank">
-    <img src="./assets/badges/Courses-Archive-181717.svg" />
-  </a>
-</p>
-
-### 💻 ProgrammingAdvices Roadmap
-
-🔗 [ProgrammingAdvices](https://programmingadvices.com/)
-
-Programming Advices played a major role in my journey into software engineering and the IT field.  
-It was one of the main foundations that helped shape my problem-solving mindset, programming logic, and backend development skills.
-
-Through its roadmap and practical projects, I built a strong understanding of algorithms, OOP, databases, system thinking, and clean code principles.  
-It became an important starting point in my professional growth and learning journey.
-
-I truly appreciate the educational value and structured learning approach that helped me progress from fundamentals to building real-world applications.
-
----
-
-### ☁️ Cloud, Microsoft, AWS & AI Learning
+- Operating systems: Windows, Ubuntu, Kali Linux
+- IDEs: Visual Studio, VS Code, PyCharm, IntelliJ IDEA, NetBeans
+- Tools: Git, GitHub, Docker, VMware, Postman, PlantUML, draw.io
+- Testing: JUnit, Mockito, Pytest
+- Frontend support: HTML, CSS, JavaScript, React
 
 <p align="left">
-
-<a href="https://learn.microsoft.com/" target="_blank">
-  <img src="./assets/badges/Microsoft-Learning-Server-Technologies-blue-2c87dc27.svg" />
-</a>
-
-<a href="https://learn.microsoft.com/en-us/training/" target="_blank">
-  <img src="./assets/badges/Microsoft-365-Office-Technologies-blue-6e7be568.svg" />
-</a>
-
-<a href="https://www.wireshark.org/" target="_blank">
-<img src="./assets/badges/Wireshark-Network-Analyzer-blue-a8dedede.svg" />
-</a>
-
-<a href="https://aws.amazon.com/certification/certified-ai-practitioner/" target="_blank">
-  <img src="./assets/badges/AWS-AI-Practitioner-AIF-C01-FF9900.svg" />
-</a>
-
-<a href="https://learn.microsoft.com/en-us/fabric/" target="_blank">
-  <img src="./assets/badges/Microsoft-Fabric-Data-Platform-purple-cbb6357b.svg" />
-</a>
-
-
+  <img src="./assets/readme/external/devicons-devicon-master-icons-visualstudio-visualstudio-plain-3e686761.svg" width="36" alt="Visual Studio">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-vscode-vscode-original-9ecd94bd.svg" width="36" alt="VS Code">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-pycharm-pycharm-original-b2fe29b4.svg" width="36" alt="PyCharm">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-intellij-intellij-original-de22522d.svg" width="36" alt="IntelliJ IDEA">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-html5-html5-original-47188965.svg" width="36" alt="HTML">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-css3-css3-original-59019dde.svg" width="36" alt="CSS">
+  <img src="./assets/readme/external/devicons-devicon-master-icons-react-react-original-f3412fc9.svg" width="36" alt="React">
+  <img src="./assets/readme/external/junit5-25A162-9f8e765f.svg" width="36" alt="JUnit">
+  <img src="./assets/readme/external/pytest-0A9EDC-7200b94a.svg" width="36" alt="Pytest">
 </p>
-
----
-
-### 🧩 CompTIA Learning
-
-<p align="left">
-
-<a href="https://www.comptia.org/certifications/network" target="_blank">
-  <img src="./assets/badges/CompTIA-Network+-Networking-Fundamentals-orange-ebf93cad.svg" />
-</a>
-
-<a href="https://www.comptia.org/certifications/cloud" target="_blank">
-  <img src="./assets/badges/CompTIA-Cloud+-Cloud-Computing-00A3E0-003255c3.svg" />
-</a>
-
-</p>
-
----
-
-### 🌐 Web Development & Software Engineering
-
-<p align="left">
-
-<a href="https://orange.jo/en/corporate/csr/coding-academy" target="_blank">
-<img src="./assets/badges/HTML-Orange-Coding-Academy-E34F26-7ecc0a95.svg" />
-</a>
-
-<a href="https://orange.jo/en/corporate/csr/coding-academy" target="_blank">
-<img src="./assets/badges/CSS-Orange-Coding-Academy-1572B6-4de93d5c.svg" />
-</a>
-
-<a href="https://orange.jo/en/corporate/csr/coding-academy" target="_blank">
-<img src="./assets/badges/JavaScript-Orange-Coding-Academy-F7DF1E-6d0bbadc.svg" />
-</a>
-
-<a href="https://en.wikipedia.org/wiki/SOLID" target="_blank">
-<img src="./assets/badges/SOLID-Principles-4CAF50-19dcd060.svg" />
-</a>
-
-<a href="https://en.wikipedia.org/wiki/Multitier_architecture" target="_blank">
-<img src="./assets/badges/3-Tier-Architecture-blue-0b45e59e.svg" />
-</a>
-
-</p>
-
----
-
-> 📌 These represent completed courses, learning paths, certificates of completion, and self-study programs.
-
 
 </details>
 
 ---
 
-<a id="certifications"></a>
+## Certifications
 
-## 🎓 Certifications
+Visible highlights are kept intentionally short. The full learning archive is linked below.
 
 [![CS50](./assets/badges/CS50-Harvard-University-8B1E3F-d00e7cad.svg)](https://cs50.harvard.edu/certificates/46da5d62-c049-47a6-a77a-f4e31ec9da9b)
 [![Credly](./assets/badges/Credly-FF6B00-78573125.svg)](https://www.credly.com/users/anas-emad-sabri-al-shawiki)
 [![AZ-900](./assets/badges/AZ-900-Azure-Fundamentals-0078D4-f4852bf8.svg)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
-[![AB-900](./assets/badges/AB-900-Copilot-Agent-Administration-742774-44a07a9c.svg)](https://learn.microsoft.com/en-us/credentials/certifications/copilot-and-agent-administration-fundamentals/?practice-assessment-type=certification)
-[![PL-900](./assets/badges/PL-900-Power-Platform-Fundamentals-742774-ebd4984c.svg)](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/)
 [![AI-900](./assets/badges/AI-900-Azure-AI-Fundamentals-0078D4-6a0d5b0a.svg)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
 [![DP-900](./assets/badges/DP-900-Azure-Data-Fundamentals-005A9C-dd3529d8.svg)](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
 [![SC-900](./assets/badges/SC-900-Security-Compliance-Identity-107C10-eed5b9c8.svg)](https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/)
 
----
+<details>
+<summary><strong>More Learning Badges</strong></summary>
 
-<a id="career-goals"></a>
-
-## 🎯 Career Goals 
-
-- Backend Engineering
-- Secure System Design
-- Cloud & DevOps
-- AI-powered Applications
-- Cybersecurity Research
-
----
-
-### 🤖 AI & Machine Learning Tools
+### Cloud, Security & AI
 
 <p align="left">
-
-<!-- AI Tools -->
-<a href="https://ollama.com/" target="_blank">
-<img src="./assets/badges/Ollama-Local-LLM-Runner-black-22a74c2d.svg" />
-</a>
-<a href="https://github.com/anasemadanas" target="_blank">
-<img src="./assets/badges/AI-Models-LLMs-blue-3171afd8.svg" />
-</a>
-<a href="https://github.com/LostRuins/koboldcpp" target="_blank">
-<img src="./assets/badges/KoboldCPP-Local-Inference-purple-b0841874.svg" />
-</a>
+  <img src="./assets/badges/AWS-CLF-C02-FF9900-51373805.svg" alt="AWS Cloud Practitioner">
+  <img src="./assets/badges/AWS-AI-Practitioner-AIF-C01-FF9900.svg" alt="AWS AI Practitioner">
+  <img src="./assets/badges/CompTIA-Network+-Networking-Fundamentals-orange-ebf93cad.svg" alt="CompTIA Network+">
+  <img src="./assets/badges/CompTIA-Cloud+-Cloud-Computing-00A3E0-003255c3.svg" alt="CompTIA Cloud+">
+  <img src="./assets/badges/Wireshark-Network-Analyzer-blue-a8dedede.svg" alt="Wireshark">
 </p>
 
-### 🧠 LLMs & Models Experience
+### Programming Advices Foundation
 
 <p align="left">
-
-<a href="https://qwenlm.github.io/" target="_blank">
-<img src="./assets/badges/Qwen-2.5-Coder-orange-181ec436.svg" />
-</a>
-<a href="https://www.deepseek.com/" target="_blank">
-<img src="./assets/badges/DeepSeek-Coder-red-5ddaa966.svg" />
-</a>
-<a href="https://www.llama.com/" target="_blank">
-<img src="./assets/badges/Llama-Models-purple-00a4774b.svg" />
-</a>
-<a href="https://mistral.ai/" target="_blank">
-<img src="./assets/badges/Mistral-AI-gray-8fdaba72.svg" />
-</a>
-
+  <img src="./assets/badges/01-Foundations-Level-1-success-c5d57a50.svg" alt="Foundations Level 1">
+  <img src="./assets/badges/02-Algorithms-Level-1-success-bcc4b60e.svg" alt="Algorithms Level 1">
+  <img src="./assets/badges/10-OOP-Level-1-00599C-c218f063.svg" alt="OOP Level 1">
+  <img src="./assets/badges/12-Data-Structures-Level-1-orange-12d2a44b.svg" alt="Data Structures Level 1">
+  <img src="./assets/badges/15-Database-Level-1-SQL-4479A1-7db6812a.svg" alt="Database Level 1">
 </p>
 
-### 🌐 AI APIs & Platforms
-
-<p align="left">
-
-<a href="https://openrouter.ai/" target="_blank">
-<img src="./assets/badges/OpenRouter-AI-Gateway-blue-d77a0850.svg" />
-</a>
-<a href="https://huggingface.co/" target="_blank">
-<img src="./assets/badges/HuggingFace-Models-yellow-20a20513.svg" />
-</a>
-<a href="https://www.together.ai/" target="_blank">
-<img src="./assets/badges/Together-AI-LLM-API-orange-9b47b8d8.svg" />
-</a>
-<a href="https://groq.com/" target="_blank">
-<img src="./assets/badges/Groq-LLM-Inference-red-d6ac7eef.svg" />
-</a>
-
-</p>
+</details>
 
 ---
 
-<a id="contact-information"></a>
+## Learning Archive
 
-## 📬 Contact Information <img src="./assets/readme/phone.gif" width="30px">
+The full archive is maintained separately in [anasemadanas/courses](https://github.com/anasemadanas/courses).
 
 <p align="left">
-
-[![Gmail](./assets/badges/Gmail-D14836.svg)](mailto:anasemadanas1@gmail.com)
-[![LinkedIn](./assets/badges/LinkedIn-0A66C2.svg)](https://linkedin.com/in/eng-anasemad)
-[![GitHub](./assets/badges/GitHub-181717.svg)](https://github.com/anasemadanas)
-[![Portfolio](./assets/badges/Portfolio-121013.svg)](https://anasemadanas.github.io/)
-
-<br>
-
-[![Credly](./assets/badges/Credly-FF6B00.svg)](https://www.credly.com/users/anas-emad-sabri-al-shawiki)
-[![ORCID](./assets/badges/ORCID-A6CE39.svg)](https://orcid.org/0009-0000-7569-8202)
-
-<br>
-
-[![WordPress](./assets/badges/WordPress-21759B.svg)](https://anasemadanas.wordpress.com/)
-[![Blogger](./assets/badges/Blogger-FF5722.svg)](https://anasemadanas.blogspot.com/)
-[![Wix](./assets/badges/Wix-000000.svg)](https://anasemadanas1.wixsite.com/anas1)
-
-</p>
-
----
-
-## 🏆 GitHub Trophies 
-
-<div align="center">
-  <a href="https://github.com/anasemadanas" target="_blank">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=anasemadanas&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
+  <a href="https://github.com/anasemadanas/courses" target="_blank">
+    <img src="./assets/badges/Courses-Archive-181717.svg" alt="Courses archive">
   </a>
-</div>
+</p>
 
 ---
 
-<a id="github-stats"></a>
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anasemadanas?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark&hide_border=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark&hide_border=true" alt="Top languages">
   </a>
 </div>
 
----
-
-## 🔥 GitHub Streak
+<br>
 
 <div align="center">
   <a href="https://github.com/anasemadanas" target="_blank">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=dark" width="500" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasemadanas&theme=dark" width="500" alt="GitHub streak">
   </a>
 </div>
 
-> ⚠️ **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
----
-
-## 📈 Activity Graph
-<p align="center">
-  <a href="https://github.com/anasemadanas" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" />
-  </a>
-</p>
-
----
-
-## 🏅 Badges
-<p align="center">
-  <a href="https://github.com/anasemadanas" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=anasemadanas&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/anasemadanas?tab=followers" target="_blank">
-  <img src="https://img.shields.io/github/followers/anasemadanas?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/anasemadanas?tab=stars" target="_blank">
-  <img src="https://img.shields.io/github/stars/anasemadanas?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-## 🔥 Contribution Calendar
-<p align="center">
-  <a href="https://github.com/anasemadanas" target="_blank">
-  <img src="https://ghchart.rshah.org/anasemadanas" />
-  </a>
-</p>
-
----
-
-## ⚔️ Profile Summary 
+<br>
 
 <div align="center">
   <a href="https://github.com/anasemadanas" target="_blank">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark" alt="GitHub profile summary">
   </a>
 </div>
+
+> Top languages reflects public repository language usage, not overall experience or skill level.
+
+<details>
+<summary><strong>Extra GitHub Widgets</strong></summary>
+
+### Trophies
 
 <div align="center">
-  <a href="https://github.com/anasemadanas" target="_blank">
-  <img src="./assets/generated/typing2.svg" />
-  </a>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=anasemadanas&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" alt="GitHub trophies">
 </div>
 
-## 🔝 Back To Top
-
-<p align="center"> 
-  <a href="#anas-emad---software-developer"> 
-    <img src="./assets/static/Back-To-Top.svg"/> 
-  </a> 
-</p>
+### Activity Graph
 
 <p align="center">
-💙 Thank you for visiting my portfolio
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" alt="GitHub activity graph">
+</p>
+
+### Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/anasemadanas" alt="Contribution calendar">
+</p>
+
+### Contribution Snake
+
+[![snake](./assets/readme/external/anasemadanas-anasemadanas-output-snake-eee0e1e1.svg)](https://github.com/anasemadanas)
+
+### Dev Quote
+
+<p align="center">
+  <img src="./assets/static/quote.svg" alt="Developer quote">
+</p>
+
+</details>
+
+---
+
+## Contact
+
+<p align="left">
+  <a href="mailto:anasemadanas1@gmail.com"><img src="./assets/badges/Gmail-D14836.svg" alt="Gmail"></a>
+  <a href="https://linkedin.com/in/eng-anasemad"><img src="./assets/badges/LinkedIn-0A66C2.svg" alt="LinkedIn"></a>
+  <a href="https://github.com/anasemadanas"><img src="./assets/badges/GitHub-181717.svg" alt="GitHub"></a>
+  <a href="https://anasemadanas.github.io/"><img src="./assets/badges/Portfolio-121013.svg" alt="Portfolio"></a>
+  <a href="https://orcid.org/0009-0000-7569-8202"><img src="./assets/badges/ORCID-A6CE39.svg" alt="ORCID"></a>
+</p>
+
+<div align="center">
+  <img src="./assets/generated/typing2.svg" alt="Thank you">
+</div>
+
+<p align="center">
+  <a href="#anas-emad---backend-developer">
+    <img src="./assets/static/Back-To-Top.svg" alt="Back to top">
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anasemadanas" target="_blank">
-      <img src="./assets/static/Credit-Anas Emad-blue.svg" />
+    <img src="./assets/static/Credit-Anas Emad-blue.svg" alt="Credit Anas Emad">
   </a>
 </p>

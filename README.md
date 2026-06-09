@@ -6,7 +6,7 @@
 
 <h1 align="center">
   Hi 
-  <a href="https://github.com/anasemadanas#about-me" target="_blank">
+  <a href="#about-me">
     <img src="./assets/readme/wave.gif" height="45" alt="wave">
   </a>, 
   I'm Anas Emad
@@ -26,7 +26,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/anasemadanas#about-me" target="_blank">
+    <a href="#about-me">
     <img src="./assets/generated/typing1.svg" alt="Typing intro">
   </a>
 </div>

@@ -104,7 +104,7 @@ class AboutMe extends Me {
       "Discord":       "https://discord.com/users/559077785587679272",
       "ORCID":         "https://orcid.org/0009-0000-7569-8202",
       "Facebook":      "https://www.facebook.com/anasemadanas1"
-      "Gitlab":      "https://gitlab.com/anasemadanas1"
+      "Gitlab":        "https://gitlab.com/anasemadanas1"
     }
   };
 }

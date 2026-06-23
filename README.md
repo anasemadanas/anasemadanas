@@ -204,7 +204,7 @@ class AboutMe extends Me {
 </details>
 
 <details>
-<summary>🍕 ZU Project (Ordering System)</summary>
+<summary>🧑‍🎓 ZU Project (Ordering System)</summary>
 
 **Full-stack style ordering workflow system with menu, cart, and order lifecycle management.**
 
@@ -213,7 +213,7 @@ class AboutMe extends Me {
 - System behavior: user-driven order creation and state transitions.
 - Focus: clean user flow + modular backend structure.
 
-🔗 [🍕 ZU Repository](https://github.com/anasemadanas/zu)
+🔗 [🧑‍🎓 ZU Repository](https://github.com/anasemadanas/zu)
 
 </details>
 

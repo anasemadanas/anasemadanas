@@ -104,6 +104,7 @@ class AboutMe extends Me {
       "Discord":       "https://discord.com/users/559077785587679272",
       "ORCID":         "https://orcid.org/0009-0000-7569-8202",
       "Facebook":      "https://www.facebook.com/anasemadanas1"
+      "Gitlab":      "https://gitlab.com/anasemadanas1"
     }
   };
 }
@@ -134,7 +135,8 @@ class AboutMe extends Me {
 
 ## 🚀 Featured Projects
 
-### 💰 Expense Tracker System
+<details>
+<summary>💰 Expense Tracker System (Django)</summary>
 
 **Django web application for personal finance tracking, authenticated dashboard workflows, and financial reporting.**
 
@@ -145,7 +147,10 @@ class AboutMe extends Me {
 
 🔗 [Live Site](https://anasemad.pythonanywhere.com/)
 
-### 🎮 Connect 4 Game
+</details>
+
+<details>
+<summary>🎮 Connect 4 Game</summary>
 
 **Interactive browser game with complete state management and GitHub Pages deployment.**
 
@@ -155,12 +160,87 @@ class AboutMe extends Me {
 
 🔗 [Play Game](https://anasemadanas.github.io/connect-4/)
 
-### 🤖 AI Backend Integrations
+</details>
+
+<details>
+<summary>🤖 AI Backend Integrations</summary>
 
 **Ongoing backend experiments with LLM APIs, local model tooling, and AI-assisted workflows.**
 
 - Focus areas: API gateway patterns, prompts, provider integrations, backend automation, and local inference.
 - Tools explored: OpenRouter, Hugging Face, Together AI, Groq, Ollama, KoboldCPP, Qwen, DeepSeek, Llama, and Mistral.
+
+</details>
+
+<details>
+<summary>🧾 DVLD System (Driving License Management)</summary>
+
+**Comprehensive Driving & Vehicle Licensing System designed to manage driver licensing workflows and administrative operations.**
+
+- Architecture: structured backend system supporting licensing processes, user management, and administrative workflows.
+- Core focus: application handling, licensing stages, exams/appointments management, and rule-based validation.
+- System design: modular and scalable approach suitable for government-style digital services.
+- Backend direction: database-driven operations with clear entity relationships and workflow tracking.
+
+🔗 [GitHub Repository](https://github.com/anasemadanas/DVLD)
+
+</details>
+
+<details>
+<summary>💰 MyWallet</summary>
+
+**Personal finance management system for tracking income, expenses, and financial activity.**
+
+- Architecture: backend-focused financial tracking system with structured data models.
+- Core features: transaction management, expense categorization, and user-based financial records.
+- Engineering focus: clean data modeling, financial logic, and reporting readiness.
+- Scalability: extensible toward dashboards, analytics, and API-based integrations.
+
+🔗 [GitHub Repository](https://github.com/anasemadanas/MyWallet)
+
+</details>
+
+<details>
+<summary>⚙️ ZU App</summary>
+
+**Software system project focused on structured backend logic and application workflow design.**
+
+- Architecture: modular application structure with emphasis on backend organization.
+- Core focus: system workflows, request handling, and data management logic.
+- Engineering direction: clean separation of concerns and scalable codebase design.
+- Future-ready: can be extended into full-stack or API-based system depending on requirements.
+
+🔗 [GitHub Repository](https://github.com/anasemadanas/zu)
+
+</details>
+
+<details>
+<summary>🍕 Pizza Project</summary>
+
+**Full-stack pizza ordering system with interactive UI and backend order management flow.**
+
+- Architecture: web application with structured frontend-backend interaction.
+- Core features: menu browsing, cart system, order creation, and order tracking workflow.
+- Engineering focus: state management, user flow handling, and clean UI logic.
+- Backend direction: ready for API integration and database-driven order persistence.
+
+🔗 [GitHub Repository](https://github.com/anasemadanas/PizzaProject)
+
+</details>
+
+<details>
+<summary>💰 Money Manager System</summary>
+
+**Personal finance management application for tracking expenses, income, and budgeting workflows.**
+
+- Architecture: structured financial tracking system with user-based data handling.
+- Core features: transaction management, expense categorization, and balance tracking.
+- Engineering focus: clean data modeling, financial logic, and reporting readiness.
+- Scalability: extensible toward dashboards, analytics, and API-based integrations.
+
+🔗 [GitHub Repository](https://github.com/anasemadanas/Money_Manager)
+
+</details>
 
 ---
 

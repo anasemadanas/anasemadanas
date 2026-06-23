@@ -138,107 +138,110 @@ class AboutMe extends Me {
 <details>
 <summary>💰 Expense Tracker System (Django)</summary>
 
-**Django web application for personal finance tracking, authenticated dashboard workflows, and financial reporting.**
+**Full-featured Django-based financial management system with authentication and reporting workflows.**
 
-- Architecture: Django app with relational models, authentication, dashboard views, and modular backend logic.
-- Backend focus: request handling, validation, user workflows, reporting, and API-ready design.
-- Data layer: PostgreSQL-ready structure for expenses, categories, analytics, and user-owned records.
-- Scalability direction: service separation, reporting modules, API endpoints, and deployment-ready settings.
+- Architecture: Django MVC-style project with structured models, views, and user authentication.
+- Core focus: tracking expenses, categorization, and generating structured financial insights per user.
+- System behavior: user-owned financial records with secure session-based access.
+- Backend design: database-driven logic with scalable reporting structure.
 
-🔗 [Live Site](https://anasemad.pythonanywhere.com/)
+🔗 [🌐 Live Site](https://anasemad.pythonanywhere.com/)
 
 </details>
 
 <details>
 <summary>🎮 Connect 4 Game</summary>
 
-**Interactive browser game with complete state management and GitHub Pages deployment.**
+**Browser-based Connect 4 game with full game-state logic and win detection system.**
 
-- Architecture: HTML, CSS, and JavaScript with full game-state logic.
-- Engineering focus: win detection, turn handling, reset flow, and deterministic board updates.
-- Deployment: hosted with GitHub Pages.
+- Architecture: pure frontend application (HTML/CSS/JS).
+- Core logic: board state management, turn switching, and win-condition detection.
+- Focus: deterministic game flow with reset and replay functionality.
+- Deployment: GitHub Pages static hosting.
 
-🔗 [Play Game](https://anasemadanas.github.io/connect-4/)
+🔗 [🎮 Play Game](https://anasemadanas.github.io/connect-4/)
 
 </details>
 
 <details>
 <summary>🤖 AI Backend Integrations</summary>
 
-**Ongoing backend experiments with LLM APIs, local model tooling, and AI-assisted workflows.**
+**Backend experiments integrating multiple LLM providers and local inference tools.**
 
-- Focus areas: API gateway patterns, prompts, provider integrations, backend automation, and local inference.
-- Tools explored: OpenRouter, Hugging Face, Together AI, Groq, Ollama, KoboldCPP, Qwen, DeepSeek, Llama, and Mistral.
+- Focus: API integration layer for different AI providers.
+- Includes: OpenRouter, Hugging Face, Groq, Together AI, Ollama, and local model testing.
+- Core idea: building flexible backend abstraction over multiple AI models.
+- Direction: automation workflows + prompt engineering pipelines.
 
 </details>
 
 <details>
-<summary>🧾 DVLD System (Driving License Management)</summary>
+<summary>🧾 DVLD System (Driving License Management System)</summary>
 
-**Comprehensive Driving & Vehicle Licensing System designed to manage driver licensing workflows and administrative operations.**
+**Administrative system simulating driving license lifecycle management with structured workflows.**
 
-- Architecture: structured backend system supporting licensing processes, user management, and administrative workflows.
-- Core focus: application handling, licensing stages, exams/appointments management, and rule-based validation.
-- System design: modular and scalable approach suitable for government-style digital services.
-- Backend direction: database-driven operations with clear entity relationships and workflow tracking.
+- Architecture: multi-entity backend system with structured business rules.
+- Core domain: applications, licensing stages, tests, and approval workflows.
+- System logic: state transitions between license processing stages.
+- Design: layered backend structure similar to government service systems.
 
-🔗 [GitHub Repository](https://github.com/anasemadanas/DVLD)
+🔗 [🧾 DVLD Repository](https://github.com/anasemadanas/DVLD)
 
 </details>
 
 <details>
 <summary>💰 MyWallet</summary>
 
-**Personal finance management system for tracking income, expenses, and financial activity.**
+**Personal finance tracking system focused on budgeting and transaction organization.**
 
-- Architecture: backend-focused financial tracking system with structured data models.
-- Core features: transaction management, expense categorization, and user-based financial records.
-- Engineering focus: clean data modeling, financial logic, and reporting readiness.
-- Scalability: extensible toward dashboards, analytics, and API-based integrations.
+- Architecture: backend data-driven application with user-based financial records.
+- Core features: income/expense tracking, categorization, and balance monitoring.
+- Logic: structured transactions grouped by user and category.
+- Goal: simple financial visibility with extensible reporting layer.
 
-🔗 [GitHub Repository](https://github.com/anasemadanas/MyWallet)
+🔗 [💰 MyWallet Repository](https://github.com/anasemadanas/MyWallet)
 
 </details>
 
 <details>
-<summary>⚙️ ZU App</summary>
+<summary>🍕 ZU Project (Ordering System)</summary>
 
-**Software system project focused on structured backend logic and application workflow design.**
+**Full-stack style ordering workflow system with menu, cart, and order lifecycle management.**
 
-- Architecture: modular application structure with emphasis on backend organization.
-- Core focus: system workflows, request handling, and data management logic.
-- Engineering direction: clean separation of concerns and scalable codebase design.
-- Future-ready: can be extended into full-stack or API-based system depending on requirements.
+- Architecture: structured application with frontend flow + backend logic separation.
+- Core features: menu browsing, cart handling, and order processing lifecycle.
+- System behavior: user-driven order creation and state transitions.
+- Focus: clean user flow + modular backend structure.
 
-🔗 [GitHub Repository](https://github.com/anasemadanas/zu)
+🔗 [🍕 ZU Repository](https://github.com/anasemadanas/zu)
 
 </details>
 
 <details>
 <summary>🍕 Pizza Project</summary>
 
-**Full-stack pizza ordering system with interactive UI and backend order management flow.**
+**Interactive pizza ordering system with cart and order management logic.**
 
-- Architecture: web application with structured frontend-backend interaction.
-- Core features: menu browsing, cart system, order creation, and order tracking workflow.
-- Engineering focus: state management, user flow handling, and clean UI logic.
-- Backend direction: ready for API integration and database-driven order persistence.
+- Architecture: frontend + backend-style interaction (order flow simulation).
+- Core features: menu selection, cart system, order placement, and tracking flow.
+- Logic: state-based order progression from selection → checkout → confirmation.
+- Focus: user experience and order lifecycle design.
 
-🔗 [GitHub Repository](https://github.com/anasemadanas/PizzaProject)
+🔗 [🍕 Pizza Project Repository](https://github.com/anasemadanas/PizzaProject)
 
 </details>
 
 <details>
 <summary>💰 Money Manager System</summary>
 
-**Personal finance management application for tracking expenses, income, and budgeting workflows.**
+**Lightweight financial tracking system for expenses and income monitoring.**
 
-- Architecture: structured financial tracking system with user-based data handling.
-- Core features: transaction management, expense categorization, and balance tracking.
-- Engineering focus: clean data modeling, financial logic, and reporting readiness.
-- Scalability: extensible toward dashboards, analytics, and API-based integrations.
+- Architecture: structured data handling for financial transactions.
+- Core features: expense logging, income tracking, and category grouping.
+- Logic: simple financial aggregation per user.
+- Focus: clean and minimal financial overview system.
 
-🔗 [GitHub Repository](https://github.com/anasemadanas/Money_Manager)
+🔗 [💰 Money Manager Repository](https://github.com/anasemadanas/Money_Manager)
 
 </details>
 

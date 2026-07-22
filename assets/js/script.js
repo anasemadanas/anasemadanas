@@ -97,7 +97,7 @@ for (let i = 0; i < navigationLinks.length; i++) {
 }
 
 emailjs.init({
-    publicKey: "YOUR_PUBLIC_KEY"
+    publicKey: "BoiON_uKyZhS70NbQ"
 });
 
 if (form) {
@@ -105,8 +105,8 @@ if (form) {
         e.preventDefault();
 
         emailjs.sendForm(
-            "YOUR_SERVICE_ID",
-            "YOUR_TEMPLATE_ID",
+            "service_jyfp47a",
+            "template_bh3dibp",
             this
         ).then(() => {
             alert("Message sent successfully!");

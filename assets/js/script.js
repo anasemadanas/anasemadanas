@@ -95,3 +95,26 @@ for (let i = 0; i < navigationLinks.length; i++) {
     }
   });
 }
+
+emailjs.init({
+    publicKey: "YOUR_PUBLIC_KEY"
+});
+
+if (form) {
+    form.addEventListener("submit", function (e) {
+        e.preventDefault();
+
+        emailjs.sendForm(
+            "YOUR_SERVICE_ID",
+            "YOUR_TEMPLATE_ID",
+            this
+        ).then(() => {
+            alert("Message sent successfully!");
+            form.reset();
+            formBtn.setAttribute("disabled", "");
+        }).catch((error) => {
+            alert("Failed to send message.");
+            console.error(error);
+        });
+    });
+}

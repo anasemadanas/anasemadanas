@@ -105,17 +105,13 @@ if (form) {
     e.preventDefault();
     emailjs.sendForm(
         "service_jyfp47a",
-        "template_bh3dibp",
+        "template_dm3xtif",
         this
     )
     .then(function(response){
-
         console.log("SUCCESS:", response);
-
         alert("Message sent successfully!");
-
         form.reset();
-
         if(formBtn){
           formBtn.setAttribute("disabled", "");
         }

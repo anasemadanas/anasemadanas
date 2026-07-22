@@ -97,9 +97,8 @@ for (let i = 0; i < navigationLinks.length; i++) {
 }
 
 emailjs.init("BoiON_uKyZhS70NbQ");
-const form = document.querySelector("[data-form]");
-const formBtn = document.querySelector("[data-form-btn]");
-form.addEventListener("submit", function(e){
+if (form) {
+  form.addEventListener("submit", function(e){
     e.preventDefault();
     emailjs.sendForm(
         "service_jyfp47a",
@@ -107,14 +106,20 @@ form.addEventListener("submit", function(e){
         this
     )
     .then(function(response){
+
         console.log("SUCCESS:", response);
+
         alert("Message sent successfully!");
+
         form.reset();
-        formBtn.setAttribute("disabled", "");
+
+        if(formBtn){
+          formBtn.setAttribute("disabled", "");
+        }
     })
     .catch(function(error){
         console.log("ERROR:", error);
         alert("Failed to send message!");
     });
-
-});
+  });
+}

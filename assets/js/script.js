@@ -96,25 +96,25 @@ for (let i = 0; i < navigationLinks.length; i++) {
   });
 }
 
-emailjs.init({
-    publicKey: "BoiON_uKyZhS70NbQ"
-});
-
-if (form) {
-    form.addEventListener("submit", function (e) {
-        e.preventDefault();
-
-        emailjs.sendForm(
-            "service_jyfp47a",
-            "template_bh3dibp",
-            this
-        ).then(() => {
-            alert("Message sent successfully!");
-            form.reset();
-            formBtn.setAttribute("disabled", "");
-        }).catch((error) => {
-            alert("Failed to send message.");
-            console.error(error);
-        });
+emailjs.init("BoiON_uKyZhS70NbQ");
+const form = document.querySelector("[data-form]");
+const formBtn = document.querySelector("[data-form-btn]");
+form.addEventListener("submit", function(e){
+    e.preventDefault();
+    emailjs.sendForm(
+        "service_jyfp47a",
+        "template_bh3dibp",
+        this
+    )
+    .then(function(response){
+        console.log("SUCCESS:", response);
+        alert("Message sent successfully!");
+        form.reset();
+        formBtn.setAttribute("disabled", "");
+    })
+    .catch(function(error){
+        console.log("ERROR:", error);
+        alert("Failed to send message!");
     });
-}
+
+});

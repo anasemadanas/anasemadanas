@@ -83,16 +83,19 @@ const pages = document.querySelectorAll("[data-page]");
 
 for (let i = 0; i < navigationLinks.length; i++) {
   navigationLinks[i].addEventListener("click", function () {
-    for (let j = 0; j < pages.length; j++) {
-      if (this.innerHTML.toLowerCase() === pages[j].dataset.page) {
-        pages[j].classList.add("active");
-        navigationLinks[j].classList.add("active");
-        window.scrollTo(0, 0);
-      } else {
-        pages[j].classList.remove("active");
-        navigationLinks[j].classList.remove("active");
-      }
+    const pageName = this.innerText.toLowerCase();
+    pages.forEach(page => {
+      page.classList.remove("active");
+    });
+    navigationLinks.forEach(link => {
+      link.classList.remove("active");
+    });
+    const targetPage = document.querySelector(`[data-page="${pageName}"]`);
+    if (targetPage) {
+      targetPage.classList.add("active");
+      this.classList.add("active");
     }
+    window.scrollTo(0, 0);
   });
 }
 

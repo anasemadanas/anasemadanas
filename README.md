@@ -1,6 +1,3 @@
-<!-- anas-dev anasemad anas-back anas-security anas-stack anas-shwiki anas-alshawiki anas-imad anasanas 
-anasemadsabri anas-emad-sabri showiki shwiki shawiky al-shwiky dark ans ansemad -->
-
 <a id="anas-emad---software-developer"></a>
 
 # Anas Emad - Software Developer
@@ -12,7 +9,7 @@ anasemadsabri anas-emad-sabri showiki shwiki shawiky al-shwiky dark ans ansemad 
 
 <h1 align="center">
   Hi 
-  <a href="#anas-emad---software-developer"">
+  <a href="#anas-emad---software-developer">
     <img src="./assets/readme/wave.gif" height="45" alt="wave">
   </a>, 
   I'm Anas Emad
@@ -107,7 +104,7 @@ class AboutMe extends Me {
       "StackOverflow": "https://stackoverflow.com/users/32631412/anas-emad",
       "Discord":       "https://discord.com/users/559077785587679272",
       "ORCID":         "https://orcid.org/0009-0000-7569-8202",
-      "Facebook":      "https://www.facebook.com/anasemadanas1"
+      "Facebook":      "https://www.facebook.com/anasemadanas1",
       "Gitlab":        "https://gitlab.com/anasemadanas1"
     }
   };

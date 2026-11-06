@@ -277,7 +277,7 @@ class AboutMe extends Me {
 ### 🛠️ Tech Stack
 
 <details>
-<summary><b>🛠️ Tech Stack</b></summary>
+<summary><b>🛠️ Skills 🛠️</b></summary>
 <br>
 
 ### Mobile & Front-End

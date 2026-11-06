@@ -106,7 +106,7 @@ class AboutMe extends Me {
       "Discord":       "https://discord.com/users/559077785587679272",
       "ORCID":         "https://orcid.org/0009-0000-7569-8202",
       "Facebook":      "https://www.facebook.com/anasemadanas1",
-      "Gitlab":        "https://gitlab.com/anasemadanas1"
+      "GitLab":        "https://gitlab.com/anasemad"
     }
   };
 }
@@ -526,14 +526,7 @@ These are manually maintained and reflect the languages I list in my skills; the
 
 ### 🔧 Development Tools
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-git-git-original-d0822bc5.svg" width="40" alt="Git"></a>
-  <a href="https://github.com/" target="_blank"><img src="./assets/readme/external/github-FFFFFF-c8c82016.svg" width="40" alt="GitHub"></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-docker-docker-original-c33d3f9a.svg" width="40" alt="Docker"></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="./assets/readme/external/logos-getpostman-getpostman-icon-3133174d.svg" width="40" alt="Postman"></a>
-  <a href="https://plantuml.com/" target="_blank"><img src="./assets/readme/external/u-7387923-614f3c70.png" width="40" alt="PlantUML"></a>
-  <a href="https://www.diagrams.net/" target="_blank"><img src="./assets/readme/external/diagramsdotnet-F08705-9e8c79b5.svg" width="40" alt="draw.io"></a>
-</p>
+Core tools are listed under Tech Stack → Tools; diagramming tools are listed under UML & Design Tools.
 
 <details>
 <summary><strong>🧰 More Tools, Testing, GUI & Operating Systems</strong></summary>
@@ -542,7 +535,6 @@ These are manually maintained and reflect the languages I list in my skills; the
 
 <p align="left">
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-visualstudio-visualstudio-plain-3e686761.svg" width="40" alt="Visual Studio"></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-vscode-vscode-original-9ecd94bd.svg" width="40" alt="VS Code"></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-pycharm-pycharm-original-b2fe29b4.svg" width="40" alt="PyCharm"></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-intellij-intellij-original-de22522d.svg" width="40" alt="IntelliJ IDEA"></a>
   <a href="https://netbeans.apache.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-netbeans-netbeans-original-91a58fd8.svg" width="40" alt="NetBeans"></a>
@@ -561,7 +553,6 @@ These are manually maintained and reflect the languages I list in my skills; the
 ### 🧪 Testing Tools & Frameworks
 
 <p align="left">
-  <a href="https://www.postman.com/" target="_blank"><img src="./assets/readme/external/logos-getpostman-getpostman-icon-3133174d.svg" width="40" alt="Postman"></a>
   <a href="https://junit.org/junit5/" target="_blank"><img src="./assets/readme/external/junit5-25A162-9f8e765f.svg" width="40" alt="JUnit"></a>
   <a href="https://site.mockito.org/" target="_blank"><img src="./assets/readme/external/u-2656033-a21d53c3.png" width="40" alt="Mockito"></a>
   <a href="https://pytest.org/" target="_blank"><img src="./assets/readme/external/pytest-0A9EDC-7200b94a.svg" width="40" alt="Pytest"></a>
@@ -596,8 +587,6 @@ These are manually maintained and reflect the languages I list in my skills; the
 ## ⚙️ Development Environment
 
 - OS: Windows, Ubuntu, Kali Linux
-- IDEs: Visual Studio, VS Code, PyCharm, IntelliJ IDEA
-- Tools: Git, Docker, VMware, Postman, PlantUML, draw.io
 - Databases: SQL Server, PostgreSQL, MySQL, SQLite
 
 ---
@@ -609,7 +598,6 @@ These are manually maintained and reflect the languages I list in my skills; the
 <p align="left">
   <a href="https://azure.microsoft.com/" target="_blank"><img src="./assets/badges/Azure-Cloud-blue-6c5591aa.svg" alt="Azure Cloud"></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="./assets/badges/AWS-Cloud-orange-13f301f0.svg" alt="AWS Cloud"></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="./assets/badges/Docker-Containers-blue-7de33744.svg" alt="Docker"></a>
   <a href="https://www.linux.org/" target="_blank"><img src="./assets/badges/Linux-System-Administration-black-fefe6d86.svg" alt="Linux"></a>
 </p>
 
@@ -814,6 +802,7 @@ Repository language cards below describe public repository composition and commi
   <a href="mailto:anasemadanas1@gmail.com"><img src="./assets/badges/Gmail-D14836.svg" alt="Gmail"></a>
   <a href="https://linkedin.com/in/eng-anasemad"><img src="./assets/badges/LinkedIn-0A66C2.svg" alt="LinkedIn"></a>
   <a href="https://github.com/anasemadanas"><img src="./assets/badges/GitHub-181717.svg" alt="GitHub"></a>
+  <a href="https://gitlab.com/anasemad"><img src="./assets/readme/contact/gitlab.svg" alt="GitLab"></a>
   <a href="https://anasemadanas.github.io/anas/index.html"><img src="./assets/badges/Portfolio-121013.svg" alt="Website"></a>
 </p>
 

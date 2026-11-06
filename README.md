@@ -331,7 +331,7 @@ These are manually maintained and reflect the languages I list in my skills; the
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-mongodb-mongodb-original-303837ee.svg" width="40" height="40" alt="MongoDB"></a>&nbsp;&nbsp;
   <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/gemini.svg" width="40" height="40" alt="Gemini API"></a>&nbsp;&nbsp;
   <a href="https://cloud.google.com/use-cases/retrieval-augmented-generation" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/rag.svg" width="40" height="40" alt="RAG"></a>&nbsp;&nbsp;
-  <br>
+  <br><br>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/Azure-Cloud-blue-6c5591aa.svg" height="40" alt="Azure Cloud"></a>&nbsp;&nbsp;
   <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/AWS-Cloud-orange-13f301f0.svg" height="40" alt="AWS Cloud"></a>&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/Linux-System-Administration-black-fefe6d86.svg" height="40" alt="Linux System Administration"></a>

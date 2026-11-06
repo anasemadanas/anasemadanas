@@ -603,7 +603,7 @@ Repository language cards below describe public repository composition and commi
 
 ## 📬 Contact <a href="#contact"><img src="./assets/readme/phone.gif" width="30px" alt="phone"></a>
 
-<p align="left">
+<p align="center">
   <a href="mailto:anasemadanas1@gmail.com"><img src="./assets/badges/Gmail-D14836.svg" alt="Gmail"></a>
   <a href="https://linkedin.com/in/eng-anasemad"><img src="./assets/badges/LinkedIn-0A66C2.svg" alt="LinkedIn"></a>
   <a href="https://github.com/anasemadanas"><img src="./assets/badges/GitHub-181717.svg" alt="GitHub"></a>
@@ -615,7 +615,7 @@ Repository language cards below describe public repository composition and commi
 <details>
 <summary><strong>🌐 More Links</strong></summary>
 
-<p align="left">
+<p align="center">
   <a href="https://anasemadanas.wordpress.com/"><img src="./assets/badges/WordPress-21759B.svg" alt="WordPress"></a>
   <a href="https://anasemadanas.blogspot.com/"><img src="./assets/badges/Blogger-FF5722.svg" alt="Blogger"></a>
   <a href="https://anasemadanas1.wixsite.com/anas1"><img src="./assets/badges/Wix-000000.svg" alt="Wix"></a>

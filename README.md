@@ -278,208 +278,44 @@ class AboutMe extends Me {
 
 ### Mobile & Front-End
 
-<table>
-<tbody>
-  <tr>
-    <td align="center">
-      <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/tech-stack/flutter.svg" width="40" height="40" alt="Flutter">
-        <br>
-        <sub>Flutter</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://dart.dev" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/tech-stack/dart.svg" width="40" height="40" alt="Dart">
-        <br>
-        <sub>Dart</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://react.dev" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/external/devicons-devicon-master-icons-react-react-original-f3412fc9.svg" width="40" height="40" alt="React">
-        <br>
-        <sub>React</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/external/devicons-devicon-master-icons-html5-html5-original-47188965.svg" width="40" height="40" alt="HTML5">
-        <br>
-        <sub>HTML5</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/external/devicons-devicon-master-icons-css3-css3-original-59019dde.svg" width="40" height="40" alt="CSS3">
-        <br>
-        <sub>CSS3</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/external/devicons-devicon-master-icons-javascript-javascript-original-e155cd6c.svg" width="40" height="40" alt="JavaScript">
-        <br>
-        <sub>JavaScript</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/tech-stack/bootstrap.svg" width="40" height="40" alt="Bootstrap">
-        <br>
-        <sub>Bootstrap</sub>
-      </a>
-    </td>
-  </tr>
-</tbody>
-</table>
+<p align="left">
+  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/flutter.svg" width="40" height="40" alt="Flutter"><br><sub>Flutter</sub></a>&nbsp;&nbsp;
+  <a href="https://dart.dev" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/dart.svg" width="40" height="40" alt="Dart"><br><sub>Dart</sub></a>&nbsp;&nbsp;
+  <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-react-react-original-f3412fc9.svg" width="40" height="40" alt="React"><br><sub>React</sub></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-html5-html5-original-47188965.svg" width="40" height="40" alt="HTML5"><br><sub>HTML5</sub></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-css3-css3-original-59019dde.svg" width="40" height="40" alt="CSS3"><br><sub>CSS3</sub></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-javascript-javascript-original-e155cd6c.svg" width="40" height="40" alt="JavaScript"><br><sub>JavaScript</sub></a>&nbsp;&nbsp;
+  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/bootstrap.svg" width="40" height="40" alt="Bootstrap"><br><sub>Bootstrap</sub></a>&nbsp;&nbsp;
+</p>
 
 ### Backend & APIs
 
-<table>
-<tbody>
-  <tr>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/external/devicons-devicon-master-icons-python-python-original-5dca7381.svg" width="40" height="40" alt="Python">
-        <br>
-        <sub>Python</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://fastapi.tiangolo.com" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/tech-stack/fastapi.svg" width="40" height="40" alt="FastAPI">
-        <br>
-        <sub>FastAPI</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.php.net" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/tech-stack/php.svg" width="40" height="40" alt="PHP">
-        <br>
-        <sub>PHP</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://laravel.com" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/tech-stack/laravel.svg" width="40" height="40" alt="Laravel">
-        <br>
-        <sub>Laravel</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.rfc-editor.org/rfc/rfc9110" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/tech-stack/rest-api.svg" width="40" height="40" alt="REST API">
-        <br>
-        <sub>REST API</sub>
-      </a>
-    </td>
-  </tr>
-</tbody>
-</table>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-python-python-original-5dca7381.svg" width="40" height="40" alt="Python"><br><sub>Python</sub></a>&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/fastapi.svg" width="40" height="40" alt="FastAPI"><br><sub>FastAPI</sub></a>&nbsp;&nbsp;
+  <a href="https://www.php.net" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/php.svg" width="40" height="40" alt="PHP"><br><sub>PHP</sub></a>&nbsp;&nbsp;
+  <a href="https://laravel.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/laravel.svg" width="40" height="40" alt="Laravel"><br><sub>Laravel</sub></a>&nbsp;&nbsp;
+  <a href="https://www.rfc-editor.org/rfc/rfc9110" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/rest-api.svg" width="40" height="40" alt="REST API"><br><sub>REST API</sub></a>&nbsp;&nbsp;
+</p>
 
 ### Data, Cloud & AI
 
-<table>
-<tbody>
-  <tr>
-    <td align="center">
-      <a href="https://firebase.google.com" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/tech-stack/firebase.svg" width="40" height="40" alt="Firebase">
-        <br>
-        <sub>Firebase</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/external/devicons-devicon-master-icons-mysql-mysql-original-f068bf4a.svg" width="40" height="40" alt="MySQL">
-        <br>
-        <sub>MySQL</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/external/devicons-devicon-master-icons-microsoftsqlserver-microsoftsqlserver-original-e6b7e84e.svg" width="40" height="40" alt="Microsoft SQL Server">
-        <br>
-        <sub>Microsoft SQL Server</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/tech-stack/gemini.svg" width="40" height="40" alt="Gemini API">
-        <br>
-        <sub>Gemini API</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://cloud.google.com/use-cases/retrieval-augmented-generation" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/tech-stack/rag.svg" width="40" height="40" alt="RAG">
-        <br>
-        <sub>RAG</sub>
-      </a>
-    </td>
-  </tr>
-</tbody>
-</table>
+<p align="left">
+  <a href="https://firebase.google.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/firebase.svg" width="40" height="40" alt="Firebase"><br><sub>Firebase</sub></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-mysql-mysql-original-f068bf4a.svg" width="40" height="40" alt="MySQL"><br><sub>MySQL</sub></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-microsoftsqlserver-microsoftsqlserver-original-e6b7e84e.svg" width="40" height="40" alt="Microsoft SQL Server"><br><sub>Microsoft SQL Server</sub></a>&nbsp;&nbsp;
+  <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/gemini.svg" width="40" height="40" alt="Gemini API"><br><sub>Gemini API</sub></a>&nbsp;&nbsp;
+  <a href="https://cloud.google.com/use-cases/retrieval-augmented-generation" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/rag.svg" width="40" height="40" alt="RAG"><br><sub>RAG</sub></a>&nbsp;&nbsp;
+</p>
 
 ### Tools
 
-<table>
-<tbody>
-  <tr>
-    <td align="center">
-      <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/external/devicons-devicon-master-icons-git-git-original-d0822bc5.svg" width="40" height="40" alt="Git">
-        <br>
-        <sub>Git</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/tech-stack/github.svg" width="40" height="40" alt="GitHub">
-        <br>
-        <sub>GitHub</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/external/devicons-devicon-master-icons-vscode-vscode-original-9ecd94bd.svg" width="40" height="40" alt="Visual Studio Code">
-        <br>
-        <sub>Visual Studio Code</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/tech-stack/android-studio.svg" width="40" height="40" alt="Android Studio">
-        <br>
-        <sub>Android Studio</sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/external/logos-getpostman-getpostman-icon-3133174d.svg" width="40" height="40" alt="Postman">
-        <br>
-        <sub>Postman</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/readme/external/devicons-devicon-master-icons-docker-docker-original-c33d3f9a.svg" width="40" height="40" alt="Docker">
-        <br>
-        <sub>Docker</sub>
-      </a>
-    </td>
-  </tr>
-</tbody>
-</table>
+<p align="left">
+  <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-git-git-original-d0822bc5.svg" width="40" height="40" alt="Git"><br><sub>Git</sub></a>&nbsp;&nbsp;
+  <a href="https://github.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/github.svg" width="40" height="40" alt="GitHub"><br><sub>GitHub</sub></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/logos-getpostman-getpostman-icon-3133174d.svg" width="40" height="40" alt="Postman"><br><sub>Postman</sub></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-docker-docker-original-c33d3f9a.svg" width="40" height="40" alt="Docker"><br><sub>Docker</sub></a>&nbsp;&nbsp;
+</p>
 
 ---
 
@@ -526,7 +362,10 @@ These are manually maintained and reflect the languages I list in my skills; the
 
 ### 🔧 Development Tools
 
-Core tools are listed under Tech Stack → Tools; diagramming tools are listed under UML & Design Tools.
+<p align="left">
+  <a href="https://www.vmware.com/" target="_blank"><img src="./assets/readme/external/vmware-607078-179db399.svg" width="40" alt="VMware"></a>
+  <a href="https://www.vmware.com/products/vsphere.html" target="_blank"><img src="./assets/readme/external/vmware-0078D4-b2cb941c.svg" width="40" alt="vSphere"></a>
+</p>
 
 <details>
 <summary><strong>🧰 More Tools, Testing, GUI & Operating Systems</strong></summary>
@@ -535,6 +374,8 @@ Core tools are listed under Tech Stack → Tools; diagramming tools are listed u
 
 <p align="left">
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-visualstudio-visualstudio-plain-3e686761.svg" width="40" alt="Visual Studio"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-vscode-vscode-original-9ecd94bd.svg" width="40" alt="Visual Studio Code"></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="./assets/readme/tech-stack/android-studio.svg" width="40" alt="Android Studio"></a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-pycharm-pycharm-original-b2fe29b4.svg" width="40" alt="PyCharm"></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-intellij-intellij-original-de22522d.svg" width="40" alt="IntelliJ IDEA"></a>
   <a href="https://netbeans.apache.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-netbeans-netbeans-original-91a58fd8.svg" width="40" alt="NetBeans"></a>
@@ -574,8 +415,6 @@ Core tools are listed under Tech Stack → Tools; diagramming tools are listed u
   <a href="https://www.kali.org/" target="_blank"><img src="./assets/readme/external/kalilinux-a60853a6.svg" width="40" alt="Kali Linux"></a>
   <a href="https://ubuntu.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-linux-linux-original-15a14c53.svg" width="40" alt="Linux"></a>
   <a href="https://fedoraproject.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-fedora-fedora-original-3a511053.svg" width="40" alt="Fedora"></a>
-  <a href="https://www.vmware.com/" target="_blank"><img src="./assets/readme/external/vmware-607078-179db399.svg" width="40" alt="VMware"></a>
-  <a href="https://www.vmware.com/products/vsphere.html" target="_blank"><img src="./assets/readme/external/vmware-0078D4-b2cb941c.svg" width="40" alt="vSphere"></a>
 </p>
 
 </details>

@@ -276,59 +276,159 @@ class AboutMe extends Me {
 
 ## 🛠️ Tech Stack
 
-The categories below group technologies and tools; they do not indicate proficiency.
-
 ### Mobile & Front-End
 
 <p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/flutter.svg" width="36" height="36" alt="Flutter icon"><br><sub>Flutter</sub></a>
-  <a href="https://dart.dev" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/dart.svg" width="36" height="36" alt="Dart icon"><br><sub>Dart</sub></a>
-  <a href="https://react.dev" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/react.svg" width="36" height="36" alt="React icon"><br><sub>React</sub></a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/html5.svg" width="36" height="36" alt="HTML5 icon"><br><sub>HTML5</sub></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/css3.svg" width="36" height="36" alt="CSS3 icon"><br><sub>CSS3</sub></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/javascript.svg" width="36" height="36" alt="JavaScript icon"><br><sub>JavaScript</sub></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/bootstrap.svg" width="36" height="36" alt="Bootstrap icon"><br><sub>Bootstrap</sub></a>
+  <a href="https://flutter.dev" target="_blank"><img src="./assets/readme/tech-stack/flutter.svg" width="36" height="36" alt="Flutter icon"><br><sub>Flutter</sub></a>&nbsp;&nbsp;
+  <a href="https://dart.dev" target="_blank"><img src="./assets/readme/tech-stack/dart.svg" width="36" height="36" alt="Dart icon"><br><sub>Dart</sub></a>&nbsp;&nbsp;
+  <a href="https://react.dev" target="_blank"><img src="./assets/readme/tech-stack/react.svg" width="36" height="36" alt="React icon"><br><sub>React</sub></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./assets/readme/tech-stack/html5.svg" width="36" height="36" alt="HTML5 icon"><br><sub>HTML5</sub></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./assets/readme/tech-stack/css3.svg" width="36" height="36" alt="CSS3 icon"><br><sub>CSS3</sub></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./assets/readme/tech-stack/javascript.svg" width="36" height="36" alt="JavaScript icon"><br><sub>JavaScript</sub></a>&nbsp;&nbsp;
+  <a href="https://getbootstrap.com" target="_blank"><img src="./assets/readme/tech-stack/bootstrap.svg" width="36" height="36" alt="Bootstrap icon"><br><sub>Bootstrap</sub></a>&nbsp;&nbsp;
 </p>
 
 ### Backend & APIs
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/python.svg" width="36" height="36" alt="Python icon"><br><sub>Python</sub></a>
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/fastapi.svg" width="36" height="36" alt="FastAPI icon"><br><sub>FastAPI</sub></a>
-  <a href="https://www.php.net" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/php.svg" width="36" height="36" alt="PHP icon"><br><sub>PHP</sub></a>
-  <a href="https://laravel.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/laravel.svg" width="36" height="36" alt="Laravel icon"><br><sub>Laravel</sub></a>
-  <a href="https://www.rfc-editor.org/rfc/rfc9110" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/rest-api.svg" width="36" height="36" alt="REST APIs icon"><br><sub>REST APIs</sub></a>
+  <a href="https://www.python.org" target="_blank"><img src="./assets/readme/tech-stack/python.svg" width="36" height="36" alt="Python icon"><br><sub>Python</sub></a>&nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="./assets/readme/tech-stack/fastapi.svg" width="36" height="36" alt="FastAPI icon"><br><sub>FastAPI</sub></a>&nbsp;&nbsp;
+  <a href="https://www.php.net" target="_blank"><img src="./assets/readme/tech-stack/php.svg" width="36" height="36" alt="PHP icon"><br><sub>PHP</sub></a>&nbsp;&nbsp;
+  <a href="https://laravel.com" target="_blank"><img src="./assets/readme/tech-stack/laravel.svg" width="36" height="36" alt="Laravel icon"><br><sub>Laravel</sub></a>&nbsp;&nbsp;
+  <a href="https://www.rfc-editor.org/rfc/rfc9110" target="_blank"><img src="./assets/readme/tech-stack/rest-api.svg" width="36" height="36" alt="REST APIs icon"><br><sub>REST APIs</sub></a>&nbsp;&nbsp;
 </p>
 
 ### Data, Cloud & AI
 
 <p align="left">
-  <a href="https://firebase.google.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/firebase.svg" width="36" height="36" alt="Firebase icon"><br><sub>Firebase</sub></a>
-  <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/mysql.svg" width="36" height="36" alt="MySQL icon"><br><sub>MySQL</sub></a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/sql-server.svg" width="36" height="36" alt="SQL Server icon"><br><sub>SQL Server</sub></a>
-  <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/gemini.svg" width="36" height="36" alt="Gemini API icon"><br><sub>Gemini API</sub></a>
-  <a href="https://cloud.google.com/use-cases/retrieval-augmented-generation" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/rag.svg" width="36" height="36" alt="RAG icon"><br><sub>RAG</sub></a>
+  <a href="https://firebase.google.com" target="_blank"><img src="./assets/readme/tech-stack/firebase.svg" width="36" height="36" alt="Firebase icon"><br><sub>Firebase</sub></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com" target="_blank"><img src="./assets/readme/tech-stack/mysql.svg" width="36" height="36" alt="MySQL icon"><br><sub>MySQL</sub></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="./assets/readme/tech-stack/sql-server.svg" width="36" height="36" alt="SQL Server icon"><br><sub>SQL Server</sub></a>&nbsp;&nbsp;
+  <a href="https://ai.google.dev/gemini-api/docs" target="_blank"><img src="./assets/readme/tech-stack/gemini.svg" width="36" height="36" alt="Gemini API icon"><br><sub>Gemini API</sub></a>&nbsp;&nbsp;
+  <a href="https://cloud.google.com/use-cases/retrieval-augmented-generation" target="_blank"><img src="./assets/readme/tech-stack/rag.svg" width="36" height="36" alt="RAG icon"><br><sub>RAG</sub></a>&nbsp;&nbsp;
 </p>
 
 ### Tools
 
 <p align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/git.svg" width="36" height="36" alt="Git icon"><br><sub>Git</sub></a>
-  <a href="https://github.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/github.svg" width="36" height="36" alt="GitHub icon"><br><sub>GitHub</sub></a>
-  <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/vscode.svg" width="36" height="36" alt="VS Code icon"><br><sub>VS Code</sub></a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/android-studio.svg" width="36" height="36" alt="Android Studio icon"><br><sub>Android Studio</sub></a>
-  <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/postman.svg" width="36" height="36" alt="Postman icon"><br><sub>Postman</sub></a>
-  <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer" style="display:inline-block;text-align:center;margin:8px 12px 8px 0;vertical-align:top"><img src="./assets/readme/tech-stack/docker.svg" width="36" height="36" alt="Docker icon"><br><sub>Docker</sub></a>
+  <a href="https://git-scm.com" target="_blank"><img src="./assets/readme/tech-stack/git.svg" width="36" height="36" alt="Git icon"><br><sub>Git</sub></a>&nbsp;&nbsp;
+  <a href="https://github.com" target="_blank"><img src="./assets/readme/tech-stack/github.svg" width="36" height="36" alt="GitHub icon"><br><sub>GitHub</sub></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com" target="_blank"><img src="./assets/readme/tech-stack/vscode.svg" width="36" height="36" alt="VS Code icon"><br><sub>VS Code</sub></a>&nbsp;&nbsp;
+  <a href="https://developer.android.com/studio" target="_blank"><img src="./assets/readme/tech-stack/android-studio.svg" width="36" height="36" alt="Android Studio icon"><br><sub>Android Studio</sub></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com" target="_blank"><img src="./assets/readme/tech-stack/postman.svg" width="36" height="36" alt="Postman icon"><br><sub>Postman</sub></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com" target="_blank"><img src="./assets/readme/tech-stack/docker.svg" width="36" height="36" alt="Docker icon"><br><sub>Docker</sub></a>&nbsp;&nbsp;
+</p>
+
+---
+
+### 💻 Programming Languages
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="./assets/readme/languages/c.svg" width="40" alt="C"></a>&nbsp;&nbsp;
+  <a href="https://en.cppreference.com/w/" target="_blank"><img src="./assets/readme/languages/cpp.svg" width="40" alt="C++"></a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="./assets/readme/languages/csharp.svg" width="40" alt="C#"></a>&nbsp;&nbsp;
+  <a href="https://www.java.com/" target="_blank"><img src="./assets/readme/languages/java.svg" width="40" alt="Java"></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="./assets/readme/languages/python.svg" width="40" alt="Python"></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="./assets/readme/languages/javascript.svg" width="40" alt="JavaScript"></a>
+</p>
+
+These are manually maintained and reflect the languages I list in my skills; they are not generated from repository language statistics.
+
+### 🚀 Backend & Frameworks
+
+<p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-dot-net-dot-net-original-a2924d6c.svg" width="40" alt=".NET"></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-django-django-plain-a10c8f52.svg" width="40" alt="Django"></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-spring-spring-original-1d478850.svg" width="40" alt="Spring Boot"></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-nodejs-nodejs-original-6af468e3.svg" width="40" alt="Node.js"></a>
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-html5-html5-original-47188965.svg" width="40" alt="HTML"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-css3-css3-original-59019dde.svg" width="40" alt="CSS"></a>
+  <a href="https://react.dev/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-react-react-original-f3412fc9.svg" width="40" alt="React"></a>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-microsoftsqlserver-microsoftsqlserver-original-e6b7e84e.svg" width="40" alt="SQL Server"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-postgresql-postgresql-original-85c81dbb.svg" width="40" alt="PostgreSQL"></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-mysql-mysql-original-f068bf4a.svg" width="40" alt="MySQL"></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-sqlite-sqlite-original-0f022bb2.svg" width="40" alt="SQLite"></a>
+  <a href="https://www.oracle.com/database/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-oracle-oracle-original-891f7c30.svg" width="40" alt="Oracle"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-mongodb-mongodb-original-303837ee.svg" width="40" alt="MongoDB"></a>
+</p>
+
+### 🔧 Development Tools
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-git-git-original-d0822bc5.svg" width="40" alt="Git"></a>
+  <a href="https://github.com/" target="_blank"><img src="./assets/readme/external/github-FFFFFF-c8c82016.svg" width="40" alt="GitHub"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-docker-docker-original-c33d3f9a.svg" width="40" alt="Docker"></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="./assets/readme/external/logos-getpostman-getpostman-icon-3133174d.svg" width="40" alt="Postman"></a>
+  <a href="https://plantuml.com/" target="_blank"><img src="./assets/readme/external/u-7387923-614f3c70.png" width="40" alt="PlantUML"></a>
+  <a href="https://www.diagrams.net/" target="_blank"><img src="./assets/readme/external/diagramsdotnet-F08705-9e8c79b5.svg" width="40" alt="draw.io"></a>
 </p>
 
 <details>
-<summary><strong>Additional technologies already listed</strong></summary>
+<summary><strong>🧰 More Tools, Testing, GUI & Operating Systems</strong></summary>
 
-These technologies were already included in the previous Skills section: .NET, Django, Spring Boot, Node.js, PostgreSQL, SQLite, Oracle, MongoDB, PlantUML, draw.io, Visual Studio, PyCharm, IntelliJ IDEA, NetBeans, Cursor, and Google Gravity.
+### 🛠️ IDEs & Editors
+
+<p align="left">
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-visualstudio-visualstudio-plain-3e686761.svg" width="40" alt="Visual Studio"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-vscode-vscode-original-9ecd94bd.svg" width="40" alt="VS Code"></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-pycharm-pycharm-original-b2fe29b4.svg" width="40" alt="PyCharm"></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-intellij-intellij-original-de22522d.svg" width="40" alt="IntelliJ IDEA"></a>
+  <a href="https://netbeans.apache.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-netbeans-netbeans-original-91a58fd8.svg" width="40" alt="NetBeans"></a>
+  <a href="https://github.com/getcursor/cursor" target="_blank"><img src="./assets/readme/external/assets-images-logo-11be51c8.svg" width="40" alt="Cursor"></a>
+  <a href="https://mrdoob.com/projects/chromeexperiments/google-gravity/" target="_blank"><img src="./assets/badges/Google-Gravity-Play-Now-black-a6980063.svg" alt="Google Gravity"></a>
+</p>
+
+### 📐 UML & Design Tools
+
+<p align="left">
+  <a href="https://plantuml.com/" target="_blank"><img src="./assets/readme/external/u-7387923-614f3c70.png" width="40" alt="PlantUML"></a>
+  <a href="https://www.diagrams.net/" target="_blank"><img src="./assets/readme/external/diagramsdotnet-F08705-9e8c79b5.svg" width="40" alt="draw.io"></a>
+  <a href="https://www.microsoft.com/microsoft-365/visio/" target="_blank"><img src="./assets/readme/external/u-6154722-3896b2e1.png" width="40" alt="Visio"></a>
+</p>
+
+### 🧪 Testing Tools & Frameworks
+
+<p align="left">
+  <a href="https://www.postman.com/" target="_blank"><img src="./assets/readme/external/logos-getpostman-getpostman-icon-3133174d.svg" width="40" alt="Postman"></a>
+  <a href="https://junit.org/junit5/" target="_blank"><img src="./assets/readme/external/junit5-25A162-9f8e765f.svg" width="40" alt="JUnit"></a>
+  <a href="https://site.mockito.org/" target="_blank"><img src="./assets/readme/external/u-2656033-a21d53c3.png" width="40" alt="Mockito"></a>
+  <a href="https://pytest.org/" target="_blank"><img src="./assets/readme/external/pytest-0A9EDC-7200b94a.svg" width="40" alt="Pytest"></a>
+</p>
+
+### 🖥️ GUI Development
+
+<p align="left">
+  <a href="https://www.qt.io/" target="_blank"><img src="./assets/readme/external/qt-41CD52-32ef5527.svg" width="40" alt="Qt"></a>
+  <a href="https://openjfx.io/" target="_blank"><img src="./assets/readme/external/openjdk-ED8B00-bafcf158.svg" width="40" alt="JavaFX"></a>
+  <a href="https://docs.oracle.com/javase/tutorial/uiswing/" target="_blank"><img src="./assets/readme/external/openjdk-FFFFFF-c5a38d0b.svg" width="40" alt="Java Swing"></a>
+</p>
+
+### 🖥️ Operating Systems
+
+<p align="left">
+  <a href="https://www.microsoft.com/windows/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-windows8-windows8-original-c9a40368.svg" width="40" alt="Windows"></a>
+  <a href="https://www.apple.com/macos/" target="_blank"><img src="./assets/readme/external/apple-FFFFFF-18bc3f45.svg" width="40" alt="macOS"></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="./assets/readme/external/kalilinux-a60853a6.svg" width="40" alt="Kali Linux"></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-linux-linux-original-15a14c53.svg" width="40" alt="Linux"></a>
+  <a href="https://fedoraproject.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-fedora-fedora-original-3a511053.svg" width="40" alt="Fedora"></a>
+  <a href="https://www.vmware.com/" target="_blank"><img src="./assets/readme/external/vmware-607078-179db399.svg" width="40" alt="VMware"></a>
+  <a href="https://www.vmware.com/products/vsphere.html" target="_blank"><img src="./assets/readme/external/vmware-0078D4-b2cb941c.svg" width="40" alt="vSphere"></a>
+</p>
 
 </details>
 
 ---
+
 <a id="development-environment"></a>
 
 ## ⚙️ Development Environment

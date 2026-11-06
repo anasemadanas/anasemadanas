@@ -29,7 +29,7 @@
 </p>
 
 <div align="center">
-    <a href="#anas-emad---software-developer"">
+  <a href="#anas-emad---software-developer">
     <img src="./assets/generated/typing1.svg" alt="Typing intro">
   </a>
 </div>
@@ -278,13 +278,15 @@ class AboutMe extends Me {
 ### 💻 Programming Languages
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-c-c-original-a2da2aed.svg" width="40" alt="C"></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-cplusplus-cplusplus-original-c68babad.svg" width="40" alt="C++"></a>
-  <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-csharp-csharp-original-a36b6998.svg" width="40" alt="C#"></a>
-  <a href="https://www.java.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-java-java-original-681bf1cd.svg" width="40" alt="Java"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-python-python-original-5dca7381.svg" width="40" alt="Python"></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-javascript-javascript-original-e155cd6c.svg" width="40" alt="JavaScript"></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="./assets/readme/languages/c.svg" width="40" alt="C"></a>&nbsp;&nbsp;
+  <a href="https://en.cppreference.com/w/" target="_blank"><img src="./assets/readme/languages/cpp.svg" width="40" alt="C++"></a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="./assets/readme/languages/csharp.svg" width="40" alt="C#"></a>&nbsp;&nbsp;
+  <a href="https://www.java.com/" target="_blank"><img src="./assets/readme/languages/java.svg" width="40" alt="Java"></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="./assets/readme/languages/python.svg" width="40" alt="Python"></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="./assets/readme/languages/javascript.svg" width="40" alt="JavaScript"></a>
 </p>
+
+These are manually maintained and reflect the languages I list in my skills; they are not generated from repository language statistics.
 
 ### 🚀 Backend & Frameworks
 
@@ -520,35 +522,21 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anasemadanas?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anasemadanas&layout=compact&theme=dark&hide_border=true" alt="Top languages">
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark" width="100%" alt="GitHub profile overview">
 </div>
 
-<br>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anasemadanas&theme=github_dark" width="100%" alt="GitHub statistics">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=anasemadanas&theme=dark" width="100%" alt="GitHub contribution streak">
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <a href="https://github.com/anasemadanas#github-stats" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=anasemadanas&theme=dark" width="500" alt="GitHub streak">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="#github-stats">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark" alt="GitHub profile summary">
-  </a>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="#github-stats">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasemadanas&theme=react-dark" alt="GitHub activity graph">
-</p>
-
-> ⚠️ Top languages reflects public repository language usage, not overall experience or skill level.
+> **Activity graph:** The upstream `github-readme-activity-graph.vercel.app` deployment currently responds with HTTP 402, so its image is omitted to avoid a broken card. A reliable public alternative could not be verified; restoring this graph would require a working upstream service or a separately configured deployment.
 
 <details>
 <summary><strong>🏆 Extra GitHub Widgets</strong></summary>
@@ -558,6 +546,7 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 <div align="center">
   <a href="#github-stats">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=anasemadanas&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" alt="GitHub trophies">
+  </a>
 </div>
 
 ### 🔥 Contribution Calendar
@@ -565,6 +554,7 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 <p align="center">
   <a href="#github-stats">
   <img src="https://ghchart.rshah.org/anasemadanas" alt="Contribution calendar">
+  </a>
 </p>
 
 </details>

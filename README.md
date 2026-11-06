@@ -284,19 +284,36 @@ class AboutMe extends Me {
   <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-react-react-original-f3412fc9.svg" width="40" height="40" alt="React"><br><sub>React</sub></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-html5-html5-original-47188965.svg" width="40" height="40" alt="HTML5"><br><sub>HTML5</sub></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-css3-css3-original-59019dde.svg" width="40" height="40" alt="CSS3"><br><sub>CSS3</sub></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-javascript-javascript-original-e155cd6c.svg" width="40" height="40" alt="JavaScript"><br><sub>JavaScript</sub></a>&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/bootstrap.svg" width="40" height="40" alt="Bootstrap"><br><sub>Bootstrap</sub></a>&nbsp;&nbsp;
 </p>
 
-### Backend & APIs
+### Programming Languages
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-python-python-original-5dca7381.svg" width="40" height="40" alt="Python"><br><sub>Python</sub></a>&nbsp;&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/languages/c.svg" width="40" alt="C"><br><sub>C</sub></a>&nbsp;&nbsp;
+  <a href="https://en.cppreference.com/w/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/languages/cpp.svg" width="40" alt="C++"><br><sub>C++</sub></a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/languages/csharp.svg" width="40" alt="C#"><br><sub>C#</sub></a>&nbsp;&nbsp;
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/languages/java.svg" width="40" alt="Java"><br><sub>Java</sub></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/languages/python.svg" width="40" alt="Python"><br><sub>Python</sub></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/languages/javascript.svg" width="40" alt="JavaScript"><br><sub>JavaScript</sub></a>&nbsp;&nbsp;
+</p>
+
+These are manually maintained and reflect the languages I list in my skills; they are not generated from repository language statistics.
+
+### Backend & Frameworks
+
+<p align="left">
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/fastapi.svg" width="40" height="40" alt="FastAPI"><br><sub>FastAPI</sub></a>&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/php.svg" width="40" height="40" alt="PHP"><br><sub>PHP</sub></a>&nbsp;&nbsp;
   <a href="https://laravel.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/laravel.svg" width="40" height="40" alt="Laravel"><br><sub>Laravel</sub></a>&nbsp;&nbsp;
   <a href="https://www.rfc-editor.org/rfc/rfc9110" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/rest-api.svg" width="40" height="40" alt="REST API"><br><sub>REST API</sub></a>&nbsp;&nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-dot-net-dot-net-original-a2924d6c.svg" width="40" alt=".NET"><br><sub>.NET</sub></a>&nbsp;&nbsp;
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-django-django-plain-a10c8f52.svg" width="40" alt="Django"><br><sub>Django</sub></a>&nbsp;&nbsp;
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-spring-spring-original-1d478850.svg" width="40" alt="Spring Boot"><br><sub>Spring Boot</sub></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-nodejs-nodejs-original-6af468e3.svg" width="40" alt="Node.js"><br><sub>Node.js</sub></a>&nbsp;&nbsp;
 </p>
+
+<a id="cloud--devops"></a>
 
 ### Data, Cloud & AI
 
@@ -304,141 +321,78 @@ class AboutMe extends Me {
   <a href="https://firebase.google.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/firebase.svg" width="40" height="40" alt="Firebase"><br><sub>Firebase</sub></a>&nbsp;&nbsp;
   <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-mysql-mysql-original-f068bf4a.svg" width="40" height="40" alt="MySQL"><br><sub>MySQL</sub></a>&nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-microsoftsqlserver-microsoftsqlserver-original-e6b7e84e.svg" width="40" height="40" alt="Microsoft SQL Server"><br><sub>Microsoft SQL Server</sub></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-postgresql-postgresql-original-85c81dbb.svg" width="40" alt="PostgreSQL"><br><sub>PostgreSQL</sub></a>&nbsp;&nbsp;
+  <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-sqlite-sqlite-original-0f022bb2.svg" width="40" alt="SQLite"><br><sub>SQLite</sub></a>&nbsp;&nbsp;
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-oracle-oracle-original-891f7c30.svg" width="40" alt="Oracle"><br><sub>Oracle</sub></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-mongodb-mongodb-original-303837ee.svg" width="40" alt="MongoDB"><br><sub>MongoDB</sub></a>&nbsp;&nbsp;
   <a href="https://ai.google.dev/gemini-api/docs" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/gemini.svg" width="40" height="40" alt="Gemini API"><br><sub>Gemini API</sub></a>&nbsp;&nbsp;
   <a href="https://cloud.google.com/use-cases/retrieval-augmented-generation" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/rag.svg" width="40" height="40" alt="RAG"><br><sub>RAG</sub></a>&nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/Azure-Cloud-blue-6c5591aa.svg" alt="Azure Cloud"><br><sub>Azure Cloud</sub></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/AWS-Cloud-orange-13f301f0.svg" alt="AWS Cloud"><br><sub>AWS Cloud</sub></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/Linux-System-Administration-black-fefe6d86.svg" alt="Linux System Administration"><br><sub>Linux System Administration</sub></a>&nbsp;&nbsp;
 </p>
 
-### Tools
+<a id="development-environment"></a>
+
+### Tools & Development Environment
 
 <p align="left">
   <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-git-git-original-d0822bc5.svg" width="40" height="40" alt="Git"><br><sub>Git</sub></a>&nbsp;&nbsp;
   <a href="https://github.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/github.svg" width="40" height="40" alt="GitHub"><br><sub>GitHub</sub></a>&nbsp;&nbsp;
   <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/logos-getpostman-getpostman-icon-3133174d.svg" width="40" height="40" alt="Postman"><br><sub>Postman</sub></a>&nbsp;&nbsp;
   <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-docker-docker-original-c33d3f9a.svg" width="40" height="40" alt="Docker"><br><sub>Docker</sub></a>&nbsp;&nbsp;
+  <a href="https://www.vmware.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/vmware-607078-179db399.svg" width="40" alt="VMware"><br><sub>VMware</sub></a>&nbsp;&nbsp;
+  <a href="https://www.vmware.com/products/vsphere.html" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/vmware-0078D4-b2cb941c.svg" width="40" alt="vSphere"><br><sub>vSphere</sub></a>&nbsp;&nbsp;
 </p>
 
----
-
-### 💻 Programming Languages
+### IDEs & Editors
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="./assets/readme/languages/c.svg" width="40" alt="C"></a>&nbsp;&nbsp;
-  <a href="https://en.cppreference.com/w/" target="_blank"><img src="./assets/readme/languages/cpp.svg" width="40" alt="C++"></a>&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="./assets/readme/languages/csharp.svg" width="40" alt="C#"></a>&nbsp;&nbsp;
-  <a href="https://www.java.com/" target="_blank"><img src="./assets/readme/languages/java.svg" width="40" alt="Java"></a>&nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank"><img src="./assets/readme/languages/python.svg" width="40" alt="Python"></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="./assets/readme/languages/javascript.svg" width="40" alt="JavaScript"></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-visualstudio-visualstudio-plain-3e686761.svg" width="40" alt="Visual Studio"><br><sub>Visual Studio</sub></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-vscode-vscode-original-9ecd94bd.svg" width="40" alt="Visual Studio Code"><br><sub>Visual Studio Code</sub></a>&nbsp;&nbsp;
+  <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/tech-stack/android-studio.svg" width="40" alt="Android Studio"><br><sub>Android Studio</sub></a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-pycharm-pycharm-original-b2fe29b4.svg" width="40" alt="PyCharm"><br><sub>PyCharm</sub></a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-intellij-intellij-original-de22522d.svg" width="40" alt="IntelliJ IDEA"><br><sub>IntelliJ IDEA</sub></a>&nbsp;&nbsp;
+  <a href="https://netbeans.apache.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-netbeans-netbeans-original-91a58fd8.svg" width="40" alt="NetBeans"><br><sub>NetBeans</sub></a>&nbsp;&nbsp;
+  <a href="https://github.com/getcursor/cursor" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/assets-images-logo-11be51c8.svg" width="40" alt="Cursor"><br><sub>Cursor</sub></a>&nbsp;&nbsp;
+  <a href="https://mrdoob.com/projects/chromeexperiments/google-gravity/" target="_blank" rel="noopener noreferrer"><img src="./assets/badges/Google-Gravity-Play-Now-black-a6980063.svg" alt="Google Gravity"><br><sub>Google Gravity</sub></a>&nbsp;&nbsp;
 </p>
 
-These are manually maintained and reflect the languages I list in my skills; they are not generated from repository language statistics.
-
-### 🚀 Backend & Frameworks
+### UML & Design Tools
 
 <p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-dot-net-dot-net-original-a2924d6c.svg" width="40" alt=".NET"></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-django-django-plain-a10c8f52.svg" width="40" alt="Django"></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-spring-spring-original-1d478850.svg" width="40" alt="Spring Boot"></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-nodejs-nodejs-original-6af468e3.svg" width="40" alt="Node.js"></a>
+  <a href="https://plantuml.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/u-7387923-614f3c70.png" width="40" alt="PlantUML"><br><sub>PlantUML</sub></a>&nbsp;&nbsp;
+  <a href="https://www.diagrams.net/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/diagramsdotnet-F08705-9e8c79b5.svg" width="40" alt="draw.io"><br><sub>draw.io</sub></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/microsoft-365/visio/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/u-6154722-3896b2e1.png" width="40" alt="Visio"><br><sub>Visio</sub></a>&nbsp;&nbsp;
 </p>
 
-### 🌐 Frontend Development
+### Testing Tools & Frameworks
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-html5-html5-original-47188965.svg" width="40" alt="HTML"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-css3-css3-original-59019dde.svg" width="40" alt="CSS"></a>
-  <a href="https://react.dev/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-react-react-original-f3412fc9.svg" width="40" alt="React"></a>
+  <a href="https://junit.org/junit5/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/junit5-25A162-9f8e765f.svg" width="40" alt="JUnit"><br><sub>JUnit</sub></a>&nbsp;&nbsp;
+  <a href="https://site.mockito.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/u-2656033-a21d53c3.png" width="40" alt="Mockito"><br><sub>Mockito</sub></a>&nbsp;&nbsp;
+  <a href="https://pytest.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/pytest-0A9EDC-7200b94a.svg" width="40" alt="Pytest"><br><sub>Pytest</sub></a>&nbsp;&nbsp;
 </p>
 
-### 🗄️ Databases
+### GUI Development
 
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-microsoftsqlserver-microsoftsqlserver-original-e6b7e84e.svg" width="40" alt="SQL Server"></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-postgresql-postgresql-original-85c81dbb.svg" width="40" alt="PostgreSQL"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-mysql-mysql-original-f068bf4a.svg" width="40" alt="MySQL"></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-sqlite-sqlite-original-0f022bb2.svg" width="40" alt="SQLite"></a>
-  <a href="https://www.oracle.com/database/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-oracle-oracle-original-891f7c30.svg" width="40" alt="Oracle"></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-mongodb-mongodb-original-303837ee.svg" width="40" alt="MongoDB"></a>
+  <a href="https://www.qt.io/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/qt-41CD52-32ef5527.svg" width="40" alt="Qt"><br><sub>Qt</sub></a>&nbsp;&nbsp;
+  <a href="https://openjfx.io/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/openjdk-ED8B00-bafcf158.svg" width="40" alt="JavaFX"><br><sub>JavaFX</sub></a>&nbsp;&nbsp;
+  <a href="https://docs.oracle.com/javase/tutorial/uiswing/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/openjdk-FFFFFF-c5a38d0b.svg" width="40" alt="Java Swing"><br><sub>Java Swing</sub></a>&nbsp;&nbsp;
 </p>
 
-### 🔧 Development Tools
+### Operating Systems
 
 <p align="left">
-  <a href="https://www.vmware.com/" target="_blank"><img src="./assets/readme/external/vmware-607078-179db399.svg" width="40" alt="VMware"></a>
-  <a href="https://www.vmware.com/products/vsphere.html" target="_blank"><img src="./assets/readme/external/vmware-0078D4-b2cb941c.svg" width="40" alt="vSphere"></a>
+  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-windows8-windows8-original-c9a40368.svg" width="40" alt="Windows"><br><sub>Windows</sub></a>&nbsp;&nbsp;
+  <a href="https://www.apple.com/macos/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/apple-FFFFFF-18bc3f45.svg" width="40" alt="macOS"><br><sub>macOS</sub></a>&nbsp;&nbsp;
+  <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/kalilinux-a60853a6.svg" width="40" alt="Kali Linux"><br><sub>Kali Linux</sub></a>&nbsp;&nbsp;
+  <a href="https://ubuntu.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-linux-linux-original-15a14c53.svg" width="40" alt="Linux"><br><sub>Linux</sub></a>&nbsp;&nbsp;
+  <a href="https://ubuntu.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-linux-linux-original-15a14c53.svg" width="40" alt="Ubuntu"><br><sub>Ubuntu</sub></a>&nbsp;&nbsp;
+  <a href="https://fedoraproject.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-fedora-fedora-original-3a511053.svg" width="40" alt="Fedora"><br><sub>Fedora</sub></a>&nbsp;&nbsp;
 </p>
 
-<details>
-<summary><strong>🧰 More Tools, Testing, GUI & Operating Systems</strong></summary>
-
-### 🛠️ IDEs & Editors
-
-<p align="left">
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-visualstudio-visualstudio-plain-3e686761.svg" width="40" alt="Visual Studio"></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-vscode-vscode-original-9ecd94bd.svg" width="40" alt="Visual Studio Code"></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="./assets/readme/tech-stack/android-studio.svg" width="40" alt="Android Studio"></a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-pycharm-pycharm-original-b2fe29b4.svg" width="40" alt="PyCharm"></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-intellij-intellij-original-de22522d.svg" width="40" alt="IntelliJ IDEA"></a>
-  <a href="https://netbeans.apache.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-netbeans-netbeans-original-91a58fd8.svg" width="40" alt="NetBeans"></a>
-  <a href="https://github.com/getcursor/cursor" target="_blank"><img src="./assets/readme/external/assets-images-logo-11be51c8.svg" width="40" alt="Cursor"></a>
-  <a href="https://mrdoob.com/projects/chromeexperiments/google-gravity/" target="_blank"><img src="./assets/badges/Google-Gravity-Play-Now-black-a6980063.svg" alt="Google Gravity"></a>
-</p>
-
-### 📐 UML & Design Tools
-
-<p align="left">
-  <a href="https://plantuml.com/" target="_blank"><img src="./assets/readme/external/u-7387923-614f3c70.png" width="40" alt="PlantUML"></a>
-  <a href="https://www.diagrams.net/" target="_blank"><img src="./assets/readme/external/diagramsdotnet-F08705-9e8c79b5.svg" width="40" alt="draw.io"></a>
-  <a href="https://www.microsoft.com/microsoft-365/visio/" target="_blank"><img src="./assets/readme/external/u-6154722-3896b2e1.png" width="40" alt="Visio"></a>
-</p>
-
-### 🧪 Testing Tools & Frameworks
-
-<p align="left">
-  <a href="https://junit.org/junit5/" target="_blank"><img src="./assets/readme/external/junit5-25A162-9f8e765f.svg" width="40" alt="JUnit"></a>
-  <a href="https://site.mockito.org/" target="_blank"><img src="./assets/readme/external/u-2656033-a21d53c3.png" width="40" alt="Mockito"></a>
-  <a href="https://pytest.org/" target="_blank"><img src="./assets/readme/external/pytest-0A9EDC-7200b94a.svg" width="40" alt="Pytest"></a>
-</p>
-
-### 🖥️ GUI Development
-
-<p align="left">
-  <a href="https://www.qt.io/" target="_blank"><img src="./assets/readme/external/qt-41CD52-32ef5527.svg" width="40" alt="Qt"></a>
-  <a href="https://openjfx.io/" target="_blank"><img src="./assets/readme/external/openjdk-ED8B00-bafcf158.svg" width="40" alt="JavaFX"></a>
-  <a href="https://docs.oracle.com/javase/tutorial/uiswing/" target="_blank"><img src="./assets/readme/external/openjdk-FFFFFF-c5a38d0b.svg" width="40" alt="Java Swing"></a>
-</p>
-
-### 🖥️ Operating Systems
-
-<p align="left">
-  <a href="https://www.microsoft.com/windows/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-windows8-windows8-original-c9a40368.svg" width="40" alt="Windows"></a>
-  <a href="https://www.apple.com/macos/" target="_blank"><img src="./assets/readme/external/apple-FFFFFF-18bc3f45.svg" width="40" alt="macOS"></a>
-  <a href="https://www.kali.org/" target="_blank"><img src="./assets/readme/external/kalilinux-a60853a6.svg" width="40" alt="Kali Linux"></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-linux-linux-original-15a14c53.svg" width="40" alt="Linux"></a>
-  <a href="https://fedoraproject.org/" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-fedora-fedora-original-3a511053.svg" width="40" alt="Fedora"></a>
-</p>
-
-</details>
-
----
-
-<a id="development-environment"></a>
-
-## ⚙️ Development Environment
-
-- OS: Windows, Ubuntu, Kali Linux
-- Databases: SQL Server, PostgreSQL, MySQL, SQLite
-
----
-
-<a id="cloud--devops"></a>
-
-## ☁️ Cloud & DevOps
-
-<p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="./assets/badges/Azure-Cloud-blue-6c5591aa.svg" alt="Azure Cloud"></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="./assets/badges/AWS-Cloud-orange-13f301f0.svg" alt="AWS Cloud"></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="./assets/badges/Linux-System-Administration-black-fefe6d86.svg" alt="Linux"></a>
-</p>
 
 ---
 

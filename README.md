@@ -281,29 +281,29 @@ class AboutMe extends Me {
 <p align="left">
   <a href="https://flutter.dev" target="_blank"><img src="./assets/readme/tech-stack/flutter.svg" width="36" height="36" alt="Flutter icon"><br><sub>Flutter</sub></a>&nbsp;&nbsp;
   <a href="https://dart.dev" target="_blank"><img src="./assets/readme/tech-stack/dart.svg" width="36" height="36" alt="Dart icon"><br><sub>Dart</sub></a>&nbsp;&nbsp;
-  <a href="https://react.dev" target="_blank"><img src="./assets/readme/tech-stack/react.svg" width="36" height="36" alt="React icon"><br><sub>React</sub></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./assets/readme/tech-stack/html5.svg" width="36" height="36" alt="HTML5 icon"><br><sub>HTML5</sub></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./assets/readme/tech-stack/css3.svg" width="36" height="36" alt="CSS3 icon"><br><sub>CSS3</sub></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./assets/readme/tech-stack/javascript.svg" width="36" height="36" alt="JavaScript icon"><br><sub>JavaScript</sub></a>&nbsp;&nbsp;
+  <a href="https://react.dev" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-react-react-original-f3412fc9.svg" width="36" height="36" alt="React icon"><br><sub>React</sub></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-html5-html5-original-47188965.svg" width="36" height="36" alt="HTML5 icon"><br><sub>HTML5</sub></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-css3-css3-original-59019dde.svg" width="36" height="36" alt="CSS3 icon"><br><sub>CSS3</sub></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-javascript-javascript-original-e155cd6c.svg" width="36" height="36" alt="JavaScript icon"><br><sub>JavaScript</sub></a>&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank"><img src="./assets/readme/tech-stack/bootstrap.svg" width="36" height="36" alt="Bootstrap icon"><br><sub>Bootstrap</sub></a>&nbsp;&nbsp;
 </p>
 
 ### Backend & APIs
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="./assets/readme/tech-stack/python.svg" width="36" height="36" alt="Python icon"><br><sub>Python</sub></a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-python-python-original-5dca7381.svg" width="36" height="36" alt="Python icon"><br><sub>Python</sub></a>&nbsp;&nbsp;
   <a href="https://fastapi.tiangolo.com" target="_blank"><img src="./assets/readme/tech-stack/fastapi.svg" width="36" height="36" alt="FastAPI icon"><br><sub>FastAPI</sub></a>&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank"><img src="./assets/readme/tech-stack/php.svg" width="36" height="36" alt="PHP icon"><br><sub>PHP</sub></a>&nbsp;&nbsp;
   <a href="https://laravel.com" target="_blank"><img src="./assets/readme/tech-stack/laravel.svg" width="36" height="36" alt="Laravel icon"><br><sub>Laravel</sub></a>&nbsp;&nbsp;
-  <a href="https://www.rfc-editor.org/rfc/rfc9110" target="_blank"><img src="./assets/readme/tech-stack/rest-api.svg" width="36" height="36" alt="REST APIs icon"><br><sub>REST APIs</sub></a>&nbsp;&nbsp;
+  <a href="https://www.rfc-editor.org/rfc/rfc9110" target="_blank"><img src="./assets/readme/tech-stack/rest-api.svg" width="36" height="36" alt="REST API icon"><br><sub>REST API</sub></a>&nbsp;&nbsp;
 </p>
 
 ### Data, Cloud & AI
 
 <p align="left">
   <a href="https://firebase.google.com" target="_blank"><img src="./assets/readme/tech-stack/firebase.svg" width="36" height="36" alt="Firebase icon"><br><sub>Firebase</sub></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com" target="_blank"><img src="./assets/readme/tech-stack/mysql.svg" width="36" height="36" alt="MySQL icon"><br><sub>MySQL</sub></a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="./assets/readme/tech-stack/sql-server.svg" width="36" height="36" alt="SQL Server icon"><br><sub>SQL Server</sub></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-mysql-mysql-original-f068bf4a.svg" width="36" height="36" alt="MySQL icon"><br><sub>MySQL</sub></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-microsoftsqlserver-microsoftsqlserver-original-e6b7e84e.svg" width="36" height="36" alt="Microsoft SQL Server icon"><br><sub>Microsoft SQL Server</sub></a>&nbsp;&nbsp;
   <a href="https://ai.google.dev/gemini-api/docs" target="_blank"><img src="./assets/readme/tech-stack/gemini.svg" width="36" height="36" alt="Gemini API icon"><br><sub>Gemini API</sub></a>&nbsp;&nbsp;
   <a href="https://cloud.google.com/use-cases/retrieval-augmented-generation" target="_blank"><img src="./assets/readme/tech-stack/rag.svg" width="36" height="36" alt="RAG icon"><br><sub>RAG</sub></a>&nbsp;&nbsp;
 </p>
@@ -311,12 +311,12 @@ class AboutMe extends Me {
 ### Tools
 
 <p align="left">
-  <a href="https://git-scm.com" target="_blank"><img src="./assets/readme/tech-stack/git.svg" width="36" height="36" alt="Git icon"><br><sub>Git</sub></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-git-git-original-d0822bc5.svg" width="36" height="36" alt="Git icon"><br><sub>Git</sub></a>&nbsp;&nbsp;
   <a href="https://github.com" target="_blank"><img src="./assets/readme/tech-stack/github.svg" width="36" height="36" alt="GitHub icon"><br><sub>GitHub</sub></a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com" target="_blank"><img src="./assets/readme/tech-stack/vscode.svg" width="36" height="36" alt="VS Code icon"><br><sub>VS Code</sub></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-vscode-vscode-original-9ecd94bd.svg" width="36" height="36" alt="VS Code icon"><br><sub>VS Code</sub></a>&nbsp;&nbsp;
   <a href="https://developer.android.com/studio" target="_blank"><img src="./assets/readme/tech-stack/android-studio.svg" width="36" height="36" alt="Android Studio icon"><br><sub>Android Studio</sub></a>&nbsp;&nbsp;
-  <a href="https://www.postman.com" target="_blank"><img src="./assets/readme/tech-stack/postman.svg" width="36" height="36" alt="Postman icon"><br><sub>Postman</sub></a>&nbsp;&nbsp;
-  <a href="https://www.docker.com" target="_blank"><img src="./assets/readme/tech-stack/docker.svg" width="36" height="36" alt="Docker icon"><br><sub>Docker</sub></a>&nbsp;&nbsp;
+  <a href="https://www.postman.com" target="_blank"><img src="./assets/readme/external/logos-getpostman-getpostman-icon-3133174d.svg" width="36" height="36" alt="Postman icon"><br><sub>Postman</sub></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com" target="_blank"><img src="./assets/readme/external/devicons-devicon-master-icons-docker-docker-original-c33d3f9a.svg" width="36" height="36" alt="Docker icon"><br><sub>Docker</sub></a>&nbsp;&nbsp;
 </p>
 
 ---
@@ -652,8 +652,6 @@ Repository language cards below describe public repository composition and commi
   <a href="mailto:anasemadanas1@gmail.com"><img src="./assets/badges/Gmail-D14836.svg" alt="Gmail"></a>
   <a href="https://linkedin.com/in/eng-anasemad"><img src="./assets/badges/LinkedIn-0A66C2.svg" alt="LinkedIn"></a>
   <a href="https://github.com/anasemadanas"><img src="./assets/badges/GitHub-181717.svg" alt="GitHub"></a>
-  <a href="https://www.credly.com/users/anas-emad-sabri-al-shawiki"><img src="./assets/badges/Credly-FF6B00.svg" alt="Credly"></a>
-  <a href="https://orcid.org/0009-0000-7569-8202"><img src="./assets/badges/ORCID-A6CE39.svg" alt="ORCID"></a>
   <a href="https://anasemadanas.github.io/anas/index.html"><img src="./assets/badges/Portfolio-121013.svg" alt="Website"></a>
 </p>
 
@@ -664,6 +662,8 @@ Repository language cards below describe public repository composition and commi
   <a href="https://anasemadanas.wordpress.com/"><img src="./assets/badges/WordPress-21759B.svg" alt="WordPress"></a>
   <a href="https://anasemadanas.blogspot.com/"><img src="./assets/badges/Blogger-FF5722.svg" alt="Blogger"></a>
   <a href="https://anasemadanas1.wixsite.com/anas1"><img src="./assets/badges/Wix-000000.svg" alt="Wix"></a>
+    <a href="https://www.credly.com/users/anas-emad-sabri-al-shawiki"><img src="./assets/badges/Credly-FF6B00.svg" alt="Credly"></a>
+  <a href="https://orcid.org/0009-0000-7569-8202"><img src="./assets/badges/ORCID-A6CE39.svg" alt="ORCID"></a>
 </p>
 
 </details>
@@ -691,3 +691,7 @@ Repository language cards below describe public repository composition and commi
     <img src="./assets/static/Credit-Anas Emad-blue.svg" alt="Credit Anas Emad">
   </a>
 </p>
+
+<div align="center">
+<sub>Mobile applications · Web experiences · Practical AI integration</sub>
+</div>

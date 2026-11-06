@@ -550,6 +550,8 @@ Repository language cards below describe public repository composition and commi
   </a>
 </div>
 
+### 📊 GitHub Analytics
+
 <table>
   <tr>
     <td width="50%" align="center" valign="top">

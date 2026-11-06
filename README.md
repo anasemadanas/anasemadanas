@@ -392,6 +392,7 @@ These are manually maintained and reflect the languages I list in my skills; the
   <a href="https://ubuntu.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-linux-linux-original-15a14c53.svg" width="40" height="40" alt="Ubuntu"></a>&nbsp;&nbsp;
   <a href="https://fedoraproject.org/" target="_blank" rel="noopener noreferrer"><img src="./assets/readme/external/devicons-devicon-master-icons-fedora-fedora-original-3a511053.svg" width="40" height="40" alt="Fedora"></a>
 </p>
+
 ---
 
 <a id="certifications"></a>

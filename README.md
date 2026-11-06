@@ -1,6 +1,7 @@
 <a id="anas-emad---software-developer"></a>
 
 # Anas Emad - Software Developer
+
 <!-- Anas Al-shawiki - Cybersecurity & Malware Analysis Learner | @ZU -->
 
 ## 💡 Hero
@@ -536,22 +537,6 @@ Repository language cards below describe public repository composition and commi
       <img src="https://streak-stats.demolab.com/?user=anasemadanas&theme=nord_bright" width="100%" alt="GitHub contribution streak">
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anasemadanas&theme=nord_bright&timeZone=Asia%2FAmman" width="100%" alt="GitHub activity by time of day (Amman)" title="Productive time by commit timestamp in Asia/Amman">
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anasemadanas&theme=nord_bright" width="100%" alt="Languages by public repository code composition">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anasemadanas&theme=nord_bright" width="100%" alt="Languages by public repository commit activity">
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://ghstats.dev/api/sparkline?username=anasemadanas&theme=nord" width="100%" alt="GitHub contribution activity over the last 30 days">
-    </td>
-  </tr>
 </table>
 
 <details>
@@ -564,6 +549,25 @@ Repository language cards below describe public repository composition and commi
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=anasemadanas&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" alt="GitHub trophies">
   </a>
 </div>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anasemadanas&theme=nord_bright&timeZone=Asia%2FAmman" width="100%" alt="GitHub activity by time of day (Amman)" title="Productive time by commit timestamp in Asia/Amman">
+    </td>
+        <td width="50%" align="center" valign="top">
+      <img src="https://ghstats.dev/api/sparkline?username=anasemadanas&theme=nord" width="100%" alt="GitHub contribution activity over the last 30 days">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anasemadanas&theme=nord_bright" width="100%" alt="Languages by public repository code composition">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anasemadanas&theme=nord_bright" width="100%" alt="Languages by public repository commit activity">
+    </td>
+  </tr>
+</table>
 
 ### 🔥 Contribution Calendar
 

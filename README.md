@@ -274,6 +274,8 @@ class AboutMe extends Me {
 
 <a id="skills"></a>
 
+### 🛠️ Tech Stack
+
 <details>
 <summary><b>🛠️ Tech Stack</b></summary>
 <br>

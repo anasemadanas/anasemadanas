@@ -521,22 +521,38 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
 
 ## 📊 GitHub Stats
 
+Repository language cards below describe public repository composition and commit activity; the Programming Languages section above is maintained separately.
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=github_dark" width="100%" alt="GitHub profile overview">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasemadanas&theme=nord_bright" width="100%" alt="GitHub profile overview">
 </div>
 
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anasemadanas&theme=github_dark" width="100%" alt="GitHub statistics">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anasemadanas&theme=nord_bright" width="100%" alt="GitHub statistics">
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=anasemadanas&theme=dark" width="100%" alt="GitHub contribution streak">
+      <img src="https://streak-stats.demolab.com/?user=anasemadanas&theme=nord_bright" width="100%" alt="GitHub contribution streak">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anasemadanas&theme=nord_bright&timeZone=Asia%2FAmman" width="100%" alt="GitHub activity by time of day (Amman)" title="Productive time by commit timestamp in Asia/Amman">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anasemadanas&theme=nord_bright" width="100%" alt="Languages by public repository code composition">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anasemadanas&theme=nord_bright" width="100%" alt="Languages by public repository commit activity">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://ghstats.dev/api/sparkline?username=anasemadanas&theme=nord" width="100%" alt="GitHub contribution activity over the last 30 days">
     </td>
   </tr>
 </table>
-
-> **Activity graph:** The upstream `github-readme-activity-graph.vercel.app` deployment currently responds with HTTP 402, so its image is omitted to avoid a broken card. A reliable public alternative could not be verified; restoring this graph would require a working upstream service or a separately configured deployment.
 
 <details>
 <summary><strong>🏆 Extra GitHub Widgets</strong></summary>
@@ -585,9 +601,9 @@ Backend-oriented AI experiments with local LLM tooling, model APIs, and automati
   <a href="mailto:anasemadanas1@gmail.com"><img src="./assets/badges/Gmail-D14836.svg" alt="Gmail"></a>
   <a href="https://linkedin.com/in/eng-anasemad"><img src="./assets/badges/LinkedIn-0A66C2.svg" alt="LinkedIn"></a>
   <a href="https://github.com/anasemadanas"><img src="./assets/badges/GitHub-181717.svg" alt="GitHub"></a>
-  <a href="https://anasemadanas.github.io/"><img src="./assets/badges/Portfolio-121013.svg" alt="Portfolio"></a>
   <a href="https://www.credly.com/users/anas-emad-sabri-al-shawiki"><img src="./assets/badges/Credly-FF6B00.svg" alt="Credly"></a>
   <a href="https://orcid.org/0009-0000-7569-8202"><img src="./assets/badges/ORCID-A6CE39.svg" alt="ORCID"></a>
+  <a href="https://anasemadanas.github.io/anas/index.html"><img src="./assets/badges/Portfolio-121013.svg" alt="Website"></a>
 </p>
 
 <details>

@@ -1,20 +1,7 @@
-# Prepared locally for future use; this file is not activated while it remains uncommitted.
-# To activate it later, commit and push this workflow to the repository's default branch,
-# enable GitHub Actions for the repository, and add a repository Actions secret named
-# SUMMARY_GITHUB_TOKEN. Use a token that can read the public GitHub data and write generated
-# files to this repository (for a fine-grained PAT, grant this repo Contents: Read and write;
-# a classic PAT generally needs public_repo and read:user for public data, with write access).
-# The action below auto-pushes its generated cards, so the workflow needs contents: write
-# access via the Actions GITHUB_TOKEN repository setting or an explicit workflow permission.
-# Neither permissions nor secrets are configured in this prepared file.
-# Once activated, schedule runs daily at 00:17 UTC. To run it manually, open Actions,
-# select "Update GitHub Analytics", then choose "Run workflow"; workflow_dispatch is enabled.
 
 name: Update GitHub Analytics
 
 on:
-  schedule:
-    - cron: "17 0 * * *"
   workflow_dispatch:
 
 jobs:
